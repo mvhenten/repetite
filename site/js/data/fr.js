@@ -1,7 +1,7 @@
 import Assignments from "../lib/assignments.js";
 
 const raw = `
-; apprendre 1 & 2
+; Unité 1: Apprendre 1 & 2
 twee meisjes -- deux filles 
 twee jongens -- deux garçons 
 daar is, hier is -- voilà 
@@ -31,14 +31,14 @@ een dorp -- un village
 een stad -- une ville 
 een land -- un pays 
 Frankrijk -- la France 
-; apprendre 4
+; Unité 1: Apprendre 4
 hoe heet jij -- comment tu t'appelles
 ik heet -- je m'appelle
 zij heet  -- elle s'appelle
 hoe heet hij -- comment il s'appelle
 hij heet  -- il s'appelle
 dit is Tim -- voilà Tim
-; apprendre 5
+; Unité 2: Apprendre 5
 de tas  -- le sac
 je hebt, heb je			  --		tu as 
 het problem   -- le problème 
@@ -66,10 +66,27 @@ ik ben  -- je suis
 de klas  -- la classe
 het is tijd  -- c'est l'heure
 we gaan naar binnen  -- on entre
-; test
-test1 -- test1
-test2 -- test2
-test3 -- test3
+; Unité 1: Apprendre 7 & 8
+(het gaat) goed -- ça va bien
+dank je wel, dank u wel -- merci
+tot ziens -- au revoir
+hij ontmoet -- il rencontre
+van -- de
+hoi -- salut
+hoe gaat het -- ça va?
+goed -- bien
+dag -- bonjour
+inderdaad; zo is het -- c'est ça
+iedereen -- tout le monde
+mevrouw -- madame
+welkom -- bienvenu
+tevreden, blij -- content
+al -- déjà
+de leraar -- le professeur
+zij zijn -- ils sont
+ik heb -- j'ai
+met -- avec
+veel succes -- bonne chance
 `;
 
 const assignments = new Assignments(raw);
