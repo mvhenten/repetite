@@ -1,9 +1,13 @@
+import { h, Component, render } from './vendor/preact.js';
+
 import Questions from "./lib/questions.js";
 import ElementContainer from "./lib/component/container.js";
 import FormContainer from "./lib/component/form.js";
 import ProgressContainer from "./lib/component/progress.js";
 import FinishContainer from "./lib/component/finish.js";
 import KeyBoardHandler from "./lib/component/keyboard.js";
+
+
 
 
 const formContainer = new FormContainer("#answers");
@@ -14,6 +18,21 @@ const finishContainer = new FinishContainer("#finish");
 const assignmentsFormContainer = new FormContainer("#assignments");
 
 import assignments from "./data/fr.js";
+
+
+// Create your app
+const app = h('div', null, 'Hello World!');
+
+// class App extends Component {
+//   render() {
+//     return <h1>Hello, world!</h1>;
+//   }
+// }
+
+// Inject your application into the an element with the id `app`.
+// Make sure that such an element exists in the dom ;)
+render(app, document.body);
+
 
 const init = () => {
     const select = document.querySelector("#assignments-assignment");
