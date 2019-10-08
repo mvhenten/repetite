@@ -1,3 +1,5 @@
+import Assignments from "../lib/assignments.js";
+
 const words = `
 abonnement
 A4'tje
@@ -103,3 +105,6 @@ van tevoren
 verrassing
 yoghurt
 `
+const assignments = new Assignments(words);
+
+export default assignments;
