@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> </title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../css/style.css">
+</head>
+
+<body>
+
+    <style>
+    </style>
+
+    <a id="homelink" href="../index.html"> 🏠 Home</a>
+    <h4 id="progress">
+    </h4>
+
+    <div class="container">
+        <h1 id="finish">bravo</h1>
+        <h3 id="help"></h3>
+        <h3 id="questions"></h3>
+        <form id="assignments">
+            <label>
+                Select            
+                <select id="assignments-assignment" name="assignment"></select>
+            </label>
+            <input type="submit" value="select" />
+        </form>
+        <form id="settings">
+            <label for="timeout">
+                snelheid:
+                <input value="5" min="1" max="10" type="number" name="timeout" id="settings-timeout" />
+            </label>
+            <input type="submit" value="start" />
+        </form>
+        <form id="answers">
+            <input autoFocus type="text" autocomplete="off" name="answer" placeholder="répondre" />
+        </form>
+    </div>
+    
+    <script type="module" src="../../js/app.js"></script>
+
+</body>
+
+</html>

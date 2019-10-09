@@ -13,9 +13,16 @@ const helpContainer = new ElementContainer("#help");
 const finishContainer = new FinishContainer("#finish");
 const assignmentsFormContainer = new FormContainer("#assignments");
 
-import assignments from "./data/fr.js";
+import fr from "./data/fr.js";
+import en from "./data/en.js";
+import nl from "./data/nl.js";
 
-const init = () => {
+const lang = document.location.pathname.slice(-13, -11);
+const assignments = {fr, en, nl};
+
+
+const init = (assignments) => {
+    if (!assignments) return;
     const select = document.querySelector("#assignments-assignment");
 
     for (let header of assignments.keys) {
@@ -38,7 +45,9 @@ const init = () => {
     return;
 };
 
-init();
+
+
+init(assignments[lang]);
 
 const quizz = (words) => {
     let timeout = 5000;

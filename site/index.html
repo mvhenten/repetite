@@ -4,118 +4,26 @@
 <head>
     <title> </title>
     <meta charset="utf-8" />
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 
 <body>
 
     <style>
-        body {
-            font-family: sans-serif;
-        }
-
-        .container {
-            height: 80vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-
-        @keyframes fadeIn {
-            0% {
-                opacity: 0;
-            }
-            100% {
-                opacity: 1;
-            }
-        }
-        
-        form, h3 {
-            animation: fadeIn ease 500ms;
-            text-align: center;
-            font-size: 48px;
-            font-weight: normal;
-        }
-
-        #questions,
-        #settings {
-            display: none;
-            opacity: 0;
-        }
-
-        #finish {
-            display: none;
-            color: #090;
-            font-size: 75px;
-            text-align: center;
-        }
-
-        #help {
-            display: none;
-            opacity: 0;
-            animation: fadeIn ease 1s;
-            text-align: center;
-            font-size: 48px;
-            color: #cc0000;
-            font-weight: normal;
-        }
-        
-        #answers {
-            display: none;
-        }
-
-        form input[type="text"],
-        form input[type="number"] {
-            border: 0;
-            outline: none;
-            font-size: 48px;
-            animation: fadeIn ease 1s;
-            box-sizing: border-box;
-            margin: 1em auto;
-            width: 100%;
-            text-align: center;
-        }
-        
-        select {
-            font-size: 36px;
-        }
-        
-        form input[type="submit"] {
-            font-size: 36px;
-            border: 1px solid #099;
-            border-radius: 10px;
-            background-color: #099;
-            color: #fff;
-            padding: 5px 15px;
-        }
     </style>
 
     <h4 id="progress">
     </h4>
 
     <div class="container">
-        <h1 id="finish">bravo</h1>
-        <h3 id="help"></h3>
-        <h3 id="questions"></h3>
-        <form id="assignments">
-            <label>
-                Select            
-                <select id="assignments-assignment" name="assignment"></select>
-            </label>
-            <input type="submit" value="select" />
-        </form>
-        <form id="settings">
-            <label for="timeout">
-                snelheid:
-                <input value="5" min="1" max="10" type="number" name="timeout" id="settings-timeout" />
-            </label>
-            <input type="submit" value="start" />
-        </form>
-        <form id="answers">
-            <input autoFocus type="text" autocomplete="off" name="answer" placeholder="répondre" />
-        </form>
+        <div id="flags">
+            <a href="./en/index.html">🇬🇧 English</a>
+            <a href="./fr/index.html">🇫🇷 François</a>
+            <a href="./nl/index.html">🇳🇱 Nederlands</a>
+        </div>
     </div>
     
-    <script type="module" src="./js/app.js"></script>
+    <script type="module" src="../js/app.js"></script>
 
 </body>
 
