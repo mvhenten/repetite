@@ -35,11 +35,12 @@ const init = (assignments) => {
 
     assignmentsFormContainer.onSubmitOnce(() => {
         const selected = assignmentsFormContainer.getValue("assignment");
+        const mode = assignmentsFormContainer.getValue("mode");
 
         const words = assignments.getWords(selected);
         assignmentsFormContainer.hide();
 
-        quizz(words);
+        quizz(words, mode);
     });
 
     return;
@@ -49,11 +50,11 @@ const init = (assignments) => {
 
 init(assignments[lang]);
 
-const quizz = (words) => {
+const quizz = (words, mode) => {
     let timeout = 5000;
     let speed = 2;
 
-    const questions = new Questions(words);
+    const questions = new Questions(words, mode);
     const progressContainer = new ProgressContainer("#progress", questions);
     const keyboard = new KeyBoardHandler();
     settingsContainer.show();

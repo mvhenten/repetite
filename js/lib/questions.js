@@ -1,8 +1,10 @@
 class Questions {
-    constructor(questions) {
+    constructor(questions, mode) {
+        console.log(mode, "mode");
         this._questions = questions;
         this._queue = Array.from(questions);
         this._failed = new Set();
+        this._practice = mode == "practice";
         this._retry = 0;
     }
 
@@ -23,7 +25,13 @@ class Questions {
     }
 
     get current() {
-        return this.last;
+        let [question, answer] = this.last;
+        
+        if (this._practice) {
+            question = `${question}: ${answer}`;
+        }
+
+        return [question, answer];
     }
     
     get failed() {

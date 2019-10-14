@@ -92,3 +92,16 @@ form input[type="submit"] {
     color: #fff;
     padding: 2px 15px;
 }
+
+.text-medium {
+    font-size: medium;
+}
+
+.padding-1 {
+    padding: 1em;
+}
+
+
+.spaced-2x>* {
+    margin-right: 1ch!important;
+}
