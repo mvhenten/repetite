@@ -25,7 +25,17 @@
                 Select            
                 <select id="assignments-assignment" name="assignment"></select>
             </label>
-            <input type="submit" value="select" />
+            <div class="text-medium padding-1 spaced-2x">
+                <label for="mode-test">
+                    <input id="mode-test" checked name="mode" value="test" type="radio" />
+                    Testen
+                </label>
+                <label for="mode-practice">
+                    <input id="mode-practice" name="mode" value="practice" type="radio" />
+                    Oefenen
+                </label>
+            </div>
+            <input type="submit" value="start" />
         </form>
         <form id="settings">
             <label for="timeout">

@@ -21,8 +21,16 @@ class FormContainer extends ElementContainer {
 
     getValue(name) {
         for (let e of this.element.elements) {
-            if (e.name == name)
-                return e.value;
+            if (e.name == name) {
+                switch(e.type) {
+                    case "radio":
+                    case "checkbox":
+                        if (e.checked) return e.value;
+                        break;
+                    default:
+                        return e.value;
+                }
+            }
         }
     }
 

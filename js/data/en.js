@@ -4,20 +4,20 @@ const raw = `
 ; Family
 tante -- aunt
 vriendje -- boyfriend
-nicht, neef -- cousin
+nicht, neef (kind van tante) -- cousin
 vriendinnetje -- girlfriend
 kleindochter -- granddaughter
 kleinzoon -- grandson
 halfbroer -- half brother
-man -- husband
+man, echtgenoot -- husband
 neef -- nephew
 nicht -- niece
 broers en zussen -- siblings
 stiefvader -- stepfather
 stiefmoeder -- stepmother
-tweelingen -- twins
+tweeling -- twins
 oom -- uncle
-vrouw, echtgenote -- wife
+vrouw, echtgenoote -- wife
 ; Dates and things
 adres -- address
 verjaardag -- birthday
