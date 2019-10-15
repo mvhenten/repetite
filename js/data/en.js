@@ -117,15 +117,15 @@ zestien -- sixteen
 zeventien -- seventeen
 achttien -- eighteen
 negentien -- nineteen
-wit –– white
-geel –– yellow
-blauw –– blue
-zwart –– black
-grijs –– grey
-roze –– pink
-paars –– purple
-oranje –– orange
-groen –– green
+wit -- white
+geel -- yellow
+blauw -- blue
+zwart -- black
+grijs -- grey
+roze -- pink
+paars -- purple
+oranje -- orange
+groen -- green
 ; School
 NET -- Dutch
 WI -- mathematics
