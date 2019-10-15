@@ -77,7 +77,120 @@ anderen -- others
 ouders -- parents
 restaurant -- restaurant
 universiteit -- university
-`;
+; Days and Months
+maandag -- Monday
+dinsdag -- Tuesday
+woensdag -- Wednesday
+donderdag --  Thursday
+vrijdag  -- Friday
+zaterdag  -- Saturday
+zondag -- Sunday
+january -- January
+februari -- February
+maart -- March
+april -- April
+mai -- May
+juni -- June
+juli -- July
+augustus -- August
+september -- September
+oktober -- October
+november -- November
+december -- December
+; Numbers and Colours
+een -- one
+twee -- two
+drie -- three
+vier -- four
+vijf -- five
+zes -- six
+seven -- zeven
+acht -- eight
+negen -- nine
+tien -- ten
+elf -- eleven
+twaalf -- twelve
+dertien -- thirteen
+viertien -- fourteen
+vijftien -- fifteen
+zestien -- sixteen
+zeventien -- seventeen
+achttien -- eighteen
+negentien -- nineteen
+wit –– white
+geel –– yellow
+blauw –– blue
+zwart –– black
+grijs –– grey
+roze –– pink
+paars –– purple
+oranje –– orange
+groen –– green
+; School
+NET -- Dutch
+WI -- mathematics
+AK --geography
+GES -- history
+L.O. -- physical education
+BNW -- basic science
+EF -- English Fast Lane
+FAT -- French
+; For Sale
+boekwinkel -- bookshop
+sportwinkel -- sports shop
+kleren -- clothes
+boeken -- books
+landkaart -- map
+tijdschrift -- magazine
+verjaardagskaart -- birthday card
+markt -- market
+supermarkt -- supermarket
+drogist -- chemist
+zeep -- soap
+shampoo -- shampoo
+hoest sap -- cough medicine
+warenhuis -- department store
+riem -- belt
+camera -- camera
+zonnebril -- sunglasses
+trui -- sweater
+paraplu -- umbrella
+portemonnee -- wallet
+geld -- money
+fiets -- bicycle
+roltrap -- escalator
+; Breakfast, Lunch and Diner
+wortels -- carrots
+kaas -- cheese
+vis -- fish
+brood -- bread
+taart -- cake
+vlees -- meat
+tomaten -- tomatoes
+appels -- apples
+aardappels -- potatoes
+eieren -- eggs
+ijs -- ice cream
+limonade -- lemonade
+salade -- salad
+druiven -- grapes
+noedels -- pasta
+kip -- chicken
+joghurt -- yogurt
+koffie -- coffee
+bananen -- bananas
+chocolade -- chocolate
+melk -- milk
+paddenstoelen -- mushrooms
+koekjes -- biscuit
+tee -- tea
+uien -- onions
+olie -- oil
+koekenpan -- baking pan
+toetje -- dessert
+borden -- plates
+bestek -- cutlery
+tafel -- table`;
 
 const assignments = new Assignments(raw);
 
