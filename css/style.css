@@ -1,5 +1,12 @@
 body {
     font-family: sans-serif;
+    color: #444;
+    background-color: #eee;
+}
+
+.night {
+    color: #eee;
+    background-color: #444;
 }
 
 .container {
@@ -34,10 +41,13 @@ form, h3 {
     font-size: 30px;
 }
 
-#homelink {
-    float: right;
-    text-decoration: none;
+.pull-right {
     padding-right: 2em;
+    float: right;
+}
+
+a {
+    text-decoration: none;
     color: inherit;
 }
 
@@ -78,6 +88,11 @@ form input[type="number"] {
     margin: 1em auto;
     width: 100%;
     text-align: center;
+}
+
+.night form input {
+    background-color: inherit !important;
+    color: inherit !important;
 }
 
 select {
