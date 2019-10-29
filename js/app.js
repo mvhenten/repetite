@@ -1,9 +1,14 @@
+import { html, render } from 'https://unpkg.com/htm/preact/standalone.module.js'
+
 import Questions from "./lib/questions.js";
 import ElementContainer from "./lib/component/container.js";
 import FormContainer from "./lib/component/form.js";
 import ProgressContainer from "./lib/component/progress.js";
 import FinishContainer from "./lib/component/finish.js";
 import KeyBoardHandler from "./lib/component/keyboard.js";
+import AppContainer from "./lib/component/app.js";
+
+
 
 
 const formContainer = new FormContainer("#answers");
@@ -35,8 +40,12 @@ const initDarkMode = () => {
 const init = (assignments) => {
     if (!assignments) return;
     
-    initDarkMode();
+    const appContainer = new AppContainer(".container");
+    
+    render(appContainer.render(), document.body);
+    
     const select = document.querySelector("#assignments-assignment");
+    initDarkMode();
 
     for (let header of assignments.keys) {
         let option = document.createElement("option");

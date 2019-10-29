@@ -30,6 +30,14 @@ class FinishContainer extends ElementContainer {
         
         super.show();
     }
+    
+    render() {
+        const h1 = document.createElement("h1");
+        h1.id = "finish";
+        h1.innerText = "finish";
+        
+        return h1;
+    }
 }
 
 export default FinishContainer;
