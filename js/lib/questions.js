@@ -1,6 +1,5 @@
 class Questions {
     constructor(questions, mode) {
-        console.log(mode, "mode");
         this._questions = questions;
         this._queue = Array.from(questions);
         this._failed = new Set();

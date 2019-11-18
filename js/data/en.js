@@ -1,247 +1,159 @@
 import Assignments from "../lib/assignments.js";
 
-const Stone123 = `
-; Stone 1: Inviting people
-Ik vroeg me af of je zin hebt om vrijdag mee te gaan naar de drive-in bioscoop -- I was wondering if you'd like to go to the drive-in cinema on Friday
-Zou je volgende week met mij naar het schoolgala willen gaan -- Would you like to join me at the prom next week
-Ja, dat is goed -- Yes, I would
-Nee, dat wil ik niet -- No, I wouldn't
-Heb je zin om na school samen te gaan winkelen -- Do you fancy going shopping together after school
-Heb je interesse om te lasergamen vandaag -- Would you be interested in having a laser-tag match today
-Ik zou graag met je mee willen naar het pianoconcert dit weekend -- I'd like to accompany you to the piano recital this weekend
-We nemen je heel graag mee naar het filmfestival in het park morgen -- We'd be delighted to take you to the film festival in the park tomorrow
-Dank je. Ik zou heel graag willen komen -- Thank you. I'd love to come
-Goed idee! Wij wonen het festival graag bij -- Great idea! we'd like to attend the festival
-Sorry, maar ik kan niet -- I'm sorry, but I can't
-Helaas, ik ben niet in staat te komen -- Unfortunately, I'm unable to make it
-; Stone 2: Asking for and giving permission
-Mag ik wat virenden uitnodigen -- Can I invite some friends over
-Kunnen we deze zaal huren voor een afstudeerfeestje -- Could we rent this venue for a graduation party
-Mag ik het hoofdgerecht bestellen alstublieft -- Can I order the main course, please?
-Heb ik toestemming om volgende week naar het school gala te gaan -- Am I allowed to attend the school dance next week
-Is het goed als wij zondag een slaapfeestje geven -- Would it be all right if we throw a slumber party on Friday
-Ja dat is prima -- Yes that's fine
-Natuurlijk. Dat is goed -- Of course. That'd be all right
-Ik vroeg me af of ik je fiets vanavond mag lenen -- I was wondering if I could use your bike tonight
-Ik hoopte dat je me dit weekend naar het concert zou laten gaan -- I was hoping you would let me attend the concert this weekend
-Mag ik een evenement organiseren op deze locatie -- May I organise an event at this location
-Is het toegestaan om hier foto's te maken -- Is it permitted to take photographs here
-Sorry, dat is niet mogelijk -- I'm sorry, that's not possible
-Nee, dat mag je niet. Je hebt de volgende dag een toets -- No, you can't. you have a test the next day
-Ga je gang. Dat is prima -- Go ahead. That would be fine
-Natuurlijk mag je dat. Geen probleem -- Of course you can. No problem
-; Stone 3: Making plans and reservations
-Wat ga je vanavond doen -- What are you going to do tonight
-Wat zijn je plannen voor morgen -- What are your plans for tomorrow
-Waarom gaan we niet samen iets doen -- Why don't we hang out together
-Wil je naar dit feestje to -- Do you want to go to this party
-Ik zou graag willen reserveren voor donderdag avond -- I'd like to make a reservation for Thursday evening
-Ik bel om een tafel voor twee personen te reserveren -- I'm calling to book a table for two
-Kan ik kaarten reserveren voor de hogesnelheidstrein naar Parijs -- Could I reserve tickets for the high-speed train to Paris
-Is het nog steeds mogelijk om twee kaartjes te kopen met vroegboekkorting -- Is it still possible to purchase tickets with early-bird discount
-Je moet de kaartjes om half acht ophalen -- You need to pick up the tickets at half past seven
-Je moet een half uur voordat de film begint aanwezig zijn -- You ought to be there half an hour before the film starts
-De vertoning begint om vijf uur, dus zullen we de bus van vier uur nemen -- The screening begins at five o'clock, so shall we get the four o'clock bus
-De volleybalwedstrijd begint om half zeven, dus ik heb om drie uur met mijn vrienden afgesproken -- The volleyball match starts at half past six, so I'm meeting my friends at 3pm
-De signeersessie is om 16.30 uur, dus we moeten om half vier vertrekken -- The book signing is at 4.30pm, so we should leave at half past three
-Ik ga naar een comedy-improvisatieshow. Het wordt hilarisch -- I'm going to see an improv comedy show. It will be hilarious
-We gaan meedoen aan een recordpoging. het wordt de beste nacht ooit -- We're going to participate in a record attempt. It'll be the greatest night ever
-We kunnen de metro naar huis nemen. Hij vertrekt om half twaalf -- We could take the metro home. It leaves at half past eleven
-We moeten de bus nemen naar de bioscoop. Hij doet er maar vijftien minuten over -- We have to catch the bus to the cinema . It only takes fifteen minutes
+const raw = `
+; Second theme A: Listening (p33)
+handvaardigheid -- arts and crafts 
+atletiek -- athletics 
+beschikbaar -- available 
+bouwen -- build 
+uitdaging -- challenge 
+scheikunde -- chemistry 
+beklimmen -- climb 
+stripboek -- comic 
+strijden tegen -- compete against 
+gesprek -- conversation 
+gek op -- crazy about 
+ontwerp -- design 
+tekenen -- draw 
+leuk vinden -- enjoy 
+schuld -- fault 
+rondhangen -- hang out 
+schaatsen -- ice skating 
+onder de indruk -- impressed 
+in plaats van -- instead of 
+interesse hebben in -- be into 
+inschrijven -- sign up 
+superheld -- superhero 
+de hond uitlaten -- walk the dog 
+fluisteren -- whisper 
+; Second theme B: Theme Words (p33)
+tekenen (kunst) -- art 
+opdracht -- assignment 
+spieken -- cheat 
+nablijven -- detention 
+Nederlands -- Dutch 
+examen -- exam 
+oefening -- exercise 
+zakken voor -- fail 
+aardrijkskunde -- geography 
+wiskunde -- maths 
+slagen voor -- pass 
+lichamelijke opvoeding -- physical education 
+leren voor -- study for 
+vak -- subject 
+leraar, lerares -- teacher 
+toets -- test 
+; Second theme C: Reading
+geweldig -- awesome 
+kampioen -- champion 
+zeker -- definitely 
+ontwikkeling -- development 
+energie -- energy 
+middelbare school -- high school 
+les -- lesson 
+officieel -- official 
+uitlaatklep -- outlet 
+kans -- opportunity 
+positief -- positive 
+natuurkunde en scheikunde -- science 
+several meerdere, verschillende
+maatschappijleer -- social studies 
+vrije tijd -- spare time 
+lente -- spring 
+lesrooster -- timetable 
+afwisseling -- variety 
+golf -- wave 
+trefbal -- doge ball 
+voetbal -- football 
+Frans -- French 
+geschiedenis -- history 
+roman -- novel 
+verhaal -- story 
+; Second theme G: Listening
+fiets -- biycle 
+afszeggen -- cancel 
+jas -- coat 
+gang -- corridor 
+afszetten -- drop off 
+verwachten -- expect 
+erachter komen -- find out 
+lekke band -- flat tyre 
+vergeten -- forget 
+opschieten -- hurry up 
+lachen -- laugh 
+preek -- lecture 
+manieren -- manners 
+netjes -- neatly 
+lesuur -- period 
+beleefd -- polite 
+presentatie -- presentation 
+opluchting -- relief 
+regel -- rule 
+schootas -- school bag 
+string -- strict 
+verkeersopstopping -- traffic jam 
+helaas -- unfortunately 
+; Second theme H: Reading
+voordeel -- advantage 
+andacht -- attention 
+conentreren -- concentrate 
+afgeleid -- distracted 
+onderwijs -- education 
+uitblinken -- excel 
+uitleggen -- explain 
+excursie -- field trip 
+aansluiten bij -- join 
+niveau -- level 
+eenzaam -- lonely 
+geluk hebben -- be lucky 
+meedoen -- participate 
+pyjama -- pyjamas 
+zelfstudie-uur -- study period 
+begrijpen -- understand 
+vrijwillig meedoen -- volunteer 
+pauze -- break 
+klaslokaal -- classroom 
+mentor uur -- tutor hour 
+twee keer -- twice 
+; Second theme: proverbs & Sayings
+van fouten kun je leren -- Faillure is the stepping stone for success 
+Gedult is een schone zaak -- Patience is a virtue 
+Hoe meer je weet, hoe minder je gelooft -- The more one knows, the less one believes 
+Met geschreven woord bereik je meer dan met fysieke kracht -- The pen is mightier than the sword 
+Je weet niet wat je kunt todat je het probeert -- You never know what you can do until you try 
+; Theme two Grammar: Ordinals (rangtelwoorden)
+een -- one 
+twee -- two 
+drie -- three 
+vier -- four 
+vijf -- five 
+zes -- six 
+even -- seven 
+acht -- eight 
+negen -- nine 
+tien -- ten 
+twintig -- twenty 
+eenentwintig -- twenty-one 
+dertig -- thirty 
+tweëendertig -- thirty-two 
+veertig -- forty 
+tweëenveertig -- forty-two 
+eerste -- first 
+tweede -- second 
+derde -- third 
+vierde -- fourth 
+vijfde -- fifth 
+zesde -- sixth 
+zevende -- seventh 
+achtste -- eighth 
+negende -- ninth 
+tiende -- tenth 
+twintigste -- twentieth 
+éénentwintigste -- twenty-first 
+tweëendertigste -- thirty-second 
+drieëenveertigste -- forty-third 
 `;
 
-const raw = `
-; Family
-tante -- aunt
-vriendje -- boyfriend
-nicht, neef (kind van tante) -- cousin
-vriendinnetje -- girlfriend
-kleindochter -- granddaughter
-kleinzoon -- grandson
-halfbroer -- half brother
-man, echtgenoot -- husband
-neef -- nephew
-nicht -- niece
-broers en zussen -- siblings
-stiefvader -- stepfather
-stiefmoeder -- stepmother
-tweeling -- twins
-oom -- uncle
-vrouw, echtgenoote -- wife
-; Dates and things
-adres -- address
-verjaardag -- birthday
-geboren -- born
-Brits -- British
-voornaam -- first name
-mobiele telfoonnummer -- mobile phone number
-nationaliteit -- nationality
-persoonlijke gegevens -- personal information
-postcode -- postcode
-; On holiday
-in het buitenland -- abroad
-verbazingwekkend -- amazing
-saai -- boring
-ravijn -- canyon
-vies -- dirty
-enorm -- enormous
-duur -- expensive
-veerboot -- ferry boat
-vuurwerk -- fireworks
-tuin -- garden
-feestdag -- holiday
-uitverkocht -- sold out
-tijd doorbrengen -- spend time
-vergieten / morsen -- spill
-; Sayings
-Heel goed bevriend zijn -- As thick as thieves
-Het hemd is nader dan de rok -- Blood is thicker than water
-Behandel anderen zoals je door hen behandeld wilt worden -- Love your neighbour as yourself
-Goede vrienden zijn er altijd voor je -- The road to a friend’s house is never long
-Je kunt je vrienden uitzoeken maar je familie niet -- You can choose your friends, but you can’t choose your family
-; Lesson 01
-geven om -- care about
-dagelijks -- daily
-anders -- different
-moeite -- effort
-in verlegenheid brengen -- embarrass
-geheel, gehele -- hole
-opwinding -- excitement
-ervaring -- experience
-veranda -- front porch
-volhouden -- keep up
-ochtend -- morning
-familielid -- relative
-belonen -- reward
-uitslapen -- sleep in
-besparen -- spare
-zwembroek -- swim trunks
-tiener -- teenager
-sensatie -- thrill
-zwaaien -- wave
-dragen (van kleding) -- wear
-bekend(e) -- well-known
-actrice -- actress
-vriend(in) -- friend
-anderen -- others
-ouders -- parents
-restaurant -- restaurant
-universiteit -- university
-; Days and Months
-maandag -- Monday
-dinsdag -- Tuesday
-woensdag -- Wednesday
-donderdag --  Thursday
-vrijdag  -- Friday
-zaterdag  -- Saturday
-zondag -- Sunday
-january -- January
-februari -- February
-maart -- March
-april -- April
-mai -- May
-juni -- June
-juli -- July
-augustus -- August
-september -- September
-oktober -- October
-november -- November
-december -- December
-; Numbers and Colours
-een -- one
-twee -- two
-drie -- three
-vier -- four
-vijf -- five
-zes -- six
-seven -- zeven
-acht -- eight
-negen -- nine
-tien -- ten
-elf -- eleven
-twaalf -- twelve
-dertien -- thirteen
-viertien -- fourteen
-vijftien -- fifteen
-zestien -- sixteen
-zeventien -- seventeen
-achttien -- eighteen
-negentien -- nineteen
-wit -- white
-geel -- yellow
-blauw -- blue
-zwart -- black
-grijs -- grey
-roze -- pink
-paars -- purple
-oranje -- orange
-groen -- green
-; School
-NET -- Dutch
-WI -- mathematics
-AK --geography
-GES -- history
-L.O. -- physical education
-BNW -- basic science
-EF -- English Fast Lane
-FAT -- French
-; For Sale
-boekwinkel -- bookshop
-sportwinkel -- sports shop
-kleren -- clothes
-boeken -- books
-landkaart -- map
-tijdschrift -- magazine
-verjaardagskaart -- birthday card
-markt -- market
-supermarkt -- supermarket
-drogist -- chemist
-zeep -- soap
-shampoo -- shampoo
-hoest sap -- cough medicine
-warenhuis -- department store
-riem -- belt
-camera -- camera
-zonnebril -- sunglasses
-trui -- sweater
-paraplu -- umbrella
-portemonnee -- wallet
-geld -- money
-fiets -- bicycle
-roltrap -- escalator
-; Breakfast, Lunch and Diner
-wortels -- carrots
-kaas -- cheese
-vis -- fish
-brood -- bread
-taart -- cake
-vlees -- meat
-tomaten -- tomatoes
-appels -- apples
-aardappels -- potatoes
-eieren -- eggs
-ijs -- ice cream
-limonade -- lemonade
-salade -- salad
-druiven -- grapes
-noedels -- pasta
-kip -- chicken
-joghurt -- yogurt
-koffie -- coffee
-bananen -- bananas
-chocolade -- chocolate
-melk -- milk
-paddenstoelen -- mushrooms
-koekjes -- biscuit
-tee -- tea
-uien -- onions
-olie -- oil
-koekenpan -- baking pan
-toetje -- dessert
-borden -- plates
-bestek -- cutlery
-tafel -- table`;
-
-const assignments = new Assignments(Stone123+raw);
+const assignments = new Assignments(raw);
 
 export default assignments;

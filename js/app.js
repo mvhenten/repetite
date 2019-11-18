@@ -26,34 +26,12 @@ const lang = document.location.pathname.slice(-13, -11);
 const assignments = {fr, en, nl};
 
 
-const initDarkMode = () => {
-    const element = document.querySelector("#nightlink");
-    
-    element.addEventListener("click", evt => {
-        //evt.preventDefault();
-        document.body.classList.toggle("night");
-        
-    })
-}
-
-
 const init = (assignments) => {
     if (!assignments) return;
     
-    const appContainer = new AppContainer(".container");
+    const appContainer = new AppContainer({assignments});
     
     render(appContainer.render(), document.body);
-    
-    const select = document.querySelector("#assignments-assignment");
-    initDarkMode();
-
-    for (let header of assignments.keys) {
-        let option = document.createElement("option");
-        option.innerText = header;
-        option.value = header;
-        select.appendChild(option);
-    }
-
 
     assignmentsFormContainer.onSubmitOnce(() => {
         const selected = assignmentsFormContainer.getValue("assignment");

@@ -38,7 +38,6 @@ class Assignments {
             let pair = line.split(/--/).map(w => w.trim());
             cur.push(pair);
         }
-        console.log(assignments);
         return assignments;
     }
 }
