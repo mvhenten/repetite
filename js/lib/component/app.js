@@ -2,14 +2,29 @@ import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.
 
 import ElementContainer from "./container.js";
 
+import FormContainer from "./form.js";
 
-class AssignmentsForm extends Component {
-    render() {
+const AssignmentsForm = ({assignments}) => {
+        const options = Array.from(assignments.keys);
+        
+        const assignmentsFormContainer = new FormContainer("#assignments");
+
+
+        const onSelectAssignment = () => {
+            const selected = assignmentsFormContainer.getValue("assignment");
+            const mode = assignmentsFormContainer.getValue("mode");
+            const words = assignments.getWords(selected);
+        };
+        
         return html `
-            <form id="assignments">
+            <form onSubmit=${onSelectAssignment} id="assignments">
                 <label>
                     Select            
-                    <select id="assignments-assignment" name="assignment"></select>
+                    <select id="assignments-assignment" name="assignment">
+                    ${options.map((header) => {
+                        return html `<option value=${header}>${header}</option>`;
+                    })}
+                    </select>
                 </label>
                 <div class="text-medium padding-1 spaced-2x">
                     <label for="mode-test">
@@ -24,9 +39,8 @@ class AssignmentsForm extends Component {
                 <input type="submit" value="start" />
             </form>
         `;
-    }
 
-}
+};
 
 const answers = () => {
     return html `
@@ -51,16 +65,20 @@ const settings = () => {
 
 
 class AppContainer extends ElementContainer {
-    constructor(selector, questions) {
-        super(selector);
-        // this._questions = questions;
+    constructor({assignments}) {
+        super();
+        this.state = {assignments};
     }
 
     render() {
+        const toggleDarkMode = () => {
+            document.body.classList.toggle("night");
+        };
+        
         return html `
         <div>
             <div class="pull-right spaced-2x">
-                <a id="nightlink" href="#dark">🌙 night mode</a>
+                <a onClick=${toggleDarkMode} id="nightlink" href="#dark">🌙 night mode</a>
                 <a id="homelink" href="../index.html"> 🏠 Home</a>
             </div>
             <h4 id="progress">
@@ -70,7 +88,7 @@ class AppContainer extends ElementContainer {
                 <h1 id="finish">bravo</h1>
                 <h3 id="help"></h3>
                 <h3 id="questions"></h3>
-                <${AssignmentsForm} />
+                <${AssignmentsForm} assignments=${this.state.assignments} />
                 ${settings()}
                 ${answers()}
             </div>
