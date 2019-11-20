@@ -70,11 +70,11 @@ geschiedenis -- history
 roman -- novel 
 verhaal -- story 
 ; Second theme G: Listening
-fiets -- biycle 
-afszeggen -- cancel 
+fiets -- bicycle 
+afzeggen -- cancel 
 jas -- coat 
 gang -- corridor 
-afszetten -- drop off 
+afzetten -- drop off 
 verwachten -- expect 
 erachter komen -- find out 
 lekke band -- flat tyre 
@@ -89,14 +89,14 @@ beleefd -- polite
 presentatie -- presentation 
 opluchting -- relief 
 regel -- rule 
-schootas -- school bag 
-string -- strict 
+schooltas -- school bag 
+streng -- strict 
 verkeersopstopping -- traffic jam 
 helaas -- unfortunately 
 ; Second theme H: Reading
 voordeel -- advantage 
-andacht -- attention 
-conentreren -- concentrate 
+aandacht -- attention 
+concentreren -- concentrate 
 afgeleid -- distracted 
 onderwijs -- education 
 uitblinken -- excel 
@@ -116,11 +116,11 @@ klaslokaal -- classroom
 mentor uur -- tutor hour 
 twee keer -- twice 
 ; Second theme: proverbs & Sayings
-van fouten kun je leren -- Faillure is the stepping stone for success 
-Gedult is een schone zaak -- Patience is a virtue 
+van fouten kun je leren -- Failure is the stepping stone for success 
+Geduld is een schone zaak -- Patience is a virtue 
 Hoe meer je weet, hoe minder je gelooft -- The more one knows, the less one believes 
 Met geschreven woord bereik je meer dan met fysieke kracht -- The pen is mightier than the sword 
-Je weet niet wat je kunt todat je het probeert -- You never know what you can do until you try 
+Je weet niet wat je kunt tot dat je het probeert -- You never know what you can do until you try 
 ; Theme two Grammar: Ordinals (rangtelwoorden)
 een -- one 
 twee -- two 
@@ -135,9 +135,9 @@ tien -- ten
 twintig -- twenty 
 eenentwintig -- twenty-one 
 dertig -- thirty 
-tweëendertig -- thirty-two 
+tweeëndertig -- thirty-two 
 veertig -- forty 
-tweëenveertig -- forty-two 
+tweeënveertig -- forty-two 
 eerste -- first 
 tweede -- second 
 derde -- third 
@@ -150,8 +150,8 @@ negende -- ninth
 tiende -- tenth 
 twintigste -- twentieth 
 éénentwintigste -- twenty-first 
-tweëendertigste -- thirty-second 
-drieëenveertigste -- forty-third 
+tweeëndertigste -- thirty-second 
+drieënveertigste -- forty-third 
 `;
 
 const assignments = new Assignments(raw);
