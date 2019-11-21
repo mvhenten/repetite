@@ -63,7 +63,7 @@ lente -- spring
 lesrooster -- timetable 
 afwisseling -- variety 
 golf -- wave 
-trefbal -- doge ball 
+trefbal -- dogeball 
 voetbal -- football 
 Frans -- French 
 geschiedenis -- history 
