@@ -24,6 +24,8 @@ class Questions {
     }
 
     get current() {
+        if (!this.len) return [];
+        
         let [question, answer] = this.last;
         
         if (this._practice) {
@@ -58,6 +60,7 @@ class Questions {
         
         this._failed.add(current);
         this._retry++;
+        this._queue.pop();
         this._queue.unshift(current);
     }
 
