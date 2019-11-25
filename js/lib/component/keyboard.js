@@ -6,6 +6,8 @@ class KeyBoardHandler {
     once(key, handler) {
         const listener = (evt) => {
             const keyName = evt.code;
+            
+            console.log(keyName);
 
             if (keyName == key) {
                 this.remove(handler);
