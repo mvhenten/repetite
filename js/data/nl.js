@@ -108,6 +108,90 @@ sympathie -- sympathie
 van tevoren -- van tevoren
 verrassing -- verrassing
 yoghurt -- yoghurt
+; Woordenschat  1
+constateren -- constateren
+de afkeer -- de afkeer
+de afwijzing -- de afwijzing
+de auteur -- de auteur
+de band -- de band
+de communicatie -- de communicatie
+de defensie -- de defensie
+de dimensie -- de dimensie
+de euforie -- de euforie
+de genegenheid -- de genegenheid
+de gesteldheid -- de gesteldheid
+de hartstocht -- de hartstocht
+de hiërarchie -- de hiërarchie
+de interactie -- de interactie
+de interesse(s) -- de interesse(s)
+de opkomst -- de opkomst
+de passie -- de passie
+de saamhorigheid -- de saamhorigheid
+de sympathie -- de sympathie
+de verantwoordelijkheid -- de verantwoordelijkheid
+de verdediging -- de verdediging
+de verstandhouding -- de verstandhouding
+de weerzin -- de weerzin
+de willekeur -- de willekeur
+; Woordenschat 2
+keuze -- keuze
+dominant -- dominant
+doorgaans -- doorgaans
+frequent -- frequent
+fysiek -- fysiek
+garanderen -- garanderen
+gecompliceerd -- gecompliceerd
+het individu -- het individu
+het kroost -- het kroost
+het perspectief -- het perspectief
+imiteren -- imiteren
+integer -- integer
+intiem -- intiem
+joviaal -- joviaal
+kwetsbaar -- kwetsbaar
+loyaal -- loyaal
+observeren -- observeren
+onbenullig -- onbenullig
+onderscheiden -- onderscheiden
+onuitputtelijk -- onuitputtelijk
+permanent -- permanent
+recent -- recent
+reëel -- reëel
+sowieso -- sowieso
+spectaculair -- spectaculair
+teweegbrengen -- teweegbrengen
+vertederen -- vertederen
+virtueel -- virtueel
+volstaan met -- volstaan met
+waarnemen -- waarnemen
+; Uitdrukkingen
+alles goed en wel -- alles goed en wel
+alles kort en klein slaan -- alles kort en klein slaan
+bont en blauw -- bont en blauw
+dood en verderf zaaien -- dood en verderf zaaien
+grote schaal -- grote schaal
+have en goed -- have en goed
+heg noch steg weten -- heg noch steg weten
+hoe je het ook wendt of keert -- hoe je het ook wendt of keert
+huis en haard verlaten -- huis en haard verlaten
+in de bres springen voor iemand -- in de bres springen voor iemand
+in kannen en kruiken -- in kannen en kruiken
+in vuur en vlam staan -- in vuur en vlam staan
+kant noch wal raken -- kant noch wal raken
+kommer en kwel -- kommer en kwel
+met hangen en wurgen -- met hangen en wurgen
+met horten en stoten -- met horten en stoten
+mitsen en maren -- mitsen en maren
+nooit of te nimmer -- nooit of te nimmer
+open en bloot -- open en bloot
+pais en vree -- pais en vree
+pracht en praal -- pracht en praal
+schots en scheef -- schots en scheef
+te hooi en te gras -- te hooi en te gras
+tot de verbeelding spreken -- tot de verbeelding spreken
+van toeten noch blazen weten -- van toeten noch blazen weten
+vast en zeker -- vast en zeker
+zonder slag of stoot -- zonder slag of stoot
 `
 const assignments = new Assignments(words);
 
