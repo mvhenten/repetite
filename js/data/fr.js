@@ -1,6 +1,33 @@
 import Assignments from "../lib/assignments.js";
 
 const unite2 = `
+; Unité 3: Apprendre 1
+het rooster -- l’emploi du temps
+de computer -- l’ordinateur
+de leerling -- l’élève
+de spreekbeurt -- l’exposé
+de oefening -- l’exercice
+het huiswerk -- les devoirs
+Frans -- français
+Engels -- anglais
+wiskunde -- maths
+het schrift -- le cahier
+de pen -- le stylo
+voorbereiden -- préparer
+maken, doen -- faire
+de hobby -- le hobby
+tennis -- le tennis
+de gitaar -- la guitare
+het skateboarden -- le skateboard
+maandag -- lundi
+dinsdag -- mardi
+woensdag -- mercredi
+donderdag -- jeudi
+vrijdag -- vendredi
+zaterdag -- samedi
+zondag -- dimanche
+het uur -- l’heure
+12 uur ’s middags -- midi
 ; Unité 2: Apprendre 1
 het flatgebouw -- l'immeuble
 het appertement, de flat -- l'appartement
