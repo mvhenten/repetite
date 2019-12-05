@@ -1,6 +1,30 @@
 import Assignments from "../lib/assignments.js";
 
 const unite2 = `
+; Unité 3: Apprendre 2
+voor ( van tijd) -- avant
+kijken -- regarder
+eten -- manger
+opbellen -- téléphoner
+de vriend -- l’aki
+moeilijk -- difficile
+sluiten -- fermer
+blijven -- rester
+tijdens, gedurende -- pendant
+vragen -- demander
+jij maakt, jij doet -- tu fais
+de week -- la semaine
+volgend(e) -- prochain, prochaine
+tijd -- le temps
+de overhoring -- l’interro
+ziek -- malade
+werken -- travailler
+bewegen -- bouger
+bijvoorbeeld -- par exemple
+serieus -- sérieux, sérieuse
+vergeet niet -- n’oublie pas
+vergeten -- oublier
+liever hebben, prefereren -- préférer
 ; Unité 3: Apprendre 1
 het rooster -- l’emploi du temps
 de computer -- l’ordinateur
