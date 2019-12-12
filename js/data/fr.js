@@ -6,7 +6,7 @@ voor ( van tijd) -- avant
 kijken -- regarder
 eten -- manger
 opbellen -- téléphoner
-de vriend -- l’aki
+de vriend -- l'ami
 moeilijk -- difficile
 sluiten -- fermer
 blijven -- rester
@@ -16,21 +16,21 @@ jij maakt, jij doet -- tu fais
 de week -- la semaine
 volgend(e) -- prochain, prochaine
 tijd -- le temps
-de overhoring -- l’interro
+de overhoring -- l'interro
 ziek -- malade
 werken -- travailler
 bewegen -- bouger
 bijvoorbeeld -- par exemple
 serieus -- sérieux, sérieuse
-vergeet niet -- n’oublie pas
+vergeet niet -- n'oublie pas
 vergeten -- oublier
 liever hebben, prefereren -- préférer
 ; Unité 3: Apprendre 1
-het rooster -- l’emploi du temps
-de computer -- l’ordinateur
-de leerling -- l’élève
-de spreekbeurt -- l’exposé
-de oefening -- l’exercice
+het rooster -- l'emploi du temps
+de computer -- l'ordinateur
+de leerling -- l'élève
+de spreekbeurt -- l'exposé
+de oefening -- l'exercice
 het huiswerk -- les devoirs
 Frans -- français
 Engels -- anglais
@@ -50,8 +50,8 @@ donderdag -- jeudi
 vrijdag -- vendredi
 zaterdag -- samedi
 zondag -- dimanche
-het uur -- l’heure
-12 uur ’s middags -- midi
+het uur -- l'heure
+12 uur 's middags -- midi
 ; Unité 2: Apprendre 1
 het flatgebouw -- l'immeuble
 het appertement, de flat -- l'appartement
@@ -219,35 +219,35 @@ de auto -- la voiture
 
 const unite1 = `
 ; Unité 1: Apprendre 1 & 2
-twee meisjes -- deux filles 
-twee jongens -- deux garçons 
-daar is, hier is -- voilà 
-zij -- elle 
-zij woont -- elle habite 
-zij is -- elle est 
-op de (middelbare) school -- au collège 
-hij -- il 
-hij heet -- il s'appelle 
-ook -- aussi   
-in -- dans 
-de klas -- la classe 
-nieuw -- nouveau 
-lievelingssport -- le sport préféré 
-zij heeft -- elle a 
-een zus -- une sœur 
-dat is, het is -- c'est 
-een vriend -- un copain 
-de oceaan -- l'océan 
+twee meisjes -- deux filles
+twee jongens -- deux garçons
+daar is, hier is -- voilà
+zij -- elle
+zij woont -- elle habite
+zij is -- elle est
+op de (middelbare) school -- au collège
+hij -- il
+hij heet -- il s'appelle
+ook -- aussi
+in -- dans
+de klas -- la classe
+nieuw -- nouveau
+lievelingssport -- le sport préféré
+zij heeft -- elle a
+een zus -- une sœur
+dat is, het is -- c'est
+een vriend -- un copain
+de oceaan -- l'océan
 het vakantiehuis -- la maison de vacances
 de snelweg -- l'autoroute
-een auto -- une auto 
-naar -- à 
-van -- de 
-de trein -- le train 
-een dorp -- un village 
-een stad -- une ville 
-een land -- un pays 
-Frankrijk -- la France 
+een auto -- une auto
+naar -- à
+van -- de
+de trein -- le train
+een dorp -- un village
+een stad -- une ville
+een land -- un pays
+Frankrijk -- la France
 ; Unité 1: Apprendre 4
 hoe heet jij -- comment tu t'appelles
 ik heet -- je m'appelle
@@ -257,14 +257,14 @@ hij heet  -- il s'appelle
 dit is Tim -- voilà Tim
 ; Unité 1: Apprendre 5
 de tas  -- le sac
-je hebt, heb je			  --		tu as 
-het problem   -- le problème 
+je hebt, heb je			  --		tu as
+het problem   -- le problème
 dat is  --c'est
 afschuwelijk  -- horrible
 hier, asjeblieft; he  -- tiens
-hoe  -- comment 
+hoe  -- comment
 wij zijn  -- on est
-in  -- dans 
+in  -- dans
 ik ga naar huis  -- je rentre
 ja  -- oui
 voor  -- pour
