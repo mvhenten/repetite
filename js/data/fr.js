@@ -1,5 +1,120 @@
 import Assignments from "../lib/assignments.js";
 
+const unite3 = `
+; Unité 3: Apprendre 3
+ik vraag -- je demande
+jij vraagt -- tu demandes
+hij vraagt -- il demande
+zij vraagt -- elle demande
+men vraagt, wij vragen -- on demandeswij vragen -- nous demandons
+jullie vragen, u vraagt -- vous demandez
+zij vragen (m) -- ils demandent
+zij vragen (v) -- elles demandent
+; Unité 3: Apprendre 4
+Ik ben dol op zingen -- J'adore chjanter
+Je danst supergoed -- Tu danses super bien
+Ik heb gitaarles -- J'ai mon cours de guitare
+Ik heb basketbaltraining -- J'ai mon entraînement de basketbaltraining
+Ik kan niet dansen -- Je ne sais pas danser
+ik ben dol op muziek -- J'adore la musique
+Ik zing en ik dans -- Je chante et je danse
+Ga je gang -- Vas-y
+Ik heb een rol -- J'ai un rôle
+Jij hebt de hoofdrol -- Tu as le rôle principal
+; Unité 3 - Apprendre 5
+de musical -- la comédie musicale
+kijken -- regarder
+de week -- la semaine
+welk(e) -- quel, quelle
+de dag -- le jour
+woensdag -- emrcredi
+dol zijn op -- adorer
+dansen -- danser
+zingen -- chjanterveel -- beaucoup
+dus, dan -- alors
+de les -- le cours
+jammer -- dommage
+de training -- l'entraînement
+vragen -- demander
+jij komt -- tu viens
+onmogelijk -- impossible
+misschien -- peut-être
+jij wacht, jij verwacht -- tu attends
+het antwoord -- la réponse
+het bericht -- le message
+de sms -- le texto
+jij leest -- tu lis
+wij zijn -- nous sommes
+; Unité 3: Apprendre 6, 1 t/m 20
+nul -- zéro
+één -- un
+twee -- deux
+drie -- trois
+vier -- quatre
+vijf -- cinq
+zes -- six
+zeven -- sept
+acht -- huit
+negen -- neuf
+tien -- dix
+elf -- onze
+twaalf -- douze
+dertien -- treize
+veertien -- quatorze
+vijftien -- quinze
+zestien -- seize
+zeventien -- dix-sept
+achttien -- dix-huit
+negentien -- dix-neuf
+; Unité 3: Apprendre 6, 20 en hoger
+twintig -- vingt
+éénentwintig - vingt et un
+tweëntwintig -- vingt-deux
+drieëentwintig -- vingt-trois
+achtentwintig -- vingt-huit
+negenentwintig -- vingt-neuf
+dertig -- trente
+éénendertig -- trente-et-un
+drieendertig -- trente-trois
+vijfendertig -- trente-cinq
+veertig -- quarante
+éénenveertig -- quarante et un
+tweeëenveertig -- quarante-deux
+drieenveertig -- quarante-trois
+vierenveertig -- quarante-quatre
+vijftig -- cinquante
+tweeënvijftig -- cinquante-deux
+drieenvijftig -- cinquante-trois
+vierenvijftig -- cinquante-quatre 
+zestig -- soixante
+éénenzestig -- soixante et un
+tweeëenzestig -- soixante-deux
+negenenzestig -- soixante-neuf
+; Unité 3: Apprendre 7
+blijven zitten -- redoubler
+engels -- l'anglais
+waardeloos, slecht -- nul, nulle
+sterk, goed -- fort, forte
+de wiskunde -- les maths
+het vak -- la matière
+ik kan -- je peux
+uitleggen -- expliquer
+als -- si
+jij wilt -- tu veux
+te gek -- génial
+maandag -- lundi
+mogelijk -- possible
+ziek -- malade
+vrij -- libre
+de tijd -- le temps
+het huiswerk -- les devoirs
+donderdag -- jeudi
+geschiedenis -- l'histoire
+werken -- travailler
+afgesproken -- entendu
+nu -- maintenant
+`
+
 const unite2 = `
 ; Unité 3: Apprendre 2
 voor ( van tijd) -- avant
@@ -306,6 +421,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(unite2 + unite1);
+const assignments = new Assignments(unite3 + unite2 + unite1);
 
 export default assignments;
