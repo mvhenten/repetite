@@ -1,12 +1,64 @@
 import Assignments from "../lib/assignments.js";
 
 const unite3 = `
+; Unité 3: Apprendre 1
+het rooster -- l'emploi du temps
+de computer -- l'ordinateur
+de leerling -- l'élève
+de spreekbeurt -- l'exposé
+de oefening -- l'exercice
+het huiswerk -- les devoirs
+Frans -- français
+Engels -- anglais
+wiskunde -- maths
+het schrift -- le cahier
+de pen -- le stylo
+voorbereiden -- préparer
+maken, doen -- faire
+de hobby -- le hobby
+tennis -- le tennis
+de gitaar -- la guitare
+het skateboarden -- le skateboard
+maandag -- lundi
+dinsdag -- mardi
+woensdag -- mercredi
+donderdag -- jeudi
+vrijdag -- vendredi
+zaterdag -- samedi
+zondag -- dimanche
+het uur -- l'heure
+12 uur 's middags -- midi
+; Unité 3: Apprendre 2
+voor ( van tijd) -- avant
+kijken -- regarder
+eten -- manger
+opbellen -- téléphoner
+de vriend -- l'ami
+moeilijk -- difficile
+sluiten -- fermer
+blijven -- rester
+tijdens, gedurende -- pendant
+vragen -- demander
+jij maakt, jij doet -- tu fais
+de week -- la semaine
+volgend(e) -- prochain, prochaine
+tijd -- le temps
+de overhoring -- l'interro
+ziek -- malade
+werken -- travailler
+bewegen -- bouger
+bijvoorbeeld -- par exemple
+serieus -- sérieux, sérieuse
+vergeet niet -- n'oublie pas
+vergeten -- oublier
+liever hebben, prefereren -- préférer
 ; Unité 3: Apprendre 3
 ik vraag -- je demande
 jij vraagt -- tu demandes
 hij vraagt -- il demande
 zij vraagt -- elle demande
-men vraagt, wij vragen -- on demandeswij vragen -- nous demandons
+men vraagt, wij vragen -- on demandes
+wij vragen -- nous demandons
 jullie vragen, u vraagt -- vous demandez
 zij vragen (m) -- ils demandent
 zij vragen (v) -- elles demandent
@@ -116,57 +168,6 @@ nu -- maintenant
 `
 
 const unite2 = `
-; Unité 3: Apprendre 2
-voor ( van tijd) -- avant
-kijken -- regarder
-eten -- manger
-opbellen -- téléphoner
-de vriend -- l'ami
-moeilijk -- difficile
-sluiten -- fermer
-blijven -- rester
-tijdens, gedurende -- pendant
-vragen -- demander
-jij maakt, jij doet -- tu fais
-de week -- la semaine
-volgend(e) -- prochain, prochaine
-tijd -- le temps
-de overhoring -- l'interro
-ziek -- malade
-werken -- travailler
-bewegen -- bouger
-bijvoorbeeld -- par exemple
-serieus -- sérieux, sérieuse
-vergeet niet -- n'oublie pas
-vergeten -- oublier
-liever hebben, prefereren -- préférer
-; Unité 3: Apprendre 1
-het rooster -- l'emploi du temps
-de computer -- l'ordinateur
-de leerling -- l'élève
-de spreekbeurt -- l'exposé
-de oefening -- l'exercice
-het huiswerk -- les devoirs
-Frans -- français
-Engels -- anglais
-wiskunde -- maths
-het schrift -- le cahier
-de pen -- le stylo
-voorbereiden -- préparer
-maken, doen -- faire
-de hobby -- le hobby
-tennis -- le tennis
-de gitaar -- la guitare
-het skateboarden -- le skateboard
-maandag -- lundi
-dinsdag -- mardi
-woensdag -- mercredi
-donderdag -- jeudi
-vrijdag -- vendredi
-zaterdag -- samedi
-zondag -- dimanche
-het uur -- l'heure
-12 uur 's middags -- midi
 ; Unité 2: Apprendre 1
 het flatgebouw -- l'immeuble
 het appertement, de flat -- l'appartement
