@@ -421,6 +421,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(unite2 + unite1);
+const assignments = new Assignments(unite3 + unite2 + unite1);
 
 export default assignments;
