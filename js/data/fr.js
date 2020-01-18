@@ -1,7 +1,7 @@
 import Assignments from "../lib/assignments.js";
 
 const unite3 = `
-; Unité 3: Apprendre 1
+; Unité 3 Apprendre 1
 het rooster -- l'emploi du temps
 de computer -- l'ordinateur
 de leerling -- l'élève
@@ -28,7 +28,7 @@ zaterdag -- samedi
 zondag -- dimanche
 het uur -- l'heure
 12 uur 's middags -- midi
-; Unité 3: Apprendre 2
+; Unité 3 Apprendre 2
 voor ( van tijd) -- avant
 kijken -- regarder
 eten -- manger
@@ -52,7 +52,7 @@ serieus -- sérieux, sérieuse
 vergeet niet -- n'oublie pas
 vergeten -- oublier
 liever hebben, prefereren -- préférer
-; Unité 3: Apprendre 3
+; Unité 3 Apprendre 3
 ik vraag -- je demande
 jij vraagt -- tu demandes
 hij vraagt -- il demande
@@ -62,7 +62,7 @@ wij vragen -- nous demandons
 jullie vragen, u vraagt -- vous demandez
 zij vragen (m) -- ils demandent
 zij vragen (v) -- elles demandent
-; Unité 3: Apprendre 4
+; Unité 3 Apprendre 4
 Ik ben dol op zingen -- J'adore chjanter
 Je danst supergoed -- Tu danses super bien
 Ik heb gitaarles -- J'ai mon cours de guitare
@@ -73,7 +73,7 @@ Ik zing en ik dans -- Je chante et je danse
 Ga je gang -- Vas-y
 Ik heb een rol -- J'ai un rôle
 Jij hebt de hoofdrol -- Tu as le rôle principal
-; Unité 3 - Apprendre 5
+; Unité 3 Apprendre 5
 de musical -- la comédie musicale
 kijken -- regarder
 de week -- la semaine
@@ -97,7 +97,7 @@ het bericht -- le message
 de sms -- le texto
 jij leest -- tu lis
 wij zijn -- nous sommes
-; Unité 3: Apprendre 6, 1 t/m 20
+; Unité 3 Apprendre 6, 1 t/m 20
 nul -- zéro
 één -- un
 twee -- deux
@@ -118,7 +118,7 @@ zestien -- seize
 zeventien -- dix-sept
 achttien -- dix-huit
 negentien -- dix-neuf
-; Unité 3: Apprendre 6, 20 en hoger
+; Unité 3 Apprendre 6, 20 en hoger
 twintig -- vingt
 éénentwintig - vingt et un
 tweëntwintig -- vingt-deux
@@ -137,12 +137,12 @@ vierenveertig -- quarante-quatre
 vijftig -- cinquante
 tweeënvijftig -- cinquante-deux
 drieenvijftig -- cinquante-trois
-vierenvijftig -- cinquante-quatre 
+vierenvijftig -- cinquante-quatre
 zestig -- soixante
 éénenzestig -- soixante et un
 tweeëenzestig -- soixante-deux
 negenenzestig -- soixante-neuf
-; Unité 3: Apprendre 7
+; Unité 3 Apprendre 7
 blijven zitten -- redoubler
 engels -- l'anglais
 waardeloos, slecht -- nul, nulle
@@ -165,10 +165,46 @@ geschiedenis -- l'histoire
 werken -- travailler
 afgesproken -- entendu
 nu -- maintenant
+; Unité 3 Apprendre 8
+In welke klas zit jij -- Tu es en quell classe
+Ik zit in de vierde -- Je suis en 4ème
+vierde (voluit) -- quatrième
+Ik ben slecht in Engels -- Je suis nul en Anglais
+Dat is mijn lievelingsvak -- C'est ma matière préférée
+Hoe laat is het -- Quelle heure est-il
+Het is 11 uur -- Il est 11 heures
+Zaterdag om half acht -- Samedi à sept heures et demie
+Ik en om vier uur klaar  -- Je termine à quatre heures
+Ik drum -- Je joue de la batterie
+Jij doet aan judo -- Tu fais du judo
+Judo is mijn grootste hobby -- Le judo, c'est ma passion
+; Unité 3 Apprendre 9
+tijdens -- pendant
+de pauze -- la récré
+klaar zijn, eindigen -- terminer
+hoe laat -- à quelle heure
+waarom -- purquoi
+dinsdag -- mardi
+de groep -- le groupe
+spelen -- jouer
+zondag -- dimanche
+geven -- donner
+het concert -- le concert
+zwart -- noir, noire
+sinds -- depuis
+het jaar -- l'an
+oefenen, beoefenen -- pratiquer
+het voetbal -- le foot
+het leven -- la vie
+voorstellen -- proposer
+de avond -- la soirée
+zaterdag -- Samedi
+het adres -- l'adresse
+wonen -- habiter
 `
 
 const unite2 = `
-; Unité 2: Apprendre 1
+; Unité 2 Apprendre 1
 het flatgebouw -- l'immeuble
 het appertement, de flat -- l'appartement
 het huis -- la maison
@@ -187,7 +223,7 @@ de auto -- la voiture
 de bushalte -- l'arrêt de bus
 lopen -- aller à pied
 gaan -- aller
-; Unité 2: Apprendre 2
+; Unité 2 Apprendre 2
 wonen -- habiter
 op -- sur
 ons, onze -- notre
@@ -213,7 +249,7 @@ de buren -- les voisins
 ver -- loin
 zetten -- mettre
 heel hard -- très fort
-; Unité 2: Apprendre 3
+; Unité 2 Apprendre 3
 De vriend van Nathan -- Le copain de Nathan
 De vrienden van Nathan -- Les copains de Nathan
 Het huis in de straat -- La maison dans la rue
@@ -224,7 +260,7 @@ Er is een tuin -- Il y a un jardin
 Er zijn tuinen -- Il y a des jardins
 Er is een huis -- Il y a une maisons
 Er zijn huizen -- Il y a des maisons
-; Unité 2: Apprendre 4
+; Unité 2 Apprendre 4
 Ik heb een afspraak -- J'ai rendez-vous
 Ik neem de bus -- Je prends le bus
 Waar is de halte -- Où est l'arrêt
@@ -234,7 +270,7 @@ Waar ga je naartoe -- Tu vas où
 We gaan naar jouw huis -- On va chez toi
 Ik ben te laat -- Je suis en retard
 We gaan -- On y va
-; Unité 2: Apprendre 5
+; Unité 2 Apprendre 5
 de metro -- le métro
 tot later -- à plus
 de afspraak -- le rendez-vous
@@ -259,7 +295,7 @@ vervolgens -- puis
 op -- sur
 het bed -- le lit
 de trein -- le train
-; Unité 2: Apprendre 6
+; Unité 2 Apprendre 6
 Daar is een jongen -- Voilà un garçon
 Hij is aardig -- Il est sympa
 Daar is een meisje -- Voilà un fille
@@ -271,7 +307,7 @@ Zij is groot -- Elle est grande
 Er staat een fiets in de tuin -- Il y a un vélo dans le jardin
 Er is een grote keuken -- Il y a une grande cuisine
 Er zijn drie slaapkamers -- Il y a trois chambres
-; Unité 2: Apprendre 7
+; Unité 2 Apprendre 7
 welk, welke -- quel, quelle
 de stad -- la ville
 oké -- d'accord
@@ -299,7 +335,7 @@ de boom -- l'arbre
 leuk -- chouette
 erg, heel -- très
 rustig -- calme
-; Unité 2: Apprendre 8
+; Unité 2 Apprendre 8
 Ik woon in de Gérardstraat 10 -- J'habite 10, rue Gérard
 Op welke verdieping is het -- C'est à quel étage
 Hier is mijn kamer -- Voilà ma chambre
@@ -310,7 +346,7 @@ Ik woon vlakbij -- J'habite tout près
 Hoe is dat? -- Il est comment?
 Hoeveel kamers hebben jullie -- Vous avez combien de pièces
 Er is een grote tuin -- Il y a un grand jardin
-; Unité 2: Apprendre 9
+; Unité 2 Apprendre 9
 vandaag -- aujourd'hui
 samen -- ensemble
 vlakbij -- tout près
@@ -334,7 +370,7 @@ de auto -- la voiture
 `;
 
 const unite1 = `
-; Unité 1: Apprendre 1 & 2
+; Unité 1 Apprendre 1 & 2
 twee meisjes -- deux filles
 twee jongens -- deux garçons
 daar is, hier is -- voilà
@@ -364,14 +400,14 @@ een dorp -- un village
 een stad -- une ville
 een land -- un pays
 Frankrijk -- la France
-; Unité 1: Apprendre 4
+; Unité 1 Apprendre 4
 hoe heet jij -- comment tu t'appelles
 ik heet -- je m'appelle
 zij heet  -- elle s'appelle
 hoe heet hij -- comment il s'appelle
 hij heet  -- il s'appelle
 dit is Tim -- voilà Tim
-; Unité 1: Apprendre 5
+; Unité 1 Apprendre 5
 de tas  -- le sac
 je hebt, heb je			  --		tu as
 het problem   -- le problème
@@ -399,7 +435,7 @@ ik ben  -- je suis
 de klas  -- la classe
 het is tijd  -- c'est l'heure
 we gaan naar binnen  -- on entre
-; Unité 1: Apprendre 7 & 8
+; Unité 1 Apprendre 7 & 8
 (het gaat) goed -- ça va bien
 dank je wel, dank u wel -- merci
 tot ziens -- au revoir
