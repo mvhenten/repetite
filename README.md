@@ -1,5 +1,4 @@
 # repetite
-Woordjes oefenen
+Woordjes oefenen 
 
-
-https://mvhenten.github.io/repetite/site/
+https://woordjes.ischen.nl
