@@ -1,6 +1,94 @@
 import Assignments from "../lib/assignments.js";
 
 const unite3 = `
+; Unité 4 Apprendre 1
+het dier -- l’animal
+de dieren -- les animaux
+de hond -- le chien
+de kat -- le chat
+de wolf -- le loup
+de spin -- l’araignée
+de tijger -- le tigre
+de slang -- le serpent
+de vogel -- l’oiseau
+de eend -- le canard
+de wesp -- le guêpe
+de olifant -- l’éléphant
+de kwal -- la méduse
+het paard -- le cheval
+de koe -- la vache
+het schaap -- le mouton
+de muis -- la souris
+de vis -- le poisson
+de staart -- la queue
+de poot -- la patte
+de haren. de vacht -- les poils
+aaien -- caresser
+vliegen -- voler
+zwemmen -- nager
+prikken, steken -- piquer
+gevaarlijk -- dangereux, dangereuse
+wild -- sauvage
+; Unité 4 Apprendre 2
+de boerderij -- la ferme
+de ouders -- les parents
+helpen -- aider
+soms -- parfois
+de kip -- la poule
+de verrassing -- la surprise
+wanneer -- quand
+het lam -- l’agneau
+geboren -- né
+de nacht -- la nuit
+zo -- si
+mooi -- beau, belle
+besturen, rijden -- conduire
+de tractor -- le tracteur
+nog niet -- ne … pas encore
+nog -- encore
+mogen, het recht hebben -- avoir le droit
+; Unité 4 Apprendre 4
+Hij is dol op spelen. -- Il adore jouer.
+Dat is aardig. -- C’est gentil.
+Waar is de kat? -- Où est le chat?
+Ik weet het niet. -- Je ne sais pas.
+Het spijt me. -- Je regrette.
+Wat heb je? -- Qu’ese que tu as?
+Hij heeft pijn aan zijn poot. -- Il a mal à la patte.
+Hij kan niet lopen. -- Il ne peut pas marcher.
+; Unité 4 Apprendre 5
+de kat -- le chat
+altijd -- toujours
+de vakantie -- les vacances
+alleen, slechts -- seulement
+het platteland -- la campagne
+zien -- voir
+nemen -- prendre
+de koffie -- le café
+de cola -- le coca
+blijven -- rester
+de mand -- le panier
+laten -- laisser
+open -- ouvert, ouverte
+helemaal alleen -- tout seul
+aardig, lief -- gentil, gentille
+warm -- chaud, chaude
+wacht -- attends
+zoeken -- chercher
+gezien -- vu
+gewond -- blessé, blessée
+hopen -- espérer
+e que -- watqu’es
+pijn hebben -- avoir mal
+hij kan -- il peut
+lopen -- marcher
+vinden -- trouver
+meteen, dadelijk -- tout de suite
+gelukkig -- heureusement
+gebroken -- cassé, cassée
+arm -- pauvre
+buiten -- dehors
+goed, lekker -- bon, bonne
 ; Unité 3 Apprendre 1
 het rooster -- l'emploi du temps
 de computer -- l'ordinateur
