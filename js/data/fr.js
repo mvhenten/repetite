@@ -89,6 +89,72 @@ gebroken -- cassé, cassée
 arm -- pauvre
 buiten -- dehors
 goed, lekker -- bon, bonne
+; Unité 4 Apprendre 6
+hebben -- avoir
+jij hebt het warm -- tu as chaud
+hij heeft pijn aan zijn poot -- il a mal à la platte
+ik heb -- j'ai
+jij hebt -- tu as
+hij heeft -- il a
+zij heeft -- elle a
+me heeft, wij hebben -- on a
+wij hebben -- nous avons
+jullie hebben, u heeft -- vous avez
+zij hebben (m) -- ils ont
+zij hebben (v) -- elles ont
+; Unité 4 Apprendre 7
+de hond -- le chien
+de leeftijd -- l'âge
+jong -- jeune
+de rat -- le rat
+de zee -- la mer
+zwemmen -- nager
+een hekel hebben aan -- détester
+zich indenken, zich voorstellen -- imaginer
+dik -- gros, grosse
+lang -- long, longue
+de staart -- la queue
+ophouden, stoppen -- arrêter
+vals, gemeen -- méchant, méchante
+de vogel -- l'oiseau
+de buurvrouw -- la voisine
+klimmen -- grimper
+vangen -- attraper
+normaal -- normal, normale
+de natuur -- la nature
+; Unité 4 Apprendre 8
+wil jij een hond hebben? -- tu veux avoir un chien?
+ik houd niet van honden -- je n'aime pas les chiens
+ik haat spinnen -- je déteste les araignées
+ik ben bang voor paarden -- j'ai peur des chevaux
+hoe is hij? -- il est comment?
+hij ziet er lief uit -- il a l'air gentil
+dat is normaal -- c'est normal
+dat is afschuwelijk -- c'est horrible
+hoe oud is hij? -- il a quel âge?
+hij is twee jaar -- il a deux ans
+; Unité 4 Apprendre 9
+het ongeluk -- l'accident
+ik ga -- je vais
+aankomen -- arriver
+erg, ernstig -- grave
+grijs -- gris, grise
+het paard -- le cheval
+de paarden -- les chevaux
+de les -- la leçon
+de verjaardag -- l'anniversaire
+bang zijn -- avoir peur
+omdat -- parce que
+enorm -- énorme
+het hoofd -- la tête
+overdrijven -- exagérer
+het circus -- la cirque
+de kooi -- la cage
+triest, zielig -- triste
+de dierentuin -- le zoo
+wild -- sauvage
+behandelen -- traiter
+denken -- penser
 ; Unité 3 Apprendre 1
 het rooster -- l'emploi du temps
 de computer -- l'ordinateur
