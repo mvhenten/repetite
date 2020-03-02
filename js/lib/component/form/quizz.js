@@ -42,13 +42,7 @@ class QuizzForm extends Component {
     constructor({ appState, assignment, settings }) {
         super();
 
-        const { words, mode } = assignment;
-        const { speed } = settings;
-
-        console.log("settings", settings);
-
-        this.questions = new Questions(words, mode);
-        this.quizzState = new QuizzState(speed);
+        this.quizzState = new QuizzState(assignment, settings);
         this.appState = appState;
         this.settings = settings;
         this.quizzState.on("nextQuestion", () => {
@@ -57,7 +51,7 @@ class QuizzForm extends Component {
     }
 
     onSubmit = ({ value }) => {
-        const { questions } = this;
+        const { questions } = this.quizzState;
         const [, answer] = questions.current;
 
         this.clearState();

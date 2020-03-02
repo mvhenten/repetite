@@ -1,16 +1,34 @@
 import AppState from "../state.js";
 import KeyboardState from "./keyboard.js";
+import Speech from "./speech.js";
+import Questions from "./questions.js";
+
 
 const TIMEOUT = 5000;
 
 class QuizzState extends AppState {
-    constructor(speed) {
+    constructor(assignment, settings) {
         super();
-        
-        console.log("speed", speed);
 
-        this.speed = speed;
-        this.timeout = TIMEOUT / this.speed;
+        this.assignment = assignment;
+        this.settings = settings;
+    }
+    
+    get timeout() {
+        if (this.settings.speed == 0)
+            return null;
+        
+        return TIMEOUT / this.settings.speed;
+    }
+    
+    get questions() {
+        const { words, mode } = this.assignment;
+        
+        if (!this._questions) {
+            this._questions = new Questions(words, mode);
+            
+        }
+        
     }
 
     get keyboard() {
@@ -19,6 +37,15 @@ class QuizzState extends AppState {
         }
 
         return this.keyBoardState;
+    }
+    
+    get speech() {
+        if (!this.speech) {
+            let lang = "nl-NL";
+            this.speech = new Speech(lang);
+        }
+        
+        return this.speech;
     }
 
     cancel() {
@@ -36,7 +63,6 @@ class QuizzState extends AppState {
         if (this.speed !== 0) {
             this._timeout = setTimeout(() => {
                 this.emitNextQuestion();
-                this.emit("nextQuestion");
             }, this.timeout);
         }
     }

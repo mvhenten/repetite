@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> </title>
+    <meta charset="utf-8" />
+</head>
+
+<body>
+
+    <style>
+    </style>
+
+    <h4 id="progress">
+    </h4>
+
+    <div class="container">
+        <button id="start">do it now</button>
+    </div>
+    
+    <script type="module">
+
+        import Speech from "./speech.js";
+
+        const lang = 'nl-NL'
+
+        const speak = new Speech({lang});
+        
+        
+        setTimeout(() => {
+            console.log(speak.voices);
+        }, 100);
+        
+
+        setTimeout(()=> {
+            speak.speak("ambachtsman");
+        }, 2000);        
+        
+        setInterval(() => console.log('tick'), 1000);
+        
+        
+        
+    </script> 
+
+</body>
+
+</html>

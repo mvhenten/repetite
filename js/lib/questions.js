@@ -4,6 +4,7 @@ class Questions {
         this._queue = Array.from(questions);
         this._failed = new Set();
         this._practice = mode == "practice";
+        this._dictation = mode == "dictation";
         this._retry = 0;
     }
 
@@ -30,6 +31,10 @@ class Questions {
         
         if (this._practice) {
             question = `${question}: ${answer}`;
+        }
+
+        if (this._dictation) {
+            question = [answer, answer];
         }
 
         return [question, answer];
