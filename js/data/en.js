@@ -151,7 +151,77 @@ tiende -- tenth
 twintigste -- twentieth 
 éénentwintigste -- twenty-first 
 tweeëndertigste -- thirty-second 
-drieënveertigste -- forty-third 
+drieënveertigste -- forty-third
+; Test Three: Subjects
+italiaans -- Italian
+frans -- French
+grieks / latijn -- Greek / Latin
+informatiekunde -- computer science
+nederlands -- Dutch
+duits -- German
+tekenen -- drawing
+geschiedenis -- History
+handvaardigheid -- arts and crafts
+lichamelijke opvoeding -- physical education
+wiskunde -- Maths / Mathematics
+biologie -- biology
+filosofie -- philosophy
+natuurkunde / scheikunde -- physics / chemistry
+muziek -- music
+aardrijkskunde -- Geography
+; Test Three: Numbers
+1 -- one
+2 -- two
+3 -- three
+4 -- four
+5 -- five
+6 -- six
+7 -- seven
+8 -- eight
+9 -- nine
+10 -- ten
+11 -- eleven
+12 -- twelve
+13 -- thirteen
+14 -- fourteen
+15 -- fifteen
+16 -- sixteen
+17 -- seventeen
+18 -- eighteen
+19 -- nineteen
+20 -- twenty
+21 -- twenty-one
+22 -- twenty-two
+23 -- twenty-three
+24 -- twenty-four
+25 -- twenty-five
+26 -- twenty-six
+27 -- twenty-seven
+28 -- twenty-eight
+29 -- twenty-nine
+30 -- thirty
+40 -- forty
+50 -- fifty
+60 -- sixty
+70 -- seventy
+80 -- eighty
+90 -- ninety
+100 -- one hundred
+122 -- one hundred and twenty-two
+101 -- one hundred and one
+154 -- one hundred and fifty-four
+166 -- one hundred and sixty-six
+287 -- two hundred and eighty-seven
+399 -- three hundred and ninety-nine
+423 -- four hundred and twenty-three
+; Test Three: Days of the week
+maandag -- Monday
+dinsdag -- Tuesday
+woensdag -- Wednesday
+donderdag -- Thursday
+vrijdag -- Friday
+zaterdag -- Saturday
+zondag -- Sunday
 `;
 
 const assignments = new Assignments(raw);
