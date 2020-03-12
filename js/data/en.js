@@ -222,6 +222,76 @@ donderdag -- Thursday
 vrijdag -- Friday
 zaterdag -- Saturday
 zondag -- Sunday
+; A listenig
+wazig -- blurry
+bevestigen -- confirm
+gekruld -- curly
+nuchter -- down-to-earth
+uitwisseling -- exchange
+opgewonden -- excited
+blond -- fair
+vlucht -- flight
+overweg kunnen -- get along
+gastgezin -- host family
+gemeenschappelijk -- in common
+ontmoeten -- meet
+passagier -- passenger
+gevoel voor humor -- sense of humour
+stekelig -- spiky
+sportief -- sporty
+; B theme words
+enkel -- ankle
+rug -- back
+hersenen -- brain
+chest -- bors
+kin -- chin
+elleboog -- elbow
+kaak -- jaw
+knie -- knee
+spieren -- muscles
+schouder shoulder
+huid -- skin
+maag -- stomach
+keel -- throat
+teen -- toe
+tand -- tooth
+pols -- wrist
+; C reading
+gebied -- area
+rieren -- celebrate
+figuur -- character 
+kleurrijk -- colourful
+kostuum -- costume
+nieuwsgierig -- curious
+schattig -- cute
+ontwerpen -- design
+jurk -- dress
+modieus, populair -- fashionable
+heel erg grappig -- hilarious 
+enorm -- huge
+binnen -- indoors
+uitnodigen -- invite
+voorbereiden -- prepare
+deelnemen aan -- take part in
+; D speaking & writing
+aantrekkelijk -- attractive
+wijd -- baggy
+beugel -- braces
+donker -- dark
+sproeten -- freckles
+vriendelijk -- friendly
+bril -- glasses
+prachtig -- gorgeous
+eerlijk -- honest
+trui met capuchon -- hooded sweatshirt
+leren, van leer -- leather
+geheugen -- memory
+gek op het buitenleven -- outdoorsy
+verlegen -- shy
+steil -- straight 
+zonnebril -- sunglasses
+broek -- trousers 
+geestig, gevat -- witty
 `;
 
 const assignments = new Assignments(raw);
