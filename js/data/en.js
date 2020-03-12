@@ -222,7 +222,7 @@ donderdag -- Thursday
 vrijdag -- Friday
 zaterdag -- Saturday
 zondag -- Sunday
-; A listenig
+; Vocabulary Four: A. Listening
 wazig -- blurry
 bevestigen -- confirm
 gekruld -- curly
@@ -239,7 +239,7 @@ passagier -- passenger
 gevoel voor humor -- sense of humour
 stekelig -- spiky
 sportief -- sporty
-; B theme words
+; Vocabulary Four: B. Theme Words
 enkel -- ankle
 rug -- back
 hersenen -- brain
@@ -256,7 +256,7 @@ keel -- throat
 teen -- toe
 tand -- tooth
 pols -- wrist
-; C reading
+; Vocabulary Four:  C. Reading
 gebied -- area
 rieren -- celebrate
 figuur -- character 
@@ -273,7 +273,7 @@ binnen -- indoors
 uitnodigen -- invite
 voorbereiden -- prepare
 deelnemen aan -- take part in
-; D speaking & writing
+; Vocabulary Four: D. Speaking & Writing
 aantrekkelijk -- attractive
 wijd -- baggy
 beugel -- braces
