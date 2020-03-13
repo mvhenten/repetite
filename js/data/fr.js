@@ -1,6 +1,41 @@
 import Assignments from "../lib/assignments.js";
 
 const unite3 = `
+; Unité 5 Apprendre 1
+de broer -- le frère
+de opa -- le grand-père
+de oma -- sa grand-mère
+ke tante -- la tante
+de oom -- l’oncle
+de neef -- le cousin
+de nicht -- la Cousine
+het neefje -- le neveu
+het nichtje -- la nièce
+met kind -- l’enfant
+de zoon -- le fils
+de dochter -- la fille
+beste -- meilleur, meilleure
+de vriendin -- l’amie
+de vriending -- la copine
+; Unité 5 Apprendre 2 
+de foto -- la photo
+ik woon -- je vis
+enig kind -- le fils uique
+door -- par 
+de oorsprong, de afkomst -- l'origin
+gescheiden -- divorcé
+ik zie -- je vois
+de keer -- la fois
+hij woont -- il vit
+de man, de echtgenoot -- le mari
+zomer -- l’été
+de grootouders -- les grands-parents
+aan de oever van -- au bord de 
+het strand -- la page
+zich amuseren -- s’amuser
+heel wat -- plein de 
+allemaal -- tous
+hetzelfde, dezelfde -- la même
 ; Unité 4 Apprendre 1
 het dier -- l’animal
 de dieren -- les animaux
