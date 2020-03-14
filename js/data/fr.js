@@ -17,6 +17,7 @@ de dochter -- la fille
 beste -- meilleur, meilleure
 de vriendin -- l'amie
 de vriending -- la copine
+wat is -- qu'est ce que
 ; Unité 5 Apprendre 2 
 de foto -- la photo
 ik woon -- je vis
@@ -36,6 +37,7 @@ zich amuseren -- s'amuser
 heel wat -- plein de 
 allemaal -- tous
 hetzelfde, dezelfde -- la même
+wat is -- qu'est ce que
 ; Unité 4 Apprendre 1
 het dier -- l'animal
 de dieren -- les animaux
@@ -88,7 +90,7 @@ Dat is aardig. -- C'est gentil.
 Waar is de kat? -- Où est le chat?
 Ik weet het niet. -- Je ne sais pas.
 Het spijt me. -- Je regrette.
-Wat heb je? -- Qu'ese que tu as?
+Wat heb je? -- Qu'est-ce que tu as?
 Hij heeft pijn aan zijn poot. -- Il a mal à la patte.
 Hij kan niet lopen. -- Il ne peut pas marcher.
 ; Unité 4 Apprendre 5
@@ -113,7 +115,7 @@ zoeken -- chercher
 gezien -- vu
 gewond -- blessé, blessée
 hopen -- espérer
-e que -- watqu'es
+wat is -- qu'est ce que
 pijn hebben -- avoir mal
 hij kan -- il peut
 lopen -- marcher
