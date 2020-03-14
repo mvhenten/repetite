@@ -6,16 +6,16 @@ de broer -- le frère
 de opa -- le grand-père
 de oma -- sa grand-mère
 ke tante -- la tante
-de oom -- l’oncle
+de oom -- l'oncle
 de neef -- le cousin
 de nicht -- la Cousine
 het neefje -- le neveu
 het nichtje -- la nièce
-met kind -- l’enfant
+met kind -- l'enfant
 de zoon -- le fils
 de dochter -- la fille
 beste -- meilleur, meilleure
-de vriendin -- l’amie
+de vriendin -- l'amie
 de vriending -- la copine
 ; Unité 5 Apprendre 2 
 de foto -- la photo
@@ -28,27 +28,27 @@ ik zie -- je vois
 de keer -- la fois
 hij woont -- il vit
 de man, de echtgenoot -- le mari
-zomer -- l’été
+zomer -- l'été
 de grootouders -- les grands-parents
 aan de oever van -- au bord de 
 het strand -- la page
-zich amuseren -- s’amuser
+zich amuseren -- s'amuser
 heel wat -- plein de 
 allemaal -- tous
 hetzelfde, dezelfde -- la même
 ; Unité 4 Apprendre 1
-het dier -- l’animal
+het dier -- l'animal
 de dieren -- les animaux
 de hond -- le chien
 de kat -- le chat
 de wolf -- le loup
-de spin -- l’araignée
+de spin -- l'araignée
 de tijger -- le tigre
 de slang -- le serpent
-de vogel -- l’oiseau
+de vogel -- l'oiseau
 de eend -- le canard
 de wesp -- le guêpe
-de olifant -- l’éléphant
+de olifant -- l'éléphant
 de kwal -- la méduse
 het paard -- le cheval
 de koe -- la vache
@@ -72,7 +72,7 @@ soms -- parfois
 de kip -- la poule
 de verrassing -- la surprise
 wanneer -- quand
-het lam -- l’agneau
+het lam -- l'agneau
 geboren -- né
 de nacht -- la nuit
 zo -- si
@@ -84,11 +84,11 @@ nog -- encore
 mogen, het recht hebben -- avoir le droit
 ; Unité 4 Apprendre 4
 Hij is dol op spelen. -- Il adore jouer.
-Dat is aardig. -- C’est gentil.
+Dat is aardig. -- C'est gentil.
 Waar is de kat? -- Où est le chat?
 Ik weet het niet. -- Je ne sais pas.
 Het spijt me. -- Je regrette.
-Wat heb je? -- Qu’ese que tu as?
+Wat heb je? -- Qu'ese que tu as?
 Hij heeft pijn aan zijn poot. -- Il a mal à la patte.
 Hij kan niet lopen. -- Il ne peut pas marcher.
 ; Unité 4 Apprendre 5
@@ -113,7 +113,7 @@ zoeken -- chercher
 gezien -- vu
 gewond -- blessé, blessée
 hopen -- espérer
-e que -- watqu’es
+e que -- watqu'es
 pijn hebben -- avoir mal
 hij kan -- il peut
 lopen -- marcher
