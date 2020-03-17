@@ -38,6 +38,79 @@ heel wat -- plein de
 allemaal -- tous
 hetzelfde, dezelfde -- la même
 wat is -- qu'est ce que
+; Unité 5 Apprendre 3
+mijn vader -- mon père
+mijn moeder -- ma mère
+mijn ouders -- mes parents
+jouw neef -- ton cousin
+jouw nicht -- ta cousine
+jouw nichten -- tes cousins
+zijn grootvader -- son grand-père
+zijn grootmoeder -- sa grand-mère
+zijn grootouders -- zes grands-parents
+haar neef -- son neveu
+haar nicht -- sa nièce
+haar neven -- ses enfants
+een adres -- une adresse
+mijn adres -- mon adresse
+; Unité 5 Apprendre 4
+Zij is leuk. -- Elle est cool.
+Er is al een bericht. -- Il y a déjà un message.
+Ik heb een bericht ontvangen. -- J'ai reçu un message.
+Ben je vrienden met Eloïse? -- Tu es ami avec Eloïse?
+Zij stuurt berichten. -- Elle envoie des message.
+Wij zijn vrienden. -- Nous sommes amis.
+Ik weet het niet. -- Je ne sais pas.
+Nathan is gek op Eloïse. -- Nathan est fou d'Eloïse.
+Zij gaat met Victor -- Elle sort avec Victor.
+; Unité 5 Apprendre 5
+vaak -- souvent
+laten zien, tonen -- montrer
+de pagina -- la page
+het meisje -- la fille
+klikken -- cliquer
+de foto -- la photo
+worden -- devenir
+lelijk -- moche
+we gaan naar buiten -- on sort
+heel wat -- plein de
+'s avonds -- le soir
+ontvangen -- reçu
+elke dag -- tous les jours
+gezegd -- dit
+de nicht -- la cousine
+gek -- fou, folle
+zij gaat uit -- elle sort
+zij antwoordt -- elle répond
+afgelopen -- terminé
+; Unité 5 Apprendre 6
+Ben je vrienden met Eloïse? -- Tu es ami avec Eloïse?
+Léa is vrienden met een nieuw meisje. -- Léa est amie avec une nouvelle fille.
+Wij zijn vrienden. -- Nous sommes amis.
+ik ben -- je suis
+jij bent -- tu es
+hij is -- il est
+zij is -- elle est
+men is, wij zijn -- on est
+wij zijn -- nous sommes
+jullie zijn, u bent -- vous êtes
+zij zijn -- ils sont
+zij zijn elles sont
+; Unité 5 Apprendre 7
+zij willen -- ils veulent
+verhuizen -- déménager
+zij gaan -- ils vont
+de oom (m) -- l'oncle (m)
+de tante -- la tante
+de minuut -- la minute
+ontmoeten -- rencontrer
+de boer -- le frère
+onverdraaglijk -- insupportable
+irriteren, ergeren -- énerver
+hij zet -- il met
+de muziek -- la musique
+zij zeggen -- ils disent
+nooit -- ne … jamais
 ; Unité 4 Apprendre 1
 het dier -- l'animal
 de dieren -- les animaux
