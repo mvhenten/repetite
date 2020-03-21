@@ -1,6 +1,97 @@
 import Assignments from "../lib/assignments.js";
 
 const raw = `
+; Theme Four: G LISTENING
+pijn doen -- ache
+eeuwenoud(e) -- ancient
+doedelzak -- bagpipe
+adembenemend -- breathtaking
+kanoën -- canoe
+gevangennemen -- capture
+kasteel -- castle
+munteenheid -- currency
+bestemming -- destination
+vechten -- fight
+held -- hero
+wandelen, trekken -- hike
+ruig -- rugged
+bestuur, heerschappij -- rule
+zeilen -- sail
+oever -- shore
+bezienswaardigheden bezoeken -- sightseeing
+bezoeker -- visitor
+; Theme Four: H READING
+avontuur -- adventure
+avonturier -- adventurer
+poging -- attempt
+dapper -- bravely
+liefdadige organisatie -- charity
+oversteken -- cross
+gevaarlijk -- dangerous
+onderzoek -- exploration
+ontdekkingsreiziger -- explorer
+interessant(e) -- interesting
+reis, tocht -- journey
+de voorjeur geven aan -- prefer
+soort -- species
+troep, rommel -- stuff
+benodigdheden -- supplies
+overleven -- survive
+(volks)stam -- tribe
+vulkaan -- volcano
+; Theme Four: I SPEAKING & WRITING
+platteland -- countryside
+beschrijven -- describe
+plat -- flat
+gebeuren -- happen
+heuvelachtig -- hilly
+herkenningpunt -- landmark
+landschap -- landscape
+nergens -- nowhere
+landschap -- scenery
+omgeving -- surroundings
+stad(je) -- town
+; Theme Four: PROVERBS & SAYINGS
+Je mag een gegeven paard niet in de bek kijken -- Don’t look a gift horse in the mouth
+Als aan de grond genageld staan. -- Like a deer in headlights.
+Informatie direct van de bron. -- Straight from the horse’s mouth.
+Iets in de verkeerde volgorde doen. -- To put the cart before the horse.
+; Vocabulary Four:  C. Reading
+gebied -- area
+rieren -- celebrate
+figuur -- character 
+kleurrijk -- colourful
+kostuum -- costume
+nieuwsgierig -- curious
+schattig -- cute
+ontwerpen -- design
+jurk -- dress
+modieus, populair -- fashionable
+heel erg grappig -- hilarious 
+enorm -- huge
+binnen -- indoors
+uitnodigen -- invite
+voorbereiden -- prepare
+deelnemen aan -- take part in
+; Vocabulary Four: D. Speaking & Writing
+aantrekkelijk -- attractive
+wijd -- baggy
+beugel -- braces
+donker -- dark
+sproeten -- freckles
+vriendelijk -- friendly
+bril -- glasses
+prachtig -- gorgeous
+eerlijk -- honest
+trui met capuchon -- hooded sweatshirt
+leren, van leer -- leather
+geheugen -- memory
+gek op het buitenleven -- outdoorsy
+verlegen -- shy
+steil -- straight 
+zonnebril -- sunglasses
+broek -- trousers 
+geestig, gevat -- witty
 ; Second theme A: Listening (p33)
 handvaardigheid -- arts and crafts 
 atletiek -- athletics 
@@ -256,42 +347,6 @@ keel -- throat
 teen -- toe
 tand -- tooth
 pols -- wrist
-; Vocabulary Four:  C. Reading
-gebied -- area
-rieren -- celebrate
-figuur -- character 
-kleurrijk -- colourful
-kostuum -- costume
-nieuwsgierig -- curious
-schattig -- cute
-ontwerpen -- design
-jurk -- dress
-modieus, populair -- fashionable
-heel erg grappig -- hilarious 
-enorm -- huge
-binnen -- indoors
-uitnodigen -- invite
-voorbereiden -- prepare
-deelnemen aan -- take part in
-; Vocabulary Four: D. Speaking & Writing
-aantrekkelijk -- attractive
-wijd -- baggy
-beugel -- braces
-donker -- dark
-sproeten -- freckles
-vriendelijk -- friendly
-bril -- glasses
-prachtig -- gorgeous
-eerlijk -- honest
-trui met capuchon -- hooded sweatshirt
-leren, van leer -- leather
-geheugen -- memory
-gek op het buitenleven -- outdoorsy
-verlegen -- shy
-steil -- straight 
-zonnebril -- sunglasses
-broek -- trousers 
-geestig, gevat -- witty
 `;
 
 const assignments = new Assignments(raw);
