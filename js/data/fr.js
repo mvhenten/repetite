@@ -139,6 +139,17 @@ zwemmen -- nager
 prikken, steken -- piquer
 gevaarlijk -- dangereux, dangereuse
 wild -- sauvage
+; Unité 5 Apprendre 8
+Ik heb een probleem. -- J'ai un problème.
+Ik heb een grote zus. -- J'ai une grande sœur.
+Zij is 22. -- Elle a vingt-deux ans.
+Mijn broertje irriteert me. -- Mon petit frère m'enerve.
+Ik heb geen broers en geen zussen. -- Je n'ai pas de frères et pas de sœurs.
+Wat doe je zondag? -- Qu'est-ce que tu fais dimanche?
+Hij/zij is zaterdag jarig. -- Samedi, c'est son anniversaire.
+Hoe oud wordt ze? -- Elle va avoir quel âge?
+Ga jij naar je opa? -- Tu vas chez ton grand-père?
+Houd jij van familie-feesten? -- Tu aimes les fêtes de familie?
 ; Unité 4 Apprendre 2
 de boerderij -- la ferme
 de ouders -- les parents
