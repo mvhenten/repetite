@@ -8,7 +8,7 @@ de oma -- sa grand-mère
 ke tante -- la tante
 de oom -- l'oncle
 de neef -- le cousin
-de nicht -- la Cousine
+de nicht -- la cousine
 het neefje -- le neveu
 het nichtje -- la nièce
 met kind -- l'enfant
@@ -100,7 +100,7 @@ zij zijn elles sont
 zij willen -- ils veulent
 verhuizen -- déménager
 zij gaan -- ils vont
-de oom (m) -- l'oncle (m)
+de oom -- l'oncle
 de tante -- la tante
 de minuut -- la minute
 ontmoeten -- rencontrer
@@ -110,7 +110,7 @@ irriteren, ergeren -- énerver
 hij zet -- il met
 de muziek -- la musique
 zij zeggen -- ils disent
-nooit -- ne … jamais
+nooit -- ne ... jamais
 ; Unité 4 Apprendre 1
 het dier -- l'animal
 de dieren -- les animaux
@@ -357,7 +357,8 @@ de dag -- le jour
 woensdag -- emrcredi
 dol zijn op -- adorer
 dansen -- danser
-zingen -- chjanterveel -- beaucoup
+zingen -- chanter
+veel -- beaucoup
 dus, dan -- alors
 de les -- le cours
 jammer -- dommage
