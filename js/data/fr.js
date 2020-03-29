@@ -1,6 +1,6 @@
 import Assignments from "../lib/assignments.js";
 
-const unite3 = `
+const unite5 =`
 ; Unité 5 Apprendre 1
 de broer -- le frère
 de opa -- le grand-père
@@ -111,6 +111,35 @@ hij zet -- il met
 de muziek -- la musique
 zij zeggen -- ils disent
 nooit -- ne ... jamais
+; Unité 5 Apprendre 8
+Ik heb een probleem. -- J'ai un problème.
+Ik heb een grote zus. -- J'ai une grande sœur.
+Zij is 22. -- Elle a vingt-deux ans.
+Mijn broertje irriteert me. -- Mon petit frère m'enerve.
+Ik heb geen broers en geen zussen. -- Je n'ai pas de frères et pas de sœurs.
+Wat doe je zondag? -- Qu'est-ce que tu fais dimanche?
+Hij/zij is zaterdag jarig. -- Samedi, c'est son anniversaire.
+Hoe oud wordt ze? -- Elle va avoir quel âge?
+Ga jij naar je opa? -- Tu vas chez ton grand-père?
+Houd jij van familie-feesten? -- Tu aimes les fêtes de familie?
+; Unité 5 Apprendre 9
+het uitstapje -- la sortie
+de famillie -- la famille
+de ouders -- les parents 
+komen -- venir
+alweer -- encore
+het feest -- la fête
+scheiden -- divorcer
+volgende -- prochain, prochaine
+de opa -- le grand-père
+oraniseren -- organiser
+uitnodigen -- inviter
+het kind -- l'enfant
+de kleinkinederen -- les petits-enfants
+de neef -- le cousin
+`;
+
+const unite3 = `
 ; Unité 4 Apprendre 1
 het dier -- l'animal
 de dieren -- les animaux
@@ -139,17 +168,6 @@ zwemmen -- nager
 prikken, steken -- piquer
 gevaarlijk -- dangereux, dangereuse
 wild -- sauvage
-; Unité 5 Apprendre 8
-Ik heb een probleem. -- J'ai un problème.
-Ik heb een grote zus. -- J'ai une grande sœur.
-Zij is 22. -- Elle a vingt-deux ans.
-Mijn broertje irriteert me. -- Mon petit frère m'enerve.
-Ik heb geen broers en geen zussen. -- Je n'ai pas de frères et pas de sœurs.
-Wat doe je zondag? -- Qu'est-ce que tu fais dimanche?
-Hij/zij is zaterdag jarig. -- Samedi, c'est son anniversaire.
-Hoe oud wordt ze? -- Elle va avoir quel âge?
-Ga jij naar je opa? -- Tu vas chez ton grand-père?
-Houd jij van familie-feesten? -- Tu aimes les fêtes de familie?
 ; Unité 4 Apprendre 2
 de boerderij -- la ferme
 de ouders -- les parents
@@ -734,6 +752,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(unite3 + unite2 + unite1);
+const assignments = new Assignments(unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
