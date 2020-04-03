@@ -1,6 +1,74 @@
 import Assignments from "../lib/assignments.js";
 
 const unite5 =`
+; Unité 6 Apprendre 1
+de kleren -- les vêtements
+de kleur -- la couleur
+rood -- rouge
+oranje -- orange
+geel -- jaune
+rose -- rose
+groen -- vert, verte
+blauw -- bleu, bleue
+paars -- violet, violette
+bruin -- marron
+wit -- blanc, blanche
+de hoed -- le chapeau
+de pet -- la casquette
+de jurk -- la robe
+de jas -- le manteau
+de trui -- le pull
+het sweatshirt -- le sweat
+het T-shirt -- le T-shirt
+het topje -- le top
+het jack -- le blouson
+de spijkerbroek -- le jean
+de broek -- le pantalon
+de legging -- le legging
+de panty, de maillot -- le collant
+de rok -- la jupe
+de schoen -- la chaussure
+de sok -- la chaussette
+de basketbalschoenen -- les baskets
+de laars -- la botte
+; Unité 6 Apprendre 2
+de modeshow -- le défilé de mode
+kiezen -- choisir
+gebruiken -- utiliser
+vooral -- surtout
+de fantasie, de verbeelding -- l'imagination
+deelnemen -- participer
+je kunt -- tu peux
+aantrekken -- mettre
+het jaar -- l'année
+het ding -- le truc
+er is nodig, er zijn nodig -- il faut
+het kaartje -- le billet
+de verkoop -- la vente
+de opbrengst -- la recette
+prijs -- le prix
+winnen -- gagner
+het tenue -- la tenue
+het eind -- la fin
+de volwassene -- l'adulte
+de deelnemer -- le participant
+gratis -- gratuit
+schrijf je in -- inscivez-vous
+dus -- donc
+snel -- vite
+in elk geval -- en tout cas
+de inschrijving -- l'inscription
+de opening -- l'ouverture
+; Unité 6 Apprendre 4
+Waar gaan we naartoe -- On va où pour les vêtements?
+Kijk die jas, super! -- Regarde ce manteau, super!
+Nee, geen sprake van -- Non, pas question
+Meneer, hoeveel kost dat? -- Monsieur, c'est combien?
+Dat is te duur -- C'est trop cher
+Dat is mijn (schoen)maat -- C'est ma pointure
+Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
+Hij staat je geweldig -- Il te va super bien
+Hij draagt een pak -- Il porte un costume
 ; Unité 5 Apprendre 1
 de broer -- le frère
 de opa -- le grand-père
