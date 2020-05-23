@@ -28,10 +28,11 @@ const Settings = ({ appState }) => {
 };
 
 class AppContainer extends Component {
-    state = { value: "" }
 
     constructor({ assignments, appState }) {
         super();
+        
+        this.state = { value: "" };
 
         this.appState = appState;
         this.assignments = assignments;
@@ -43,13 +44,6 @@ class AppContainer extends Component {
         this.appState.on("setAssignmentSettings", (evt) => {
             this.setState({ settings: evt.detail });
         });
-
-        // debug
-        // let selected = Array.from(this.assignments.keys)[0];
-        // const words = assignments.getWords(selected);
-
-        // this.appState.emit("selectAssignment", { mode: "test", selected, words });
-        // this.setState({ settings: {} });
     }
 
     renderBody() {
