@@ -69,7 +69,7 @@ Dat is mijn (schoen)maat -- C'est ma pointure
 Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
 Hij staat je geweldig -- Il te va super bien
 Hij draagt een pak -- Il porte un costume
-; Unité 5 Apprendre 1
+; Unité 5 Apprendre 1a
 de broer -- le frère
 de opa -- le grand-père
 de oma -- sa grand-mère
@@ -106,6 +106,66 @@ heel wat -- plein de
 allemaal -- tous
 hetzelfde, dezelfde -- la même
 wat is -- qu'est ce que
+; Unité 6 Apprendre 6
+70 -- soixante-dix
+71 -- soixante et onze
+72 -- soixante-douze
+73 -- soixante-treize
+74 -- soixante-quatorze
+75 -- soixante-quinze
+76 -- soixante-seize
+77 -- soixante-dix-sept
+78 -- soixante-dix-huit
+79 -- soixante-dix-neuf
+80 -- quatre-vingts
+81 -- quatre-vingts-un
+82 -- quatre-vingts-deux
+83 -- quatre-vingts-trois
+84 -- quatre-vingts-quatre
+85 -- quatre-vingts-cinq
+86 -- quatre-vingts-six
+87 -- quatre-vingts-sept
+88 -- quatre-vingts-huit
+89 -- quatre-vingts-neuf
+90 -- quatre-vingts-dix
+91 -- quatre-vingts-onze
+92 -- quatre-vingts-doze
+93 -- quatre-vingts-treize
+94 -- quatre-vingts-
+95 -- quatre-vingts-quinze
+96 -- quatre-vingts-seize
+97 -- quatre-vingts-sept
+98 -- quatre-vingts-huit
+99 -- quatre-vingts-neuf
+100 -- cent
+; Unité 6 Apprendre 7
+de jurk -- la robe
+orange -- orange
+iets  anders -- autre chose
+ik geloof -- je crois
+liever hebben, prefereren -- préférer
+blauw -- bleu, bleue
+het T-shirt -- le T-shirt
+geel -- jaune
+de rok -- la jupe
+de winkel -- le magasin
+overal; partout
+hetzelfde -- pareil
+wicked -- large
+wit -- blanc, blanche
+het jack -- le blouson
+de basketbalschoenen -- les baskets
+de pet -- la cassette
+de etalage -- la vitrine
+een beetje -- un peu
+kort -- court, courte
+precies -- exactement
+ik wil graag -- je voudrais
+aanpassen, proberen -- essayeer
+de maat -- la taille
+de vrouw -- la femme
+de paskamer -- la cabine
+achterin -- au fond
 ; Unité 5 Apprendre 3
 mijn vader -- mon père
 mijn moeder -- ma mère
