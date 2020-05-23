@@ -1,6 +1,6 @@
 import Assignments from "../lib/assignments.js";
 
-const unite5 =`
+const unite6 =`
 ; Unité 6 Apprendre 1
 de kleren -- les vêtements
 de kleur -- la couleur
@@ -69,43 +69,6 @@ Dat is mijn (schoen)maat -- C'est ma pointure
 Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
 Hij staat je geweldig -- Il te va super bien
 Hij draagt een pak -- Il porte un costume
-; Unité 5 Apprendre 1a
-de broer -- le frère
-de opa -- le grand-père
-de oma -- sa grand-mère
-ke tante -- la tante
-de oom -- l'oncle
-de neef -- le cousin
-de nicht -- la cousine
-het neefje -- le neveu
-het nichtje -- la nièce
-met kind -- l'enfant
-de zoon -- le fils
-de dochter -- la fille
-beste -- meilleur, meilleure
-de vriendin -- l'amie
-de vriending -- la copine
-wat is -- qu'est ce que
-; Unité 5 Apprendre 2 
-de foto -- la photo
-ik woon -- je vis
-enig kind -- le fils uique
-door -- par 
-de oorsprong, de afkomst -- l'origin
-gescheiden -- divorcé
-ik zie -- je vois
-de keer -- la fois
-hij woont -- il vit
-de man, de echtgenoot -- le mari
-zomer -- l'été
-de grootouders -- les grands-parents
-aan de oever van -- au bord de 
-het strand -- la page
-zich amuseren -- s'amuser
-heel wat -- plein de 
-allemaal -- tous
-hetzelfde, dezelfde -- la même
-wat is -- qu'est ce que
 ; Unité 6 Apprendre 6
 70 -- soixante-dix
 71 -- soixante et onze
@@ -166,6 +129,47 @@ de maat -- la taille
 de vrouw -- la femme
 de paskamer -- la cabine
 achterin -- au fond
+`;
+
+
+const unite5 =`
+; Unité 5 Apprendre 1
+de broer -- le frère
+de opa -- le grand-père
+de oma -- sa grand-mère
+ke tante -- la tante
+de oom -- l'oncle
+de neef -- le cousin
+de nicht -- la cousine
+het neefje -- le neveu
+het nichtje -- la nièce
+met kind -- l'enfant
+de zoon -- le fils
+de dochter -- la fille
+beste -- meilleur, meilleure
+de vriendin -- l'amie
+de vriending -- la copine
+wat is -- qu'est ce que
+; Unité 5 Apprendre 2
+de foto -- la photo
+ik woon -- je vis
+enig kind -- le fils uique
+door -- par
+de oorsprong, de afkomst -- l'origin
+gescheiden -- divorcé
+ik zie -- je vois
+de keer -- la fois
+hij woont -- il vit
+de man, de echtgenoot -- le mari
+zomer -- l'été
+de grootouders -- les grands-parents
+aan de oever van -- au bord de
+het strand -- la page
+zich amuseren -- s'amuser
+heel wat -- plein de
+allemaal -- tous
+hetzelfde, dezelfde -- la même
+wat is -- qu'est ce que
 ; Unité 5 Apprendre 3
 mijn vader -- mon père
 mijn moeder -- ma mère
@@ -253,7 +257,7 @@ Houd jij van familie-feesten? -- Tu aimes les fêtes de familie?
 ; Unité 5 Apprendre 9
 het uitstapje -- la sortie
 de famillie -- la famille
-de ouders -- les parents 
+de ouders -- les parents
 komen -- venir
 alweer -- encore
 het feest -- la fête
@@ -880,6 +884,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(unite5 + unite3 + unite2 + unite1);
+const assignments = new Assignments(unite6 + unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
