@@ -1,97 +1,90 @@
-import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.js'
+import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.js';
 
-import ElementContainer from "./container.js";
-
-import FormContainer from "./form.js";
-
-const AssignmentsForm = ({assignments}) => {
-        const options = Array.from(assignments.keys);
-        
-        const assignmentsFormContainer = new FormContainer("#assignments");
+import AssignmentsForm from "./form/assignments.js";
+import QuizzForm from "./form/quizz.js";
 
 
-        const onSelectAssignment = () => {
-            const selected = assignmentsFormContainer.getValue("assignment");
-            const mode = assignmentsFormContainer.getValue("mode");
-            const words = assignments.getWords(selected);
-        };
-        
-        return html `
-            <form onSubmit=${onSelectAssignment} id="assignments">
-                <label>
-                    Select            
-                    <select id="assignments-assignment" name="assignment">
-                    ${options.map((header) => {
-                        return html `<option value=${header}>${header}</option>`;
-                    })}
-                    </select>
-                </label>
-                <div class="text-medium padding-1 spaced-2x">
-                    <label for="mode-test">
-                        <input id="mode-test" checked name="mode" value="test" type="radio" />
-                        Testen
-                    </label>
-                    <label for="mode-practice">
-                        <input id="mode-practice" name="mode" value="practice" type="radio" />
-                        Oefenen
-                    </label>
-                </div>
-                <input type="submit" value="start" />
-            </form>
-        `;
+const Settings = ({ appState }) => {
+    let state = { speed: 5 };
 
-};
+    let onSubmit = e => {
+        e.preventDefault();
+        appState.emit("setAssignmentSettings", state);
+    };
 
-const answers = () => {
+    let onChange = e => {
+        state.speed = e.target.value;
+    };
+
     return html `
-        <form id="answers">
-            <input autoFocus type="text" autocomplete="off" name="answer" placeholder="antwoord" />
-        </form>
-    `;
-};
-
-const settings = () => {
-    return html `
-        <form id="settings">
+        <form id="settings" onSubmit=${onSubmit}>
             <label for="timeout">
                 snelheid:
-                <input value="5" min="1" max="10" type="number" name="timeout" id="settings-timeout" />
+                <input onChange=${onChange} value="${state.speed}" min="0" max="10" type="number" name="timeout" id="settings-timeout" />
             </label>
             <input type="submit" value="start" />
         </form>
     `;
 };
 
+class AppContainer extends Component {
+    state = { value: "" }
 
-
-class AppContainer extends ElementContainer {
-    constructor({assignments}) {
+    constructor({ assignments, appState }) {
         super();
-        this.state = {assignments};
+
+        this.appState = appState;
+        this.assignments = assignments;
+
+        this.appState.on("selectAssignment", (evt) => {
+            this.setState({ assignment: evt.detail });
+        });
+
+        this.appState.on("setAssignmentSettings", (evt) => {
+            this.setState({ settings: evt.detail });
+        });
+
+        // debug
+        // let selected = Array.from(this.assignments.keys)[0];
+        // const words = assignments.getWords(selected);
+
+        // this.appState.emit("selectAssignment", { mode: "test", selected, words });
+        // this.setState({ settings: {} });
+    }
+
+    renderBody() {
+        const { appState, assignments } = this;
+        const { assignment, settings } = this.state;
+
+        console.log("state", this.state);
+
+        switch (true) {
+            case !!settings:
+                return html `<${QuizzForm} ...${{appState, settings, assignment}}/>`;
+            case !!assignment:
+                return html `<${Settings} ...${{appState}} />`;
+            default:
+                return html `<${AssignmentsForm} ...${{appState, assignments}} />`;
+        }
     }
 
     render() {
         const toggleDarkMode = () => {
             document.body.classList.toggle("night");
         };
-        
+
         return html `
-        <div>
-            <div class="pull-right spaced-2x">
-                <a onClick=${toggleDarkMode} id="nightlink" href="#dark">🌙 night mode</a>
-                <a id="homelink" href="../index.html"> 🏠 Home</a>
-            </div>
-            <h4 id="progress">
-            </h4>
-        
-            <div class="container">
-                <h1 id="finish">bravo</h1>
-                <h3 id="help"></h3>
-                <h3 id="questions"></h3>
-                <${AssignmentsForm} assignments=${this.state.assignments} />
-                ${settings()}
-                ${answers()}
-            </div>
+            <div>
+                <div class="pull-right spaced-2x">
+                    <a onClick=${toggleDarkMode} id="nightlink" href="#dark">🌙 night mode</a>
+                    <a id="homelink" href="../index.html"> 🏠 Home</a>
+                </div>
+                <h4 id="progress">
+                </h4>
+            
+                <div class="container">
+                    ${this.renderBody()}
+                </div>
             </div>
         `;
     }
