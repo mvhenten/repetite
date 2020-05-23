@@ -9,7 +9,7 @@ class QuizzState extends AppState {
         
         console.log("speed", speed);
 
-        this.speed = speed;
+        this.speed = parseInt(speed, 10);
         this.timeout = TIMEOUT / this.speed;
     }
 
@@ -27,6 +27,7 @@ class QuizzState extends AppState {
 
     scheduleNext() {
         this.cancel();
+        
 
         this.keyboard.once("keydownSpace", () => {
             this.emitNextQuestion();
@@ -36,7 +37,6 @@ class QuizzState extends AppState {
         if (this.speed !== 0) {
             this._timeout = setTimeout(() => {
                 this.emitNextQuestion();
-                this.emit("nextQuestion");
             }, this.timeout);
         }
     }

@@ -14,6 +14,7 @@ const init = (assignments) => {
     if (!assignments) return;
     
     const appState = new AppState();
+    
     render(html`<${AppContainer} ...${{assignments, appState}} />`, document.body);
 };
 
