@@ -94,12 +94,12 @@ Hij draagt een pak -- Il porte un costume
 91 -- quatre-vingts-onze
 92 -- quatre-vingts-doze
 93 -- quatre-vingts-treize
-94 -- quatre-vingts-
+94 -- quatre-vingts-quatorze
 95 -- quatre-vingts-quinze
 96 -- quatre-vingts-seize
-97 -- quatre-vingts-sept
-98 -- quatre-vingts-huit
-99 -- quatre-vingts-neuf
+97 -- quatre-vingts-dix-sept
+98 -- quatre-vingts-dix-huit
+99 -- quatre-vingts-dix-neuf
 100 -- cent
 ; Unité 6 Apprendre 7
 de jurk -- la robe
