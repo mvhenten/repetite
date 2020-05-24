@@ -114,7 +114,6 @@ de rok -- la jupe
 de winkel -- le magasin
 overal; partout
 hetzelfde -- pareil
-wicked -- large
 wit -- blanc, blanche
 het jack -- le blouson
 de basketbalschoenen -- les baskets
