@@ -2,7 +2,7 @@ import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.
 
 import AssignmentsForm from "./form/assignments.js";
 import QuizzForm from "./form/quizz.js";
-
+import Progress from "./progress.js";
 
 const Settings = ({ appState }) => {
     let state = { speed: 5 };
@@ -61,6 +61,15 @@ class AppContainer extends Component {
                 return html `<${AssignmentsForm} ...${{appState, assignments}} />`;
         }
     }
+    
+    renderProgress() {
+        const { appState } = this;
+        const { assignment, settings } = this.state;
+        
+        if (settings) {
+            return html `<${Progress} ...${{appState, settings, assignment}}/>`;
+        }
+    }
 
     render() {
         const toggleDarkMode = () => {
@@ -73,8 +82,10 @@ class AppContainer extends Component {
                     <a onClick=${toggleDarkMode} id="nightlink" href="#dark">🌙 night mode</a>
                     <a id="homelink" href="../index.html"> 🏠 Home</a>
                 </div>
-                <h4 id="progress">
-                </h4>
+                
+                <div>
+                    ${this.renderProgress()}
+                </div>
             
                 <div class="container">
                     ${this.renderBody()}

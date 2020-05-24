@@ -1,14 +1,26 @@
-import ElementContainer from "./container.js";
+import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.js';
 
-class ProgressContainer extends ElementContainer {
-    constructor(selector, questions) {
-        super(selector);
-        this._questions = questions;
+
+class ProgressContainer extends Component {
+
+    constructor({ assignments, appState, settings }) {
+        super();
+
+        appState.on("nextQuestion", ({detail}) => {
+            this.setState({questions: detail});
+        });
     }
 
     render() {
-        const { total, correct, len, failed } = this._questions;
-        this.update(`Total ${total}, correct ${correct}, reste ${len}, erreur: ${failed}`);
+        let state = this.state;
+        
+        if (!state.questions)
+            return;
+            
+        const { total, correct, len, failed } = state.questions;
+        
+
+        return html`<h4>Total ${total}, ok ${correct}, left ${len}, error: ${failed}</h4>`;
     }
 }
 

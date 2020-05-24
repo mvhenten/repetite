@@ -52,6 +52,7 @@ class QuizzForm extends Component {
         this.appState = appState;
         this.settings = settings;
         this.quizzState.on("nextQuestion", () => {
+            appState.emit("nextQuestion", this.questions);
             this.onNextQuestion();
         });
     }
@@ -96,6 +97,12 @@ class QuizzForm extends Component {
     render() {
         const { state, questions } = this;
         const [question] = questions.current;
+
+
+        const { total, correct, len, failed } = questions;
+        
+        console.log({ total, correct, len, failed });
+
 
         switch (true) {
             case !questions.len:
