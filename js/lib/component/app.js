@@ -64,9 +64,7 @@ class AppContainer extends Component {
         const { appState } = this;
         const { assignment, settings } = this.state;
         
-        if (settings) {
-            return html `<${Progress} ...${{appState, settings, assignment}}/>`;
-        }
+        return html `<${Progress} ...${{appState, settings, assignment}}/>`;
     }
 
     render() {

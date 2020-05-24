@@ -15,8 +15,9 @@ class ProgressContainer extends Component {
         let state = this.state;
         
         if (!state.questions)
-            return;
-            
+            return html`<h4>Total 0, ok 0, left 0, error: 0</h4>`;
+
+
         const { total, correct, len, failed } = state.questions;
         
 
