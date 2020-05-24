@@ -45,8 +45,6 @@ class QuizzForm extends Component {
         const { words, mode } = assignment;
         const { speed } = settings;
 
-        console.log("settings", settings);
-
         this.questions = new Questions(words, mode);
         this.quizzState = new QuizzState(speed);
         this.appState = appState;
@@ -97,12 +95,6 @@ class QuizzForm extends Component {
     render() {
         const { state, questions } = this;
         const [question] = questions.current;
-
-
-        const { total, correct, len, failed } = questions;
-        
-        console.log({ total, correct, len, failed });
-
 
         switch (true) {
             case !questions.len:

@@ -7,8 +7,6 @@ class QuizzState extends AppState {
     constructor(speed) {
         super();
         
-        console.log("speed", speed);
-
         this.speed = parseInt(speed, 10);
         this.timeout = TIMEOUT / this.speed;
     }

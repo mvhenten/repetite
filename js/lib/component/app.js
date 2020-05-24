@@ -50,8 +50,6 @@ class AppContainer extends Component {
         const { appState, assignments } = this;
         const { assignment, settings } = this.state;
 
-        console.log("state", this.state);
-
         switch (true) {
             case !!settings:
                 return html `<${QuizzForm} ...${{appState, settings, assignment}}/>`;
