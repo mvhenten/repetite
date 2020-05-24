@@ -1,10 +1,10 @@
 import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.js';
 
 class AnswerForm extends Component {
-    state = {};
 
     constructor({ onSubmit }) {
         super();
+        this.state = {};
         this.doOnSubmit = onSubmit;
     }
 

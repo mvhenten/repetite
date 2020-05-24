@@ -22,10 +22,10 @@ const RadioButton = ({ name, checked, label, value, onChange }) => {
 
 
 class AssignmentsForm extends Component {
-    state = { value: "" }
 
     constructor({ assignments, appState }) {
         super();
+        this.state = { value: "" };
         this.appState = appState;
         this.assignments = assignments;
     }
