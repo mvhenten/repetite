@@ -128,7 +128,37 @@ de maat -- la taille
 de vrouw -- la femme
 de paskamer -- la cabine
 achterin -- au fond
-`;
+; Unité 6 Apprendre 8
+Dat is in de mode. -- C’est à la mode.
+Dat zijn mijn lievelingskleren. -- Ce sont mes vêtements favoris.
+We dragen een sweatshirt. -- Nous portos un sweat.
+Dat is precies mijn stijl. -- C’est exactement mon style.
+Dat is waardeloos. -- C’est nul.
+Wat trek jij morgen aan? -- Qu’est-ce que to vas mettre demain?
+Dat is niet mooi. -- C’est n’est pas joli.
+Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
+Ik heb maat 42. -- Je fais du 42.
+De trui is splinternieuw. -- Le pull est tout neuf.
+; Unité 6 Apprendre 9 
+niets -- ne... rien
+Het topje -- le top
+Lichtblauw -- bleu clair
+niet gek -- pas mal
+waar -- vraag
+de legging -- le legging
+lenen aan -- trêter à
+geweldig -- formidable
+de man -- l’homme
+wensen -- désirer
+het model -- le modèle
+daar, daarginds -- là bas
+de vlek -- la tache
+de trui -- le pull
+gisteren -- hier
+de pen -- le stylo
+de ramp -- la catastrophe
+nieuw -- neuf, neuve
+de oplossing -- la solution`;
 
 
 const unite5 =`
