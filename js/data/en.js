@@ -1,6 +1,67 @@
 import Assignments from "../lib/assignments.js";
 
-const raw = `
+const ThemeFive = `
+; Theme Five A Listening
+uitzenden -- air
+toestaan -- allow
+bordspel -- board game
+line -- borrow
+bijpraten -- catch up
+beslissen -- decide
+precies -- exactly
+koelkast -- fridge
+wen aan -- get used to
+voorstellen -- imagine
+uitvinden -- invent
+ketel -- kettle
+luisteraar -- listener
+kijkcijfers -- ratings
+delen -- share
+ruiken -- smell
+fornuis -- stove
+worstelen -- struggle
+technologie -- technology
+typisch -- typical
+; Theme Five B Theme Words
+zolder -- attic
+kelder -- basement
+gebouw -- building
+plafon -- ceiling
+kussen -- cushion
+beneden -- downstairs
+oprit -- driveway
+meubilair -- furniture
+gazon -- lawn
+buurt, wijk -- neighbourhood
+(hoofd) kussen -- pillow
+schuur (tje) -- shed
+gootsteen -- sink
+kraan -- tap
+boven -- upstairs
+kledingkast -- wardrobe
+; Theme Five C Reading
+immers -- after all
+waarderen -- appreciate
+schors -- bark
+deken -- blanket
+baksteen -- brick
+bioscoop -- cinema
+comfortabel -- comfortable
+gemeenschap -- community
+visser -- fisherman
+(dieren) huid -- hide
+jager -- hunter
+ijs -- ice
+bereiken -- reach
+gebied -- region
+sneeuw -- snow
+vangen -- trap
+rijk, welvaren -- wealthy
+hout -- wood
+`;
+
+
+const ThemeFour = `
 ; Theme Four: G LISTENING
 pijn doen -- ache
 eeuwenoud(e) -- ancient
@@ -349,6 +410,6 @@ tand -- tooth
 pols -- wrist
 `;
 
-const assignments = new Assignments(raw);
+const assignments = new Assignments(ThemeFive + ThemeFour);
 
 export default assignments;
