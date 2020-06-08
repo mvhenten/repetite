@@ -1,6 +1,68 @@
 import Assignments from "../lib/assignments.js";
 
 const ThemeFive = `
+; Theme Five D speaking en writing
+het eens zijn met -- agree with
+boot -- boat
+boekenkast -- bookcase
+stapelbed -- bunkbed
+tapijt -- carpet
+bureau -- desk
+vrijstaand huis -- detached house
+niet leuk vinden -- dislike
+boerderij -- farm
+vloer -- floor
+twee-onder-een-kapwonig -- semi-detched house
+rijtjeshuis -- terraced house
+netjes -- tidy
+bovenste verdieping -- top floor
+muur -- wall
+geweldig -- wonderful
+; Theme Five G listening
+verschrikkelijk -- awful
+kostschool -- boarding games
+munt -- coin
+griezelig -- creepy
+ingang -- entrance
+verwachten -- expect
+volgen -- follow
+lijmen -- glue
+schoolhoofd -- headmaster
+bibliotheek -- library
+enorm(e) -- massive
+stapel -- pile
+sportterrein -- pitch
+grap -- prank
+toekomstige -- prospectieve
+leerling -- pupil
+rondleiding -- show around
+naar binnen sluipen -- sneak into
+warm -- toasty
+handdoek -- towel
+; Theme Five H reading
+voor de deur -- on your doorstep
+everzwijn -- boar
+knus, gezellig -- cosy
+hert -- deer
+opknappen -- do up
+dubbeldekkerbus -- double-decker bus
+uitzonderlijk(e) -- extraordinary
+gelukkig -- fortunately
+beangstigend -- frightening
+blokhut -- log cabin
+lawaaierig(e) -- noisy
+pauw -- peacock
+dennenboom -- pine tree
+ijsbeer -- polar bear
+ronddwalen -- roam
+brullen -- roar
+eekhoorn -- squirrel
+boomhut -- tree house
+; Theme Five I speaking & wtiting
+afwassen -- do the dishes
+wedstrijd -- match
+hardop -- out loud
+herhaling -- repeat
 ; Theme Five A Listening
 uitzenden -- air
 toestaan -- allow
