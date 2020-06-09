@@ -147,7 +147,8 @@ duur -- cher, chère
 de jas -- le manteau
 de hoed -- le chapeau
 laat maar -- laisse tomber
-de schoen -- la chaussurerood -- rouge
+de schoen -- la chaussure
+rood -- rouge
 de schoenmaat -- la pointure
 kosten -- coûter
 dragen -- porter
