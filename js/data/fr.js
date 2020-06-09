@@ -153,7 +153,7 @@ We dragen een sweatshirt. -- Nous portos un sweat.
 Dat is precies mijn stijl. -- C’est exactement mon style.
 Dat is waardeloos. -- C’est nul.
 Wat trek jij morgen aan? -- Qu’est-ce que to vas mettre demain?
-Dat is niet mooi. -- C’est n’est pas joli.
+Dat is niet mooi. -- Ce n’est pas joli.
 Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
 Ik heb maat 42. -- Je fais du 42.
 De trui is splinternieuw. -- Le pull est tout neuf.
