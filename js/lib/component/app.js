@@ -3,6 +3,7 @@ import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.
 import AssignmentsForm from "./form/assignments.js";
 import QuizzForm from "./form/quizz.js";
 import Progress from "./progress.js";
+import PrintView from "./form/print.js";
 
 const Settings = ({ appState }) => {
     let state = { speed: 5 };
@@ -51,6 +52,8 @@ class AppContainer extends Component {
         const { assignment, settings } = this.state;
 
         switch (true) {
+            case (assignment && assignment.mode == "print"):
+                return html `<${PrintView} ...${{assignment}} />`;
             case !!settings:
                 return html `<${QuizzForm} ...${{appState, settings, assignment}}/>`;
             case !!assignment:
@@ -63,8 +66,14 @@ class AppContainer extends Component {
     renderProgress() {
         const { appState } = this;
         const { assignment, settings } = this.state;
+
+        switch (true) {
+            case (assignment && assignment.mode == "print"):
+                return html `<h4>Test</h4>`;
+            default:
+                return html `<${Progress} ...${{appState, settings, assignment}}/>`;
+        }
         
-        return html `<${Progress} ...${{appState, settings, assignment}}/>`;
     }
 
     render() {

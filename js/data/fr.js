@@ -130,7 +130,7 @@ het T-shirt -- le T-shirt
 geel -- jaune
 de rok -- la jupe
 de winkel -- le magasin
-overal; partout
+overal -- partout
 hetzelfde -- pareil
 wit -- blanc, blanche
 het jack -- le blouson

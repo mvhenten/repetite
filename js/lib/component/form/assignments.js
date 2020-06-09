@@ -76,6 +76,7 @@ class AssignmentsForm extends Component {
                 <div class="text-medium padding-1 spaced-2x">
                     <${RadioButton} name="mode" value="test" checked=${this.mode} onChange=${this.onSetMode} label="Testen" />
                     <${RadioButton} name="mode" value="practice" checked=${this.mode} onChange=${this.onSetMode} label="Oefenen" />
+                    <${RadioButton} name="mode" value="print" checked=${this.mode} onChange=${this.onSetMode} label="Print" />
                 </div>
                 <input type="submit" value="start" />
             </form>
