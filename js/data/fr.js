@@ -141,7 +141,7 @@ een beetje -- un peu
 kort -- court, courte
 precies -- exactement
 ik wil graag -- je voudrais
-aanpassen, proberen -- essayeer
+aanpassen, proberen -- essayer
 de maat -- la taille
 de vrouw -- la femme
 de paskamer -- la cabine
