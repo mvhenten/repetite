@@ -157,12 +157,12 @@ Dat is niet mooi. -- Ce n’est pas joli.
 Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
 Ik heb maat 42. -- Je fais du 42.
 De trui is splinternieuw. -- Le pull est tout neuf.
-; Unité 6 Apprendre 9 
+; Unité 6 Apprendre 9
 niets -- ne... rien
 Het topje -- le top
 Lichtblauw -- bleu clair
 niet gek -- pas mal
-waar -- vraag
+waar -- vrai
 de legging -- le legging
 lenen aan -- trêter à
 geweldig -- formidable
