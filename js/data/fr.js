@@ -1,6 +1,72 @@
 import Assignments from "../lib/assignments.js";
 
 const unite6 =`
+; Unité 6 les mots plus difficile
+70 -- soixante-dix
+71 -- soixante et onze
+72 -- soixante-douze
+73 -- soixante-treize
+74 -- soixante-quatorze
+75 -- soixante-quinze
+76 -- soixante-seize
+84 -- quatre-vingts-quatre
+85 -- quatre-vingts-cinq
+86 -- quatre-vingts-six
+87 -- quatre-vingts-sept
+91 -- quatre-vingts-onze
+92 -- quatre-vingts-doze
+93 -- quatre-vingts-treize
+94 -- quatre-vingts-quatorze
+95 -- quatre-vingts-quinze
+96 -- quatre-vingts-seize
+overal -- partout
+ik geloof -- je crois
+de winkel -- le magasin
+kort -- court, courte
+aanpassen, proberen -- essayer
+Dat zijn mijn lievelingskleren. -- Ce sont mes vêtements favoris.
+We dragen een sweatshirt. -- Nous portos un sweat.
+Dat is niet mooi. -- Ce n’est pas joli.
+Ik heb maat 42. -- Je fais du 42.
+Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
+waar -- vrai
+wensen -- désirer
+het model -- le modèle
+de vlek -- la tache
+gisteren -- hier
+nieuw  -- neuf, neuve
+de oplossing -- la solution
+aantrekken -- mettre
+het kaartje -- le billet
+de verkoop -- la vente
+de opbrengst -- la recette
+het tenue -- la tenue
+winnen -- gagner
+schrijf je in -- inscrivez-vous
+Waar gaan we naartoe voor de kleding -- On va où pour les vêtements?
+Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
+groen -- vert, verte
+wit -- blanc, blanche
+het jack -- le blouson
+de sok -- la chaussette
+kiezen -- choisir
+echt -- vraiment
+het ding -- le truc
+deelnemen aan -- participer à
+de kleren   -- les vêtements
+de markt -- le marché
+daar -- là
+grappig -- rigolo
+duur -- cher, chère
+de jas -- le manteau
+de hoed -- le chapeau
+laat maar -- laisse tomber
+de schoen -- la chaussurerood -- rouge
+de schoenmaat -- la pointure
+kosten -- coûter
+dragen -- porter
+verkocht -- vendu
+tenminste -- au moins
 ; Unité 6 Apprendre 1
 de kleren -- les vêtements
 de kleur -- la couleur
