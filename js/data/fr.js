@@ -69,6 +69,24 @@ Dat is mijn (schoen)maat -- C'est ma pointure
 Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
 Hij staat je geweldig -- Il te va super bien
 Hij draagt een pak -- Il porte un costume
+; Unité 6 Apprendre 5
+echt -- vraiment
+het ding -- le truc
+deelnemen aan -- participer à
+de kleren   -- les vêtements
+de markt -- le marché
+daar -- là
+grappig -- rigolo
+duur -- cher, chère
+de jas -- le manteau
+de hoed -- le chapeau
+laat maar -- laisse tomber
+de schoen -- la chaussurerood -- rouge
+de schoenmaat -- la pointure
+kosten -- coûter
+dragen -- porter
+verkocht -- vendu
+tenminste -- au moins
 ; Unité 6 Apprendre 6
 70 -- soixante-dix
 71 -- soixante et onze
