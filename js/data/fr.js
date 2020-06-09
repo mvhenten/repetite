@@ -53,14 +53,14 @@ het eind -- la fin
 de volwassene -- l'adulte
 de deelnemer -- le participant
 gratis -- gratuit
-schrijf je in -- inscivez-vous
+schrijf je in -- inscrivez-vous
 dus -- donc
 snel -- vite
 in elk geval -- en tout cas
 de inschrijving -- l'inscription
 de opening -- l'ouverture
 ; Unité 6 Apprendre 4
-Waar gaan we naartoe -- On va où pour les vêtements?
+Waar gaan we naartoe voor de kleding -- On va où pour les vêtements?
 Kijk die jas, super! -- Regarde ce manteau, super!
 Nee, geen sprake van -- Non, pas question
 Meneer, hoeveel kost dat? -- Monsieur, c'est combien?
