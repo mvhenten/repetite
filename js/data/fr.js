@@ -1,7 +1,61 @@
 import Assignments from "../lib/assignments.js";
 
+const vwo2unite1 = `
+; VWO2: Unité 1 Apprendre 1
+links -- à gauche
+rechts -- à droite
+in het midden -- au milieu
+tegenover -- en face de
+naast -- à côté de
+achter -- derrière
+rechtdoor -- tout droit
+de (verharde) weg -- la route
+de (onverharde) weg -- le chemin
+het kruispunt -- le carrefour
+de rotonde  -- le rond-point
+de brug -- le pont
+ de kerk -- l’église
+het zwembad -- la piscine
+de wandeling, het tochtje -- la balade
+de bestemming -- la destination
+het vertrek -- la tante
+het verblijf -- le séjour
+reizen -- voyager
+kamperen -- faire du camping
+oversteken, doortrekken -- traverser
+; VWO2: Apprendre 1 Apprendre 2
+de kus -- la côte
+terug -- de retour
+hij schrijft -- il écrit
+lieve, beste/duur -- cher, chère
+de mountainbike -- le VTT
+de middag -- l’après midi
+de reis -- le voyage
+de airconditioning -- l’air conditionné
+dat valt niet mee, dat is niet zo eenvoudig -- ce n’est pas évident
+midden in de zomer -- en plein été
+de graad -- le degré
+de schaduw -- l’ombre
+openen -- ouvrir
+het raam, de ruit -- la vitre
+uitdelen -- distribuer
+de fles -- la bouteille
+net, juist -- juste
+langzamer ruiden -- ralentir
+later -- plus tard
+de stop -- l’arrêt
+compleet -- complète
+behalve -- sauf
+praten -- discuter
+de mobiele telefoon -- le portable
+wordt vervolgd -- à suivre
+ten slotte -- finalement
+veel liefs -- grosses bises
+`;
+
+
 const unite6 =`
-; Unité 6 les mots plus difficile
+; VWO1: Unité 6 les mots plus difficile
 70 -- soixante-dix
 71 -- soixante et onze
 72 -- soixante-douze
@@ -68,7 +122,7 @@ kosten -- coûter
 dragen -- porter
 verkocht -- vendu
 tenminste -- au moins
-; Unité 6 Apprendre 1
+; VWO1: Unité 6 Apprendre 1
 de kleren -- les vêtements
 de kleur -- la couleur
 rood -- rouge
@@ -98,7 +152,7 @@ de schoen -- la chaussure
 de sok -- la chaussette
 de basketbalschoenen -- les baskets
 de laars -- la botte
-; Unité 6 Apprendre 2
+; VWO1: Unité 6 Apprendre 2
 de modeshow -- le défilé de mode
 kiezen -- choisir
 gebruiken -- utiliser
@@ -126,7 +180,7 @@ snel -- vite
 in elk geval -- en tout cas
 de inschrijving -- l'inscription
 de opening -- l'ouverture
-; Unité 6 Apprendre 4
+; VWO1: Unité 6 Apprendre 4
 Waar gaan we naartoe voor de kleding -- On va où pour les vêtements?
 Kijk die jas, super! -- Regarde ce manteau, super!
 Nee, geen sprake van -- Non, pas question
@@ -136,7 +190,7 @@ Dat is mijn (schoen)maat -- C'est ma pointure
 Hoeveel kosten de schoenen? -- Combien coûtent les chaussures?
 Hij staat je geweldig -- Il te va super bien
 Hij draagt een pak -- Il porte un costume
-; Unité 6 Apprendre 5
+; VWO1: Unité 6 Apprendre 5
 echt -- vraiment
 het ding -- le truc
 deelnemen aan -- participer à
@@ -155,7 +209,7 @@ kosten -- coûter
 dragen -- porter
 verkocht -- vendu
 tenminste -- au moins
-; Unité 6 Apprendre 6
+; VWO1: Unité 6 Apprendre 6
 70 -- soixante-dix
 71 -- soixante et onze
 72 -- soixante-douze
@@ -187,7 +241,7 @@ tenminste -- au moins
 98 -- quatre-vingts-dix-huit
 99 -- quatre-vingts-dix-neuf
 100 -- cent
-; Unité 6 Apprendre 7
+; VWO1: Unité 6 Apprendre 7
 de jurk -- la robe
 orange -- orange
 iets  anders -- autre chose
@@ -214,7 +268,7 @@ de maat -- la taille
 de vrouw -- la femme
 de paskamer -- la cabine
 achterin -- au fond
-; Unité 6 Apprendre 8
+; VWO1: Unité 6 Apprendre 8
 Dat is in de mode. -- C’est à la mode.
 Dat zijn mijn lievelingskleren. -- Ce sont mes vêtements favoris.
 We dragen een sweatshirt. -- Nous portos un sweat.
@@ -225,7 +279,7 @@ Dat is niet mooi. -- Ce n’est pas joli.
 Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
 Ik heb maat 42. -- Je fais du 42.
 De trui is splinternieuw. -- Le pull est tout neuf.
-; Unité 6 Apprendre 9
+; VWO1: Unité 6 Apprendre 9
 niets -- ne... rien
 Het topje -- le top
 Lichtblauw -- bleu clair
@@ -248,7 +302,7 @@ de oplossing -- la solution`;
 
 
 const unite5 =`
-; Unité 5 Apprendre 1
+; VWO1: Unité 5 Apprendre 1
 de broer -- le frère
 de opa -- le grand-père
 de oma -- sa grand-mère
@@ -265,7 +319,7 @@ beste -- meilleur, meilleure
 de vriendin -- l'amie
 de vriending -- la copine
 wat is -- qu'est ce que
-; Unité 5 Apprendre 2
+; VWO1: Unité 5 Apprendre 2
 de foto -- la photo
 ik woon -- je vis
 enig kind -- le fils uique
@@ -285,7 +339,7 @@ heel wat -- plein de
 allemaal -- tous
 hetzelfde, dezelfde -- la même
 wat is -- qu'est ce que
-; Unité 5 Apprendre 3
+; VWO1: Unité 5 Apprendre 3
 mijn vader -- mon père
 mijn moeder -- ma mère
 mijn ouders -- mes parents
@@ -300,7 +354,7 @@ haar nicht -- sa nièce
 haar neven -- ses enfants
 een adres -- une adresse
 mijn adres -- mon adresse
-; Unité 5 Apprendre 4
+; VWO1: Unité 5 Apprendre 4
 Zij is leuk. -- Elle est cool.
 Er is al een bericht. -- Il y a déjà un message.
 Ik heb een bericht ontvangen. -- J'ai reçu un message.
@@ -310,7 +364,7 @@ Wij zijn vrienden. -- Nous sommes amis.
 Ik weet het niet. -- Je ne sais pas.
 Nathan is gek op Eloïse. -- Nathan est fou d'Eloïse.
 Zij gaat met Victor -- Elle sort avec Victor.
-; Unité 5 Apprendre 5
+; VWO1: Unité 5 Apprendre 5
 vaak -- souvent
 laten zien, tonen -- montrer
 de pagina -- la page
@@ -330,7 +384,7 @@ gek -- fou, folle
 zij gaat uit -- elle sort
 zij antwoordt -- elle répond
 afgelopen -- terminé
-; Unité 5 Apprendre 6
+; VWO1: Unité 5 Apprendre 6
 Ben je vrienden met Eloïse? -- Tu es ami avec Eloïse?
 Léa is vrienden met een nieuw meisje. -- Léa est amie avec une nouvelle fille.
 Wij zijn vrienden. -- Nous sommes amis.
@@ -343,7 +397,7 @@ wij zijn -- nous sommes
 jullie zijn, u bent -- vous êtes
 zij zijn -- ils sont
 zij zijn elles sont
-; Unité 5 Apprendre 7
+; VWO1: Unité 5 Apprendre 7
 zij willen -- ils veulent
 verhuizen -- déménager
 zij gaan -- ils vont
@@ -358,7 +412,7 @@ hij zet -- il met
 de muziek -- la musique
 zij zeggen -- ils disent
 nooit -- ne ... jamais
-; Unité 5 Apprendre 8
+; VWO1: Unité 5 Apprendre 8
 Ik heb een probleem. -- J'ai un problème.
 Ik heb een grote zus. -- J'ai une grande sœur.
 Zij is 22. -- Elle a vingt-deux ans.
@@ -369,7 +423,7 @@ Hij/zij is zaterdag jarig. -- Samedi, c'est son anniversaire.
 Hoe oud wordt ze? -- Elle va avoir quel âge?
 Ga jij naar je opa? -- Tu vas chez ton grand-père?
 Houd jij van familie-feesten? -- Tu aimes les fêtes de familie?
-; Unité 5 Apprendre 9
+; VWO1: Unité 5 Apprendre 9
 het uitstapje -- la sortie
 de famillie -- la famille
 de ouders -- les parents
@@ -387,7 +441,7 @@ de neef -- le cousin
 `;
 
 const unite3 = `
-; Unité 4 Apprendre 1
+; VWO1: Unité 4 Apprendre 1
 het dier -- l'animal
 de dieren -- les animaux
 de hond -- le chien
@@ -415,7 +469,7 @@ zwemmen -- nager
 prikken, steken -- piquer
 gevaarlijk -- dangereux, dangereuse
 wild -- sauvage
-; Unité 4 Apprendre 2
+; VWO1: Unité 4 Apprendre 2
 de boerderij -- la ferme
 de ouders -- les parents
 helpen -- aider
@@ -433,7 +487,7 @@ de tractor -- le tracteur
 nog niet -- ne … pas encore
 nog -- encore
 mogen, het recht hebben -- avoir le droit
-; Unité 4 Apprendre 4
+; VWO1: Unité 4 Apprendre 4
 Hij is dol op spelen. -- Il adore jouer.
 Dat is aardig. -- C'est gentil.
 Waar is de kat? -- Où est le chat?
@@ -442,7 +496,7 @@ Het spijt me. -- Je regrette.
 Wat heb je? -- Qu'est-ce que tu as?
 Hij heeft pijn aan zijn poot. -- Il a mal à la patte.
 Hij kan niet lopen. -- Il ne peut pas marcher.
-; Unité 4 Apprendre 5
+; VWO1: Unité 4 Apprendre 5
 de kat -- le chat
 altijd -- toujours
 de vakantie -- les vacances
@@ -475,7 +529,7 @@ gebroken -- cassé, cassée
 arm -- pauvre
 buiten -- dehors
 goed, lekker -- bon, bonne
-; Unité 4 Apprendre 6
+; VWO1: Unité 4 Apprendre 6
 hebben -- avoir
 jij hebt het warm -- tu as chaud
 hij heeft pijn aan zijn poot -- il a mal à la platte
@@ -488,7 +542,7 @@ wij hebben -- nous avons
 jullie hebben, u heeft -- vous avez
 zij hebben (m) -- ils ont
 zij hebben (v) -- elles ont
-; Unité 4 Apprendre 7
+; VWO1: Unité 4 Apprendre 7
 de hond -- le chien
 de leeftijd -- l'âge
 jong -- jeune
@@ -508,7 +562,7 @@ klimmen -- grimper
 vangen -- attraper
 normaal -- normal, normale
 de natuur -- la nature
-; Unité 4 Apprendre 8
+; VWO1: Unité 4 Apprendre 8
 wil jij een hond hebben? -- tu veux avoir un chien?
 ik houd niet van honden -- je n'aime pas les chiens
 ik haat spinnen -- je déteste les araignées
@@ -519,7 +573,7 @@ dat is normaal -- c'est normal
 dat is afschuwelijk -- c'est horrible
 hoe oud is hij? -- il a quel âge?
 hij is twee jaar -- il a deux ans
-; Unité 4 Apprendre 9
+; VWO1: Unité 4 Apprendre 9
 het ongeluk -- l'accident
 ik ga -- je vais
 aankomen -- arriver
@@ -541,7 +595,7 @@ de dierentuin -- le zoo
 wild -- sauvage
 behandelen -- traiter
 denken -- penser
-; Unité 3 Apprendre 1
+; VWO1: Unité 3 Apprendre 1
 het rooster -- l'emploi du temps
 de computer -- l'ordinateur
 de leerling -- l'élève
@@ -568,7 +622,7 @@ zaterdag -- samedi
 zondag -- dimanche
 het uur -- l'heure
 12 uur 's middags -- midi
-; Unité 3 Apprendre 2
+; VWO1: Unité 3 Apprendre 2
 voor ( van tijd) -- avant
 kijken -- regarder
 eten -- manger
@@ -592,7 +646,7 @@ serieus -- sérieux, sérieuse
 vergeet niet -- n'oublie pas
 vergeten -- oublier
 liever hebben, prefereren -- préférer
-; Unité 3 Apprendre 3
+; VWO1: Unité 3 Apprendre 3
 ik vraag -- je demande
 jij vraagt -- tu demandes
 hij vraagt -- il demande
@@ -602,7 +656,7 @@ wij vragen -- nous demandons
 jullie vragen, u vraagt -- vous demandez
 zij vragen (m) -- ils demandent
 zij vragen (v) -- elles demandent
-; Unité 3 Apprendre 4
+; VWO1: Unité 3 Apprendre 4
 Ik ben dol op zingen -- J'adore chjanter
 Je danst supergoed -- Tu danses super bien
 Ik heb gitaarles -- J'ai mon cours de guitare
@@ -613,7 +667,7 @@ Ik zing en ik dans -- Je chante et je danse
 Ga je gang -- Vas-y
 Ik heb een rol -- J'ai un rôle
 Jij hebt de hoofdrol -- Tu as le rôle principal
-; Unité 3 Apprendre 5
+; VWO1: Unité 3 Apprendre 5
 de musical -- la comédie musicale
 kijken -- regarder
 de week -- la semaine
@@ -638,7 +692,7 @@ het bericht -- le message
 de sms -- le texto
 jij leest -- tu lis
 wij zijn -- nous sommes
-; Unité 3 Apprendre 6, 1 t/m 20
+; VWO1: Unité 3 Apprendre 6, 1 t/m 20
 nul -- zéro
 één -- un
 twee -- deux
@@ -659,7 +713,7 @@ zestien -- seize
 zeventien -- dix-sept
 achttien -- dix-huit
 negentien -- dix-neuf
-; Unité 3 Apprendre 6, 20 en hoger
+; VWO1: Unité 3 Apprendre 6, 20 en hoger
 twintig -- vingt
 éénentwintig - vingt et un
 tweëntwintig -- vingt-deux
@@ -683,7 +737,7 @@ zestig -- soixante
 éénenzestig -- soixante et un
 tweeëenzestig -- soixante-deux
 negenenzestig -- soixante-neuf
-; Unité 3 Apprendre 7
+; VWO1: Unité 3 Apprendre 7
 blijven zitten -- redoubler
 engels -- l'anglais
 waardeloos, slecht -- nul, nulle
@@ -706,7 +760,7 @@ geschiedenis -- l'histoire
 werken -- travailler
 afgesproken -- entendu
 nu -- maintenant
-; Unité 3 Apprendre 8
+; VWO1: Unité 3 Apprendre 8
 In welke klas zit jij -- Tu es en quell classe
 Ik zit in de vierde -- Je suis en 4ème
 vierde (voluit) -- quatrième
@@ -719,7 +773,7 @@ Ik en om vier uur klaar  -- Je termine à quatre heures
 Ik drum -- Je joue de la batterie
 Jij doet aan judo -- Tu fais du judo
 Judo is mijn grootste hobby -- Le judo, c'est ma passion
-; Unité 3 Apprendre 9
+; VWO1: Unité 3 Apprendre 9
 tijdens -- pendant
 de pauze -- la récré
 klaar zijn, eindigen -- terminer
@@ -745,7 +799,7 @@ wonen -- habiter
 `
 
 const unite2 = `
-; Unité 2 Apprendre 1
+; VWO1: Unité 2 Apprendre 1
 het flatgebouw -- l'immeuble
 het appertement, de flat -- l'appartement
 het huis -- la maison
@@ -764,7 +818,7 @@ de auto -- la voiture
 de bushalte -- l'arrêt de bus
 lopen -- aller à pied
 gaan -- aller
-; Unité 2 Apprendre 2
+; VWO1: Unité 2 Apprendre 2
 wonen -- habiter
 op -- sur
 ons, onze -- notre
@@ -790,7 +844,7 @@ de buren -- les voisins
 ver -- loin
 zetten -- mettre
 heel hard -- très fort
-; Unité 2 Apprendre 3
+; VWO1: Unité 2 Apprendre 3
 De vriend van Nathan -- Le copain de Nathan
 De vrienden van Nathan -- Les copains de Nathan
 Het huis in de straat -- La maison dans la rue
@@ -801,7 +855,7 @@ Er is een tuin -- Il y a un jardin
 Er zijn tuinen -- Il y a des jardins
 Er is een huis -- Il y a une maisons
 Er zijn huizen -- Il y a des maisons
-; Unité 2 Apprendre 4
+; VWO1: Unité 2 Apprendre 4
 Ik heb een afspraak -- J'ai rendez-vous
 Ik neem de bus -- Je prends le bus
 Waar is de halte -- Où est l'arrêt
@@ -811,7 +865,7 @@ Waar ga je naartoe -- Tu vas où
 We gaan naar jouw huis -- On va chez toi
 Ik ben te laat -- Je suis en retard
 We gaan -- On y va
-; Unité 2 Apprendre 5
+; VWO1: Unité 2 Apprendre 5
 de metro -- le métro
 tot later -- à plus
 de afspraak -- le rendez-vous
@@ -836,7 +890,7 @@ vervolgens -- puis
 op -- sur
 het bed -- le lit
 de trein -- le train
-; Unité 2 Apprendre 6
+; VWO1: Unité 2 Apprendre 6
 Daar is een jongen -- Voilà un garçon
 Hij is aardig -- Il est sympa
 Daar is een meisje -- Voilà un fille
@@ -848,7 +902,7 @@ Zij is groot -- Elle est grande
 Er staat een fiets in de tuin -- Il y a un vélo dans le jardin
 Er is een grote keuken -- Il y a une grande cuisine
 Er zijn drie slaapkamers -- Il y a trois chambres
-; Unité 2 Apprendre 7
+; VWO1: Unité 2 Apprendre 7
 welk, welke -- quel, quelle
 de stad -- la ville
 oké -- d'accord
@@ -876,7 +930,7 @@ de boom -- l'arbre
 leuk -- chouette
 erg, heel -- très
 rustig -- calme
-; Unité 2 Apprendre 8
+; VWO1: Unité 2 Apprendre 8
 Ik woon in de Gérardstraat 10 -- J'habite 10, rue Gérard
 Op welke verdieping is het -- C'est à quel étage
 Hier is mijn kamer -- Voilà ma chambre
@@ -887,7 +941,7 @@ Ik woon vlakbij -- J'habite tout près
 Hoe is dat? -- Il est comment?
 Hoeveel kamers hebben jullie -- Vous avez combien de pièces
 Er is een grote tuin -- Il y a un grand jardin
-; Unité 2 Apprendre 9
+; VWO1: Unité 2 Apprendre 9
 vandaag -- aujourd'hui
 samen -- ensemble
 vlakbij -- tout près
@@ -911,7 +965,7 @@ de auto -- la voiture
 `;
 
 const unite1 = `
-; Unité 1 Apprendre 1 & 2
+; VWO1: Unité 1 Apprendre 1 & 2
 twee meisjes -- deux filles
 twee jongens -- deux garçons
 daar is, hier is -- voilà
@@ -941,14 +995,14 @@ een dorp -- un village
 een stad -- une ville
 een land -- un pays
 Frankrijk -- la France
-; Unité 1 Apprendre 4
+; VWO1: Unité 1 Apprendre 4
 hoe heet jij -- comment tu t'appelles
 ik heet -- je m'appelle
 zij heet  -- elle s'appelle
 hoe heet hij -- comment il s'appelle
 hij heet  -- il s'appelle
 dit is Tim -- voilà Tim
-; Unité 1 Apprendre 5
+; VWO1: Unité 1 Apprendre 5
 de tas  -- le sac
 je hebt, heb je			  --		tu as
 het problem   -- le problème
@@ -976,7 +1030,7 @@ ik ben  -- je suis
 de klas  -- la classe
 het is tijd  -- c'est l'heure
 we gaan naar binnen  -- on entre
-; Unité 1 Apprendre 7 & 8
+; VWO1: Unité 1 Apprendre 7 & 8
 (het gaat) goed -- ça va bien
 dank je wel, dank u wel -- merci
 tot ziens -- au revoir
@@ -999,6 +1053,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(unite6 + unite5 + unite3 + unite2 + unite1);
+const assignments = new Assignments(vwo2unite1 + unite6 + unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
