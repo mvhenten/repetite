@@ -23,7 +23,7 @@ het verblijf -- le séjour
 reizen -- voyager
 kamperen -- faire du camping
 oversteken, doortrekken -- traverser
-; VWO2: Apprendre 1 Apprendre 2
+; VWO2: Unité 1 Apprendre 2
 de kus -- la côte
 terug -- de retour
 hij schrijft -- il écrit
@@ -796,7 +796,7 @@ de avond -- la soirée
 zaterdag -- Samedi
 het adres -- l'adresse
 wonen -- habiter
-`
+`;
 
 const unite2 = `
 ; VWO1: Unité 2 Apprendre 1
@@ -1053,6 +1053,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(vwo2unite1 + unite6 + unite5 + unite3 + unite2 + unite1);
+const assignments = new Assignments(vwo2unite1, unite6 + unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
