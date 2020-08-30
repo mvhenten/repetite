@@ -1,28 +1,43 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
-; VWO2: Unité 1 Apprendre 1
-links -- à gauche
-rechts -- à droite
-in het midden -- au milieu
-tegenover -- en face de
-naast -- à côté de
-achter -- derrière
-rechtdoor -- tout droit
-de (verharde) weg -- la route
-de (onverharde) weg -- le chemin
-het kruispunt -- le carrefour
-de rotonde  -- le rond-point
-de brug -- le pont
- de kerk -- l’église
-het zwembad -- la piscine
-de wandeling, het tochtje -- la balade
-de bestemming -- la destination
-het vertrek -- la tante
-het verblijf -- le séjour
-reizen -- voyager
-kamperen -- faire du camping
-oversteken, doortrekken -- traverser
+; VWO2: Unité 1 Apprendre 5
+afgelopen -- fini
+zin hebben om -- avoir envie de
+de volgende -- le suivant
+de ochtend -- le matin
+de kaart -- la carte
+dus -- donc
+we moeten, je moet -- il faut
+zwaar -- lourd, lourde
+de rugzak -- le sac à dos
+de voet -- le pied
+nauwelijks -- à peine
+volgens -- selon
+helemaal niet -- pas du tout
+verdwaald -- perdu
+tamelijk -- assez
+omkeren -- faire demi-tour
+herhalen -- répéter
+doorlopen, doorgaan -- continuer
+tot -- jusqu’à
+moe -- fatigué
+lastig zijn, zeuren -- être casse-pieds
+opzetten (van een tent) -- monter
+opschieten, vooruitgaan -- avancer
+slapen -- dormir
+de ster -- l’étoile
+; VWO2: Unité 1 Apprendre 4
+Het is drie kilometer naar de camping. ; Le camping es à trois kilomètres.
+Waar is de halte? ; Où est l’arrêt?
+De bus is net weg. ; Le bus vient de partir.
+Pardon mevrouw, wij zoeken de camping. ; Madame, s’il vous plaît, on cerche le camping.
+Dat is tamelijk ver. ; C’est asset loin.
+Je moet eens naar links. ; Il faut dambord aller à gauche.
+Je moet rechtdoor. ; Il faut aller tout droit.
+Jullie lopen/u loopt door tot het kruispunt. ; Vous continue juspu’aau carrefour.
+U gaat een peetje snel. ; Vous allez unpeu vite.
+Kunt u het alstublieft herhalen? ; Vous pouvez répéter, s’il vous plaît?
 ; VWO2: Unité 1 Apprendre 2
 de kus -- la côte
 terug -- de retour
@@ -51,7 +66,28 @@ de mobiele telefoon -- le portable
 wordt vervolgd -- à suivre
 ten slotte -- finalement
 veel liefs -- grosses bises
-`;
+; VWO2: Unité 1 Apprendre 1
+links -- à gauche
+rechts -- à droite
+in het midden -- au milieu
+tegenover -- en face de
+naast -- à côté de
+achter -- derrière
+rechtdoor -- tout droit
+de (verharde) weg -- la route
+de (onverharde) weg -- le chemin
+het kruispunt -- le carrefour
+de rotonde  -- le rond-point
+de brug -- le pont
+ de kerk -- l’église
+het zwembad -- la piscine
+de wandeling, het tochtje -- la balade
+de bestemming -- la destination
+het vertrek -- la tante
+het verblijf -- le séjour
+reizen -- voyager
+kamperen -- faire du camping
+oversteken, doortrekken -- traverser`;
 
 
 const unite6 =`
@@ -1053,6 +1089,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(vwo2unite1, unite6 + unite5 + unite3 + unite2 + unite1);
+const assignments = new Assignments(vwo2unite1 + unite6 + unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
