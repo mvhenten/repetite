@@ -28,16 +28,16 @@ opschieten, vooruitgaan -- avancer
 slapen -- dormir
 de ster -- l’étoile
 ; VWO2: Unité 1 Apprendre 4
-Het is drie kilometer naar de camping. ; Le camping es à trois kilomètres.
-Waar is de halte? ; Où est l’arrêt?
-De bus is net weg. ; Le bus vient de partir.
-Pardon mevrouw, wij zoeken de camping. ; Madame, s’il vous plaît, on cerche le camping.
-Dat is tamelijk ver. ; C’est asset loin.
-Je moet eens naar links. ; Il faut dambord aller à gauche.
-Je moet rechtdoor. ; Il faut aller tout droit.
-Jullie lopen/u loopt door tot het kruispunt. ; Vous continue juspu’aau carrefour.
-U gaat een peetje snel. ; Vous allez unpeu vite.
-Kunt u het alstublieft herhalen? ; Vous pouvez répéter, s’il vous plaît?
+Het is drie kilometer naar de camping. -- Le camping es à trois kilomètres.
+Waar is de halte? -- Où est l’arrêt?
+De bus is net weg. -- Le bus vient de partir.
+Pardon mevrouw, wij zoeken de camping. -- Madame, s’il vous plaît, on cerche le camping.
+Dat is tamelijk ver. -- C’est asset loin.
+Je moet eens naar links. -- Il faut dambord aller à gauche.
+Je moet rechtdoor. -- Il faut aller tout droit.
+Jullie lopen/u loopt door tot het kruispunt. -- Vous continue juspu’aau carrefour.
+U gaat een peetje snel. -- Vous allez unpeu vite.
+Kunt u het alstublieft herhalen? -- Vous pouvez répéter, s’il vous plaît?
 ; VWO2: Unité 1 Apprendre 2
 de kus -- la côte
 terug -- de retour
