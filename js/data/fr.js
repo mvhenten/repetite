@@ -1,6 +1,26 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; WVW2: Unité 1 Apprendre 7
+de reis -- le voyage
+luisteren naar -- écouter
+pech hebben, kapot zijn -- être en panne
+halen, ophalen -- venir chercher
+tegenover -- en face de
+hij vertrekt -- il part
+ik stap in -- je descends
+het zwembad -- la piscine
+gauw, spoedig -- bientôt
+tot gauw -- à bientôt
+doorbrengen -- passer
+het vliegtuig -- l’avion
+jammer genoeg -- malheureusement
+de boot -- le bateau
+meenemen, meebrengen -- apporter
+zoveel -- tellement
+het ding -- la chose
+het eten, het voedsel -- la nourriture
+het cadeau -- le cadeau
 ; VWO2: Unité 1 Apprendre 5
 afgelopen -- fini
 zin hebben om -- avoir envie de
