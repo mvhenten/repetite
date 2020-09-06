@@ -106,7 +106,7 @@ class QuizzForm extends Component {
                 return html `<h3 id="help">${state.error}</h3>`;
             default:
                 this.quizzState.scheduleNext();
-                return html `<h3 id="questions">${question}</h3>`;
+                return html `<h3 id="question">${question}</h3>`;
         }
     }
 }

@@ -47,6 +47,7 @@ class AssignmentsForm extends Component {
         e.preventDefault();
 
         const { mode, selected } = this;
+
         const words = this.assignments.getWords(selected);
 
         this.appState.emit("selectAssignment", { mode, selected, words });
@@ -54,6 +55,7 @@ class AssignmentsForm extends Component {
 
     onSelectAssignment = evt => {
         const { value } = evt.target;
+
         this.setState({ value });
     }
 
@@ -65,14 +67,16 @@ class AssignmentsForm extends Component {
     render() {
         return html `
             <form onSubmit=${this.onSubmit} id="assignments">
-                <label>
-                    Select            
-                    <select onChange=${this.onSelectAssignment} id="assignments-assignment" name="assignment">
-                    ${this.options.map((header) => {
-                        return html `<option value=${header}>${header}</option>`;
-                    })}
-                    </select>
-                </label>
+                <h3>
+                    <label for="assignment">
+                        Select            
+                    </label>
+                </h3>
+                <select multiple onChange=${this.onSelectAssignment} id="assignments-assignment" name="assignment">
+                ${this.options.map((header) => {
+                    return html `<option value=${header}>${header}</option>`;
+                })}
+                </select>
                 <div class="text-medium padding-1 spaced-2x">
                     <${RadioButton} name="mode" value="test" checked=${this.mode} onChange=${this.onSetMode} label="Testen" />
                     <${RadioButton} name="mode" value="practice" checked=${this.mode} onChange=${this.onSetMode} label="Oefenen" />
