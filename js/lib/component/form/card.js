@@ -12,7 +12,6 @@ const Card = ({ question, answer, flipped, onClick }) => {
             <div class="flip-card-face flip-card-face-back">${flipped ? "": answer}</div>
           </div>
         </div>
-        <p>Click card to flip.</p>
     `;
 };
 

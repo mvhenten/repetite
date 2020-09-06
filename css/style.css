@@ -12,9 +12,10 @@ body {
 .container {
     height: 80vh;
     display: flex;
-    flex-direction: column;
+    align-items: center;
     justify-content: center;
     text-align: center;
+    
 }
 
 h3 {
@@ -44,6 +45,10 @@ form {
 #assignments select {
     height: 10em;
     width: 600px;
+}
+
+form#settings, form.answers {
+    width: 100%;
 }
 
 
@@ -184,7 +189,7 @@ table.wordlist td {
 
 .flip-card-face-front {
     box-shadow: 10px 10px 10px #444;
-    background: #c99;
+    background: #9c9;
 }
 
 .flip-card-face-back {
