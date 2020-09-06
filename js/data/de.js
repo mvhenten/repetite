@@ -2,7 +2,7 @@ import Assignments from "../lib/assignments.js";
 
 const words = `
 ; Wortschatz 2
-aardig -- net
+aardig -- nett
 eerlijk -- ehrlich
 gescheiden -- geschieden
 getrouwd -- verheiratet
@@ -15,9 +15,9 @@ mooi, knap -- hübsch
 sportief -- sportlich
 vriendelijk -- freundlich
 heel erg -- sehr
-niet nicht
+niet -- nicht
 twintig -- zwanzig
-eenentwintig -- einundswanzig
+eenentwintig -- einundzwanzig
 dertig -- dreißig
 veertig -- vierzig
 vijftig -- fünfzig
@@ -76,7 +76,7 @@ het jaar-- das Jahr
 Duitsland-- Deutschland
 Nederland-- die Niederlande
 Oostenrijk-- Österreich
-Zwitserland-- die Schmeiz
+Zwitserland-- die Schweiz
 heten-- heißen
 komen-- kommen
 wonen-- wohnen
