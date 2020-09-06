@@ -1,6 +1,7 @@
 import { html, Component } from 'https://unpkg.com/htm/preact/standalone.module.js';
 
 import AssignmentsForm from "./form/assignments.js";
+import CardForm from "./form/card.js";
 import QuizzForm from "./form/quizz.js";
 import Progress from "./progress.js";
 import PrintView from "./form/print.js";
@@ -52,6 +53,8 @@ class AppContainer extends Component {
         const { assignment, settings } = this.state;
 
         switch (true) {
+            case (assignment && assignment.mode == "card"):
+                return html `<${CardForm} ...${{assignment}} />`;
             case (assignment && assignment.mode == "print"):
                 return html `<${PrintView} ...${{assignment}} />`;
             case !!settings:

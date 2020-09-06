@@ -147,3 +147,48 @@ table.wordlist td {
     border-bottom: 1px solid #444;
     padding: 3px;
 }
+
+.flip-card-scene {
+  width: 300px;
+  height: 480px;
+  margin:0 auto;
+  perspective: 600px;
+}
+
+.flip-card {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transform-origin: center right;
+  transition: transform 1s;
+}
+
+.flip-card.flipped {
+  transform: translateX(-100%) rotateY(-180deg);
+}
+
+.flip-card-face {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  color: white;
+  font-weight: bold;
+  font-size: 2em;
+  backface-visibility: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flip-card-face-front {
+    box-shadow: 10px 10px 10px #444;
+    background: #c99;
+}
+
+.flip-card-face-back {
+    box-shadow: 10px 10px 10px #444;
+  background: #99c;
+  transform: rotateY(180deg);
+}

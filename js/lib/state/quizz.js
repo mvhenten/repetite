@@ -8,7 +8,10 @@ class QuizzState extends AppState {
         super();
         
         this.speed = parseInt(speed, 10);
-        this.timeout = TIMEOUT / this.speed;
+    }
+    
+    get timeout() {
+        return TIMEOUT / this.speed;
     }
 
     get keyboard() {

@@ -81,6 +81,7 @@ class AssignmentsForm extends Component {
                     <${RadioButton} name="mode" value="test" checked=${this.mode} onChange=${this.onSetMode} label="Testen" />
                     <${RadioButton} name="mode" value="practice" checked=${this.mode} onChange=${this.onSetMode} label="Oefenen" />
                     <${RadioButton} name="mode" value="print" checked=${this.mode} onChange=${this.onSetMode} label="Print" />
+                    <${RadioButton} name="mode" value="card" checked=${this.mode} onChange=${this.onSetMode} label="Cards" />
                 </div>
                 <input type="submit" value="start" />
             </form>
