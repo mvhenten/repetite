@@ -12,7 +12,7 @@ bloeden -- to bleed, bled, bled
 blazen -- to blow, blew, blown
 breken -- to break, broke, broken
 brengen -- to bring, brought, brought
-; VWO2: Irregular Verbs 1
+; VWO2: Irregular Verbs 2
 bouwen -- to build, built, built
 kopen -- to buy, brought, brought
 vangen -- to catch, caught, caught
