@@ -1,5 +1,47 @@
 import Assignments from "../lib/assignments.js";
 
+const IrregularVerbs = `
+; VWO2: Irregular Verbs 1
+zijn/woorden -- to be, was/were, been
+verslaan -- to beat, beat, beaten
+worden -- to become, became, become
+beginnen -- to begin, began, begun
+wedden -- to bet, bet, bet
+bijten -- to bite, bit, bitten
+bloeden -- to bleed, bled, bled
+blazen -- to blow, blew, blown
+breken -- to break, broke, broken
+brengen -- to bring, brought, brought
+; VWO2: Irregular Verbs 1
+bouwen -- to build, built, built
+kopen -- to buy, brought, brought
+vangen -- to catch, caught, caught
+kiezen -- to choose, chose, chosen
+komen -- to come, came, come
+kosten -- to cost, cost, cost
+snijden; knippen -- to cut, cut, cut
+graven -- to dig, dug, dug
+doen -- to do, did, done
+tekenen; trekken -- to draw, drew, drawn
+; VWO2: Irregular Verbs 3
+drinken -- to drink, drank, drunk
+eten -- to eat, ate, eaten
+vallen -- to fall, fell, fallen
+voelen -- to feel, felt, felt
+vechten -- to fight, fought, fought
+vinden -- to find, found, found
+vliegen -- to fly, flew, flown
+verbieden -- to forbid, forbade, forbidden
+vergeten -- to forget, forgot, forgotten
+krijgen;worden -- to get, got, got
+geven -- to give, gave, given
+gaan -- to go, went, gone
+groeien; worden -- to grow, grew, grown
+hebben -- to have, had, had
+horen -- to hear, heard, heard
+zich verbergen -- to hide, hid, hidden
+`;
+
 const ThemeFive = `
 ; Theme Five D speaking en writing
 het eens zijn met -- agree with
@@ -472,6 +514,6 @@ tand -- tooth
 pols -- wrist
 `;
 
-const assignments = new Assignments(ThemeFive + ThemeFour);
+const assignments = new Assignments(IrregularVerbs + ThemeFive + ThemeFour);
 
 export default assignments;
