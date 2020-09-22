@@ -1,7 +1,40 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
-; WVW2: Unité 1 Apprendre 7
+; VWO2:  Unité 1 Apprendre 10
+de kano -- le canoë
+eerste -- premier, première
+zonder -- sans
+het traject -- le trajet
+het hotel -- l'hôtel
+de tent -- la tente
+de rivier -- la rivière
+eten -- mager
+d maaltijd -- le repas
+de zalm -- le saumon
+het gerecht -- le plat
+reizen -- voyager
+zoals, als -- comme
+gewoonlijk -- d'abitude
+het strand -- la plage
+de wandeling -- la plage
+de wandeling -- la promenade
+oud -- vieux
+de brug -- le pont
+de kerk -- l'église
+zeker -- certainement
+; VWO2:  Unité 1 Apprendre 9
+Gaat de reis goed? -- Ça se passe bien, le voyage?
+Waar ben je op vakantie geweest? -- Tu as été où, en vacances?
+Heb je een leuke vakantie gehad? -- Tu as passé des bonnes vacances?
+Hebben julie het vliegtuig genomen? -- Vous avez pris l'avion?
+Hoeveel tijd doen jullie erover? -- Vous mettez combien de temps?
+We hebben een groot feest georganiseerd. -- On a organiséune grande fête.
+We hebben veel gerijsd. -- On a beaucoup voyagé.
+Ik heb van de zomer een kansstage gedaan. -- J'ai fait un stage de canoë cet été.
+Hebben jullie elke dag gekanood? -- Vous aves fait du canoë tous les jours?
+Hebben jullie in hotels geslapen? -- Vous aves drom à l'hôtel?
+; VWO2: Unité 1 Apprendre 7
 de reis -- le voyage
 luisteren naar -- écouter
 pech hebben, kapot zijn -- être en panne
