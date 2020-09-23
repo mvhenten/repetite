@@ -34,6 +34,17 @@ We hebben veel gerijsd. -- On a beaucoup voyagé.
 Ik heb van de zomer een kansstage gedaan. -- J'ai fait un stage de canoë cet été.
 Hebben jullie elke dag gekanood? -- Vous aves fait du canoë tous les jours?
 Hebben jullie in hotels geslapen? -- Vous aves drom à l'hôtel?
+; VWO2: Unité 1 Apprendre 8
+doen -- faire
+ik doe/maak -- je fais
+jij doet/maakt -- tu fais
+hij doet/maakt -- il fait
+zij doet/maakt -- elle fait
+men/wij doen/maken -- on fait
+wij doen/maken -- nous faisons
+jullie/u doen/maken -- vous faites
+zij doen/maken (m) -- ils font
+zij doen/maken (v) -- ils font
 ; VWO2: Unité 1 Apprendre 7
 de reis -- le voyage
 luisteren naar -- écouter
