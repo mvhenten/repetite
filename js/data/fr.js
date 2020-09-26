@@ -10,7 +10,7 @@ het hotel -- l'hôtel
 de tent -- la tente
 de rivier -- la rivière
 eten -- mager
-d maaltijd -- le repas
+de maaltijd -- le repas
 de zalm -- le saumon
 het gerecht -- le plat
 reizen -- voyager
@@ -29,11 +29,11 @@ Waar ben je op vakantie geweest? -- Tu as été où, en vacances?
 Heb je een leuke vakantie gehad? -- Tu as passé des bonnes vacances?
 Hebben julie het vliegtuig genomen? -- Vous avez pris l'avion?
 Hoeveel tijd doen jullie erover? -- Vous mettez combien de temps?
-We hebben een groot feest georganiseerd. -- On a organiséune grande fête.
+We hebben een groot feest georganiseerd. -- On a organisé une grande fête.
 We hebben veel gerijsd. -- On a beaucoup voyagé.
 Ik heb van de zomer een kansstage gedaan. -- J'ai fait un stage de canoë cet été.
-Hebben jullie elke dag gekanood? -- Vous aves fait du canoë tous les jours?
-Hebben jullie in hotels geslapen? -- Vous aves drom à l'hôtel?
+Hebben jullie elke dag gekanood? -- Vous avez fait du canoë tous les jours?
+Hebben jullie in hotels geslapen? -- Vous avez dormi à l'hôtel?
 ; VWO2: Unité 1 Apprendre 8
 doen -- faire
 ik doe/maak -- je fais
