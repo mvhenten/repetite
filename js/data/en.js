@@ -1,6 +1,76 @@
 import Assignments from "../lib/assignments.js";
 
 const IrregularVerbs = `
+; VWO2 1x B theme words
+na Christus -- AD
+voorouder -- ancestor
+voor Christus -- BC
+eeuw -- century
+chronologisch -- chronological
+veroveren -- conquer
+eigentijds -- contemporarly
+periode van tien jaar -- decade
+rijk -- empire
+tijdperk -- era
+verleden -- past
+heden -- present
+middles -- medical
+mijlpaal -- milestone
+vorst -- monarch
+heersen -- reign
+; VWO2 1x C reading
+ongeluk -- accident
+verbazingwekkend -- astonishing
+catalogus -- catalogue
+wijden -- devote
+verzinnen -- dream up
+tonen -- display
+stof -- dust
+bewijzen -- establish
+tentoongesteld stuk -- exhibit
+brandbaar -- flammable
+sprookje -- fairy tale
+gastheer -- host
+verniewingen -- innovations
+productie  ;manufacturing
+innemen -- occupy
+roze -- pink
+vooruitlopen op -- pre-dates
+pronken met -- show off
+stoommachine -- steam engine
+voertuig -- vehicle
+; VWO2 1x D speaking and writing
+avonturenkamp -- adventure camp
+gebeurtenis -- event
+ziek -- ill
+laat -- late
+muzikant -- musicain
+surfkamp -- surfing camp
+de jaren 2000-2009 -- the Noughts
+tiener -- teenager
+; VWO2 1x G listening
+reclame maken -- advertise
+druk -- busy
+pure chocola -- dark chocolate
+warme chocolademelk -- drinking chocolate
+wedstrijd -- contest
+werknemer -- employee
+meedoen aan -- enter
+fabriek -- factory
+kunstgebit -- false teeth
+gratis monsters -- free samples
+een begin maken -- get started
+groene locatie -- green site
+buurtwinkel -- grocer’s shop
+onmogelijk -- impossible
+koning -- king
+met lange staat van dienst -- long-sering
+gedenkwaardig -- memorable
+overvloed, heel veel -- plenty
+koningin -- queen
+gerantsoeneerd -- rationed
+verdiepen -- story
+pakhuis -- warehouse
 ; VWO2: Irregular Verbs 1
 zijn/woorden -- to be, was/were, been
 verslaan -- to beat, beat, beaten
