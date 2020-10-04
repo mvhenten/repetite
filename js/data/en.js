@@ -1,6 +1,40 @@
 import Assignments from "../lib/assignments.js";
 
 const IrregularVerbs = `
+; H reading
+presentator -- annoucer
+verschijnen -- appear
+hokje -- booth
+uitzenden -- broadcast
+pakkend -- catchy
+oorhaan -- continue
+ontwikkelaar, ontwerper -- designer
+appearatuur -- equipment
+blootstellen aan -- expose
+geboeid, gevaccineerd -- fascinated
+krijgen, vergaren -- gain
+geleidelijk -- gradually
+tip -- hint
+imago -- image
+bedienen -- p
+operate
+aanvragen -- rquest
+zelf aangeleerd autodidactissch -- self-taught
+sparen -- save up
+verscheidene -- several
+draaien -- spin
+;I Speaking and writing
+middag -- afternoon
+begraven -- bury
+bevatten  -- contain
+inhoud -- contents
+optreden -- gig
+sieradenkistje -- jewellery box
+ontvangen -- receive
+winkelcentrum -- shopping centre
+verrast -- surprised
+portemonnee -- wallet
+waardeloos -- worthless
 ; VWO2 1x B theme words
 na Christus -- AD
 voorouder -- ancestor
