@@ -1,6 +1,70 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 2 Apprendre 1
+het geld -- l'argent
+het zakgeld -- l'argent de poche
+de spaarpot -- la tirelire
+rijk -- riche
+sparen -- faire des économies
+het baantje -- le petit boulot
+verdienen, winnen -- Wagner
+geld opnemen -- retireer de l'argent
+de pinpas -- la caret bancaire
+de geldautomaat -- le distribueerde billets
+de bank -- la banque
+teruggeven -- rentree
+gul -- généreux, généreuse
+lenen van -- empruter à
+betalen -- payer
+boodschappen doen -- faire des courses
+uitgeven -- dépenser
+blut -- fauchéde 
+schuld -- dette
+verliezen -- perdre
+; VWO2: Unité 2 Apprendre 2
+de opiniepeiling -- le sondage
+zij ontvangen -- ils reçoivent
+regelmatig -- régulièrement
+gemiddeld -- en moyenne
+dat wil zeggen, dat betekent -- cola vest dire
+het cijfer (op school) -- la note
+grasmaaien -- tonder la pelouse
+sasen -- laver
+het middel -- le moyen
+de portemonnee -- le porte-monnaie
+gevold -- rempli
+opbrengen -- rapporter
+oppassen (op kinderen) -- harder les enfants
+de hond uitlaten -- promener le chien
+de uitgave -- la dépense
+de jongere -- l'ado
+eerder/nogal, tamelijk -- plutôt
+het computerspel -- le jeu vidéo
+het spel -- le jeu
+het tijdschrift -- le magazine
+het dient -- il sert
+verstandig/redelijk -- raisonnabele
+; VWO2: Unité 2 - Dagen van de week
+maandag -- luid
+dinsdag -- mardi
+woensdag -- mercredi
+donderdag -- feudi
+vrijdag -- vendredi
+zaterdag -- samedi
+zondag -- dimanche
+; VWO2: Unité 2 - De maanden van het jaar
+januari -- janvier
+februari -- février
+maart -- mars
+april -- avril
+mei -- mai
+juni -- juin
+juli -- juillet
+augustus -- août
+september -- septembre
+oktober -- november
+december -- décember
 ; VWO2:  Unité 1 Apprendre 10
 de kano -- le canoë
 eerste -- premier, première
