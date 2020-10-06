@@ -1,7 +1,7 @@
 import Assignments from "../lib/assignments.js";
 
 const IrregularVerbs = `
-; H reading
+; VWO2 1x H reading
 presentator -- annoucer
 verschijnen -- appear
 hokje -- booth
@@ -23,7 +23,7 @@ zelf aangeleerd autodidactissch -- self-taught
 sparen -- save up
 verscheidene -- several
 draaien -- spin
-;I Speaking and writing
+; VWO2 1x I Speaking and writing
 middag -- afternoon
 begraven -- bury
 bevatten  -- contain
@@ -66,7 +66,7 @@ brandbaar -- flammable
 sprookje -- fairy tale
 gastheer -- host
 verniewingen -- innovations
-productie  ;manufacturing
+productie -- manufacturing
 innemen -- occupy
 roze -- pink
 vooruitlopen op -- pre-dates
@@ -80,7 +80,7 @@ ziek -- ill
 laat -- late
 muzikant -- musicain
 surfkamp -- surfing camp
-de jaren 2000-2009 -- the Noughts
+de jaren 2000-2009 -- the noughties
 tiener -- teenager
 ; VWO2 1x G listening
 reclame maken -- advertise
@@ -95,7 +95,7 @@ kunstgebit -- false teeth
 gratis monsters -- free samples
 een begin maken -- get started
 groene locatie -- green site
-buurtwinkel -- grocer’s shop
+buurtwinkel -- grocer's shop
 onmogelijk -- impossible
 koning -- king
 met lange staat van dienst -- long-sering
