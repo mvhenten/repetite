@@ -1,6 +1,29 @@
 import Assignments from "../lib/assignments.js";
 
 const IrregularVerbs = `
+; VWO2 1x A listening
+wekker -- alarm clock
+aankondigen -- announce
+aula -- assembly hall
+audit -- audition
+toekennen -- award
+schoonheid -- beauty
+ertussenuit knijpen, niet meer durven -- choken out
+toewijding -- dedication
+vastbesloten -- determined
+geni -- genius
+historische figuur -- historical figure
+zenuwachtig, nerveus -- nervous
+dat gezegde hebben -- on that note
+passie -- passion
+tooneelschijver -- playwright
+dichter -- poet
+voorbereiden -- prepare
+produceren, op de planken brengen -- produce
+heel -- quite
+beseffen -- realise
+moeilijk -- tough
+bekend -- well-known
 ; VWO2 1x H reading
 presentator -- annoucer
 verschijnen -- appear
