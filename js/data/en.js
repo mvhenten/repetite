@@ -39,10 +39,9 @@ krijgen, vergaren -- gain
 geleidelijk -- gradually
 tip -- hint
 imago -- image
-bedienen -- p
-operate
-aanvragen -- rquest
-zelf aangeleerd autodidactissch -- self-taught
+bedienen -- operate
+aanvragen -- request
+zelf aangeleerd, autodidactissch -- self-taught
 sparen -- save up
 verscheidene -- several
 draaien -- spin
@@ -121,7 +120,7 @@ groene locatie -- green site
 buurtwinkel -- grocer's shop
 onmogelijk -- impossible
 koning -- king
-met lange staat van dienst -- long-sering
+met lange staat van dienst -- long-serving
 gedenkwaardig -- memorable
 overvloed, heel veel -- plenty
 koningin -- queen
