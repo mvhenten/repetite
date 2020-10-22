@@ -1,6 +1,136 @@
 import Assignments from "../lib/assignments.js";
 
 const IrregularVerbs = `
+; VWO2 Theme 2: A listening
+aanvallen -- attack
+kamperen -- camp
+zeker -- certainely
+uitdrukking -- expression
+foutje, bug -- glitch
+grafisch ontwerp -- graphic design
+invasie -- invasion
+beperkt -- limited
+nakijken -- mark
+groentje -- newbie
+uitstekend -- nutstanding
+correctieprogramma -- patch
+in de rij wachten -- queue
+in de handel brengen -- release
+verzetten -- re-schedule
+ruimteschip -- spaceship
+personeelskamer -- staff room
+verhaallijn -- storyline
+vast -- stuck
+zich afvragen -- wonder
+de moite waard -- worth it
+; VWO2 Theme 2: B theme words
+oplader -- charger
+bedieningspaneel -- console
+allernieuwst -- cutting-edge
+ontwikkelen -- develop
+leuk -- entertaing
+apparatuur -- equipment
+uitvinding -- invention
+handleiding -- manuaal
+producent -- manufacturer
+stekker -- plug
+draagbaar -- portable
+oplaadbaar -- rechargeable
+spelregels -- rules
+vaardigheden -- skills
+strategie -- strategy
+draadloos -- wireless
+; VWO2 Theme 2: C reading
+zaak -- affair
+veranderen -- charge
+gewoon -- common
+creatie -- creation
+ingenieur, werktuigkundige -- engineer
+groef -- groove
+hoofdkwartier -- headquarters
+snelweg -- highway
+aansluiten -- ook up
+lanceren -- launch
+gelegen -- located
+verliezen -- lose
+methode -- method
+pomp -- pump
+verminderen -- reduce
+verfijnen -- refine
+starten -- runway
+afrijden -- slide off
+de ruimte -- space
+speelgoed -- toy
+; VWO2 Theme 2: D Speaking & writing
+pijltjestoets -- arrow
+battererij, accu -- battery
+verslaan -- beat
+bukken -- duck
+invullen -- enter
+stevig -- firmly
+spelcomputer -- game console
+ongelooflijk -- incredibly
+betaken, bedoelen -- mean
+persoonlijke informatie -- personal details
+drukken -- press
+zoektocht -- queut
+herhalen -- repeat
+spellen -- spell
+versie -- version
+hele -- whole
+; VWO2 Theme 2: G listening
+bewegen richting -- be heading for
+kapot, gebroken -- broken
+knop -- button
+opschieten! -- chop chop
+achtervolgen -- chase
+bedekt -- covered
+vochtig -- damp
+afstoffen -- dust
+blik (stoffer en blik) -- dustpan
+hopelijk -- hopefully
+sering -- lilac
+lukken -- monage
+nachtmerrie -- nightmare
+beeldje -- ornament
+stuk -- piece
+lijken -- seem
+aarde -- soil
+geregeld -- sorteer out
+opruimen -- tidy
+stofzuiger -- vacuum cleaner
+; VWO2 Theme 2: H reading
+zo snel mogelijk -- asap
+toegang -- access
+idee -- clue
+buurthuis, wijkcentrum -- community centre
+stopcontact -- electrical outlet
+fantaseren -- fantasise
+uitzoeken -- figure out
+gametournooi -- game tournament
+verzamelen -- grager
+prof worden -- ga pro
+houden -- host
+betrekken -- involve
+meten -- measure
+toestemming -- objective
+toestemming -- permission
+uitkiezen -- pick
+geschikt -- proper
+opmerking -- remark
+klaar, voorbereide -- set
+vaststellen -- setgeschikt -- suitable
+; VWO2 Theme 2: I speaking & writing
+atleet -- athlete
+uitbreidingspakket -- expansion pack
+helemaal niet
+not at all
+vorige -- previous
+nogal -- rather
+doen denken aan -- reminders of
+lijken op -- resemhble
+vergelijkbaar met -- similar
+langzaam -- slow
 ; VWO2 1x A listening
 wekker -- alarm clock
 aankondigen -- announce
