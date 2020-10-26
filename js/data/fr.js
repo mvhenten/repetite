@@ -10,8 +10,8 @@ zij gaat  -- elle va
 men gaat, wij gaan -- on va
 wij gaan -- nous allons
 jullie gaan, u gaat -- vous allez
-zij gaan -- ils vont
-zij gaan -- elles vont
+zij gaan (m) -- ils vont
+zij gaan (f) -- elles vont
 hebben -- avoir
 ik heb -- j’ai
 jij hebt -- tu as
@@ -20,28 +20,28 @@ zij heeft -- elle a
 men heeft, wij hebben -- on a
 wij hebben -- nos avons
 jullie hebben, u heeft -- vous avez
-zij hebben -- ils ont
-zij hebben -- alles ont
+zij hebben (m) -- ils ont
+zij hebben (f) -- elles ont
 zijn -- être
 ik ben -- je suis
 jij bent -- tu es
-hij is -- il est
-zij is -- elle est
+hij is (m) -- il est
+zij is (f) -- elle est
 men is, wij zijn -- on est
 wij zijn -- nous sommes
 jullie zijn, u bent -- vous êtes
-zij zijn -- ils sont
-zij zijn -- elles sont
+zij zijn (m) -- ils sont
+zij zijn (f) -- elles sont
 maken, doen -- faire
 ik doe, ik maak -- je fais
 jij doet, jij maakt -- tu fais
-hij doet, hij maakt -- il fait
-zij dot, zij maakt -- elle fait
+hij doet, hij maakt (m) -- il fait
+zij dot, zij maakt (f) -- elle fait
 men doet, men maakt / wij doen, wij maken -- on fait
 wij doen wij maken -- nous faisons
 jullie doen, jullie maken / u doet, u maakt -- vous faites
-zij doen , zij maken -- ils font
-zij doen , zij maken -- elles font
+zij doen , zij maken (m) -- ils font
+zij doen , zij maken (f) -- elles font
 ; VWO2:  Unité 2 Apprendre 1
 het geld -- l'argent
 het zakgeld -- l'argent de poche
