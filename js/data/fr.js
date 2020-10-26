@@ -63,6 +63,52 @@ uitgeven -- dépenser
 blut -- fauchéde 
 schuld -- dette
 verliezen -- perdre
+; VWO2: Unité 2 Apprendre 7
+de kassa -- la caisse
+genoeg -- assez
+nodig -- nécessaire
+weghalen -- elever
+enkele -- quelques
+het product -- le produit
+het pakje -- le paquet
+de koek -- le gâteau
+de chips -- les chips
+ik ben het zat -- j'en ai marren
+blut -- fauché
+alsjeblieft -- s'il te plaît
+beloofd -- promis
+; VWO2: Unité 2 Apprendre 5
+fantastisch -- fantastique
+boodschappen doen -- faire de courses
+het geld -- l'argent
+laat tard
+later -- plus tard
+ging het goed ? -- ça s'est bien passé?
+de zak -- la poche
+nergens -- ne…. nulle part
+begrijpen -- comprendre
+verloren -- perdu
+dat moet -- ça doit
+stelen -- voler
+het geld -- le fric
+de volgende dat le lendemain
+verdienen -- gagner
+slecht -- mauvais
+begeleiden -- accompagner
+het liedje -- la chanson
+het begin -- le début
+redden -- sauver
+kopen -- acheter
+; VWO2: Unité 2 Apprendre 4
+alsjeblieft, vijf euro -- Voilà cinq euros.
+dat is alles wat ik heb -- C'est tout ce que j'ai.
+Waar is die portemonnee? -- Il est où, ce pore-monnaie?
+Misschien heb je hem verloren ? -- Tu l'as peut-être perdu?
+Ze hebben mijn portemonnee gestolen. -- On a volé mon porte-monnaie.
+we hehebben geen geld meer -- On n'a plus de fric.
+we kunnen muziek maken om geld ter verdienen -- On peut faire de la musique pour gagner de l'argent.
+we  hebben 24 eure verdiend  -- On a gegné 24 euros.
+we hebben weer dan 100 euro -- On a plus de 100 euros.
 ; VWO2: Unité 2 Apprendre 2
 de opiniepeiling -- le sondage
 zij ontvangen -- ils reçoivent
