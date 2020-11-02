@@ -12,7 +12,7 @@ wij kunnen -- nous pouvons
 jullie kunnen, u kunt -- vous pouvez
 zij kunnen (m) -- ils peuvent
 zij kunnen (f) -- elles peuvent
-ik kon/ik heb gekund -- j’ai pu
+ik kon/ik heb gekund -- j'ai pu
 willen -- vouloir
 ik wil -- je vieux
 jij wilt
@@ -24,7 +24,7 @@ wij willen -- nous voulons
 jullie willen, u wilt -- vous voelen
 zij willen (m) -- ils veulent
 zij willen (f) -- elles veulent
-ik heb gewild, ik wilde -- j’ai voulu
+ik heb gewild, ik wilde -- j'ai voulu
 ; VWO2: aller, avoir, être, faire
 gaan -- aller
 ik ga -- je vais
