@@ -1,6 +1,30 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 2 Apprendre 8
+kunnen/mogen -- pouvoir
+ik kan -- je peut
+jij kunt -- tu peut
+hij kan -- il peut
+zij kan -- elle peut
+men kan, wij kunnen -- on peut
+wij kunnen -- nous pouvons
+jullie kunnen, u kunt -- vous pouvez
+zij kunnen (m) -- ils peuvent
+zij kunnen (f) -- elles peuvent
+ik kon/ik heb gekund -- j’ai pu
+willen -- vouloir
+ik wil -- je vieux
+jij wilt
+tu veux
+hij wil -- il peut
+zij wil -- elle veut
+men wil, wij willen -- on peut
+wij willen -- nous voulons
+jullie willen, u wilt -- vous voelen
+zij willen (m) -- ils veulent
+zij willen (f) -- elles veulent
+ik heb gewild, ik wilde -- j’ai voulu
 ; VWO2: aller, avoir, être, faire
 gaan -- aller
 ik ga -- je vais
