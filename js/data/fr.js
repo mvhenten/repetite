@@ -1,6 +1,91 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2 PW werkwoorden
+ik wacht -- j'attends
+jij wacht -- tu attends
+hij/zij/het wacht -- il/elle attend
+wij wachten -- nous attendons
+jullie wachten -- vous attendez
+zij wachten -- ils/elles attendent
+ik heb gewacht -- j'ai attendu
+jij hebt gewacht -- tu as attendu
+hij/zij/het heeft gewacht -- il/elle a attendu
+wij hebben gewacht -- nous avons attendu
+jullie hebben gewacht -- vous avez attendu
+zij hebben gewacht -- ils/elles ont attendu
+ik hoor -- j'entends
+jij hoort -- tu entends
+hij/zij/het hoort -- il/elle entend
+wij horen -- nous entendons
+jullie horen -- vous entendez
+zij horen -- ils/elles entendent
+ik heb gehoord -- j'ai entendu
+jij hebt gehoord -- tu as entendu
+hij/zij/het heeft gehoord -- il/elle a entendu
+wij hebben gehoord -- nous avons entendu
+jullie hebben gehoord -- vous avez entendu
+zij hebben gehoord -- ils/elles ont entendu
+ik verlies -- je perds
+jij verliest -- tu perds
+hij/zij/het verliest -- il/elle perd
+wij verliezen -- nous perdons
+jullie verliezen -- vous perdez
+zij verliezen -- ils/elles perdent
+ik heb verloren -- j'ai perdu
+jij hebt verloren -- tu as perdu
+hij/zij/het heeft verloren -- il/elle a perdu
+wij hebben verloren -- nous avons perdu
+jullie hebben verloren -- vous avez perdu
+zij hebben verloren -- ils/elles ont perdu
+ik vertrek -- je pars
+jij vertrekt -- tu pars
+hij/zij/het vertrekt -- il/elle part
+wij vertrekken -- nous partons
+jullie vertrekken -- vous partez
+zij vertrekken -- ils/elles partent
+ik ben vertrokken -- je suis parti(e)
+jij bent vertrokken -- tu es parti(e)
+hij/zij/het is vertrokken -- il/elle est parti(e)
+wij zijn vertrokken -- nous sommes parti(e)s
+jullie zij vertrokken -- vous êtes parti(e)(s)
+zij zijn vertrokken -- ils/elles sont parti(e)s
+ik voel -- je sens
+jij voelt -- tu sens
+hij/zij/het voelt -- il/elle sent
+wij voelen -- nous sentons
+jullie voelen -- vous sentez
+zij voelen -- ils/elles sentent
+ik heb gevoeld -- j'ai sent
+jij hebt gevoeld -- tu as senti
+hij/zij/het heeft gevoeld -- il/elle a senti
+wij hebben gevoeld -- nous avons senti
+jullie hebben gevoeld -- vous avez senti
+zij hebben gevoeld -- ils/elles ont senti
+ik verkoop -- je vends
+jij verkoopt -- tu vends
+hij/zij/het verkoopt -- il/elle vend
+wij verkopen -- nous vendons
+jullie verkopen -- vous vendez
+zij verkopen -- ils/elles vendent
+ik heb verkocht -- j'ai vendu
+jij hebt verkocht -- tu as vendu
+hij/zij/het heeft verkocht -- il/elle a vendu
+wij hebben verkocht -- nous avons vendu
+jullie hebben verkocht -- vous avez vendu
+zij hebben verkocht -- ils/elles ont vendu
+ik ga uit -- je sors
+jij gaat uit -- tu sors
+hij/zij/het gaat uit -- il/elle sort
+wij gaan uit -- nous sortons
+jullie gaan uit -- vous sortez
+zij gaan uit -- ils/elles sortent
+ik ben uitgegaan -- je suis sorti(e)
+jij bent uitgegaan -- tu es sorti(e)
+hij/zij/het is uitgegaan -- il/elle est sorti(e)
+wij zijn uitgegaan -- nous sommes sorti(e)s
+jullie zijn uitgegaan -- vous êtes sorti(e)(s)
+zij zijn uitgegaan -- ils/elles sont sorti(e)s
 ; VWO2:  Unité 2 Apprendre 8
 kunnen/mogen -- pouvoir
 ik kan -- je peut
