@@ -1,7 +1,15 @@
+const shuffle = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 class Questions {
     constructor(questions, mode) {
         this._questions = questions;
-        this._queue = Array.from(questions);
+        this._queue = shuffle(Array.from(questions));
         this._failed = new Set();
         this._practice = mode == "practice";
         this._retry = 0;
