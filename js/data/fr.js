@@ -1,6 +1,44 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 3 Apprendre 1
+trainen -- s’entraîner
+zich inschirijven -- s’inscriver
+eindigen -- finir
+verslaan -- batte
+verdedigen -- défendre
+de competitie -- la compétition
+het toernooi -- le toernooi
+het doel/het doelpunt -- le but
+de overwinning -- la victoire
+de aankomst -- l’arrivée
+de supporter -- le supporter
+de tribune -- la tribune
+de ploeg, het team -- l’équipe
+de atleet -- l’athlète
+het hoogspringen -- le saut en hauter
+; VWO2:  Unité 3 Apprendre 2
+de kampioen -- le champion
+combineren -- combiner
+de studie -- les études
+ongeveer -- environ
+de god -- la vague
+er -- y
+het weergbericht -- la météo
+weten -- savoir
+ingeschreven -- inscrit
+de schriftelijke cursus
+ik ontvang -- je reçoisde overhoring -- le contrôle
+het voordeel -- au liet de
+het moment -- l’instant
+erin slagen om -- arriver à
+volgen -- suivre
+zich ontspannen -- le détendre
+drummen -- jouer de la batterie
+buiten, behalve -- en decors de
+de meeste, het merendeel -- le plupart
+het buitenland l; l’étranger
+ik weet -- je sais
 ; VWO2 PW werkwoorden
 ik wacht -- j'attends
 jij wacht -- tu attends
