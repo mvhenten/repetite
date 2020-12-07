@@ -1,6 +1,36 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 3 Apprendre 5
+vanavond -- ce soir
+verkopen -- venter
+de pruik -- la perruque
+de vlag -- le drapeau
+zich amuseren -- s'amuser
+we zien elkaar -- on se ooit
+de sersiering -- le chaise
+aangeven, doorgeven -- passer
+doen, leggen, zetten -- meter
+op de eerste rij -- au premier rang
+leiden -- mener
+wat gebeurt er -- u'est-ce qui se passe
+de ellende -- la galère
+ook niet, ook geen -- n.. pas non plus
+het scherm -- l'écran
+opbellen -- appeler
+in orde komen -- Carranger
+de strafschop -- la pénalité
+schieten -- tirer
+; VWO2:  Unité 3 Apprendre 4
+Vanavond is er een rugbywedstrijd. -- Ce noir, il y a un match de rugby.
+Ga je met ons mee? -- Vous allez où pour regarder?
+Oké, ik kom ook -- D'accord, je viens aussi
+Ga je met ons mee? -- Tu wiens aves nous?
+Hoe laat is dat? -- C'est à quelle heure?
+Het is al vijf voor halftien. -- Il est défà neuf heures vingt-cinq.
+Hoe laat is het? -- Il est puelle heure?
+Hoe laat begint de wedstrijd? -- Le match commence à quelle heure?
+We zien elkaar om kwart over zes. -- On se ooit à six heures ent quart.
 ; VWO2:  Unité 3 Apprendre 1
 trainen -- s'entraîner
 zich inschirijven -- s'inscriver
