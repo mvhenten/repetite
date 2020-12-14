@@ -1,24 +1,39 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 3 Apprendre 7
+de uitnodiging -- l'invitation
+oma -- mamie
+bijwonen -- assister à
+belangrijk -- important
+de kapper -- le coiffeur
+verliezen -- perdre
+eruitzien -- avoir l'air
+hardlopen -- faire de la course à pied
+trainen -- s'entraîner
+het eind -- la fin
+de competitie -- la compétiton
+het toernooi -- le tournoi
+ik wist -- je savais
+verdedigen -- défendre
 ; VWO2:  Unité 3 Apprendre 5
 vanavond -- ce soir
-verkopen -- venter
+verkopen -- vender
 de pruik -- la perruque
 de vlag -- le drapeau
 zich amuseren -- s'amuser
-we zien elkaar -- on se ooit
+we zien elkaar -- on se voit
 de sersiering -- le chaise
 aangeven, doorgeven -- passer
-doen, leggen, zetten -- meter
+doen, leggen, zetten -- mettre
 op de eerste rij -- au premier rang
 leiden -- mener
-wat gebeurt er -- u'est-ce qui se passe
+wat gebeurt er -- qu'est-ce qui se passe
 de ellende -- la galère
-ook niet, ook geen -- n.. pas non plus
+ook niet, ook geen -- n… pas non plus
 het scherm -- l'écran
 opbellen -- appeler
-in orde komen -- Carranger
+in orde komen -- s'arranger
 de strafschop -- la pénalité
 schieten -- tirer
 ; VWO2:  Unité 3 Apprendre 4
@@ -58,7 +73,8 @@ het weergbericht -- la météo
 weten -- savoir
 ingeschreven -- inscrit
 de schriftelijke cursus
-ik ontvang -- je reçoisde overhoring -- le contrôle
+ik ontvang -- je reçois
+de overhoring -- le contrôle
 het voordeel -- au liet de
 het moment -- l'instant
 erin slagen om -- arriver à
