@@ -10,10 +10,10 @@ Het is tien over halftien -- Il est dix heures moins vingt
 Het is kwart voor tien -- Il est dix heures moins le quart
 Het is tien voor tien -- Il est dix heures moins dix
 ; VWO2:  Unité 4 Apprendre 8, werkwoorden op -re
-Ik wacht op het antwoord -- J’attends la réponse
-Ik hoor een raar geluid -- J’entends un bruit bizarre
+Ik wacht op het antwoord -- J'attends la réponse
+Ik hoor een raar geluid -- J'entends un bruit bizarre
 Ik verkoop mijn scooter -- Je vends mon scooter
-Ik heb mijn portemonnee verloren -- J’ai perdu mon porte-monnaie 
+Ik heb mijn portemonnee verloren -- J'ai perdu mon porte-monnaie 
 ik verlies -- je perds
 jij verliest -- tu perds
 hij verliest -- il perd
@@ -23,11 +23,11 @@ zij wachten -- ils attendent
 ; VWO2:  Unité 4 Apprendre 9
 Heb je een belangrijke wedstrijd? --  Tu as un match important?
 Doe je aan hardlopen? -- Tu fais de la course à pied?
-Ik train voor… -- Je m’entraine pour…
+Ik train voor... -- Je m'entraine pour...
 Jij bent goed -- Tu es fort(e)
-Gymnastiek vindt ik leuk -- La gymnastique, j’aime bien
+Gymnastiek vindt ik leuk -- La gymnastique, j'aime bien
 Voetbal jij? -- Tu fais du foot?
-Heb je de overhoring Spaans voorbereid? -- Tu as préparé l’interro d’espagnol?
+Heb je de overhoring Spaans voorbereid? -- Tu as préparé l'interro d'espagnol?
 Die spreekbeurt is voor donderdag -- Cet exposé est pour jeudi
 Bij natuurkunde hebben we sommen gemaakt -- En physique, on a fait des problèmes
 In de Franse les hebben we gediscussieerd -- Pendant le cours de français, on discuté
@@ -60,7 +60,7 @@ op de eerste rij -- au premier rang
 leiden -- mener
 wat gebeurt er -- qu'est-ce qui se passe
 de ellende -- la galère
-ook niet, ook geen -- n… pas non plus
+ook niet, ook geen -- n... pas non plus
 het scherm -- l'écran
 opbellen -- appeler
 in orde komen -- s'arranger
@@ -236,7 +236,7 @@ jullie gaan, u gaat -- vous allez
 zij gaan (m) -- ils vont
 zij gaan (f) -- elles vont
 hebben -- avoir
-ik heb -- j’ai
+ik heb -- j'ai
 jij hebt -- tu as
 hij heeft -- il a
 zij heeft -- elle a
@@ -308,7 +308,7 @@ laat tard
 later -- plus tard
 ging het goed ? -- ça s'est bien passé?
 de zak -- la poche
-nergens -- ne…. nulle part
+nergens -- ne.... nulle part
 begrijpen -- comprendre
 verloren -- perdu
 dat moet -- ça doit
@@ -431,7 +431,7 @@ het zwembad -- la piscine
 gauw, spoedig -- bientôt
 tot gauw -- à bientôt
 doorbrengen -- passer
-het vliegtuig -- l’avion
+het vliegtuig -- l'avion
 jammer genoeg -- malheureusement
 de boot -- le bateau
 meenemen, meebrengen -- apporter
@@ -458,37 +458,37 @@ tamelijk -- assez
 omkeren -- faire demi-tour
 herhalen -- répéter
 doorlopen, doorgaan -- continuer
-tot -- jusqu’à
+tot -- jusqu'à
 moe -- fatigué
 lastig zijn, zeuren -- être casse-pieds
 opzetten (van een tent) -- monter
 opschieten, vooruitgaan -- avancer
 slapen -- dormir
-de ster -- l’étoile
+de ster -- l'étoile
 ; VWO2: Unité 1 Apprendre 4
 Het is drie kilometer naar de camping. -- Le camping es à trois kilomètres.
-Waar is de halte? -- Où est l’arrêt?
+Waar is de halte? -- Où est l'arrêt?
 De bus is net weg. -- Le bus vient de partir.
-Pardon mevrouw, wij zoeken de camping. -- Madame, s’il vous plaît, on cerche le camping.
-Dat is tamelijk ver. -- C’est asset loin.
+Pardon mevrouw, wij zoeken de camping. -- Madame, s'il vous plaît, on cerche le camping.
+Dat is tamelijk ver. -- C'est asset loin.
 Je moet eens naar links. -- Il faut dambord aller à gauche.
 Je moet rechtdoor. -- Il faut aller tout droit.
-Jullie lopen/u loopt door tot het kruispunt. -- Vous continue juspu’aau carrefour.
+Jullie lopen/u loopt door tot het kruispunt. -- Vous continue juspu'aau carrefour.
 U gaat een peetje snel. -- Vous allez unpeu vite.
-Kunt u het alstublieft herhalen? -- Vous pouvez répéter, s’il vous plaît?
+Kunt u het alstublieft herhalen? -- Vous pouvez répéter, s'il vous plaît?
 ; VWO2: Unité 1 Apprendre 2
 de kus -- la côte
 terug -- de retour
 hij schrijft -- il écrit
 lieve, beste/duur -- cher, chère
 de mountainbike -- le VTT
-de middag -- l’après midi
+de middag -- l'après midi
 de reis -- le voyage
-de airconditioning -- l’air conditionné
-dat valt niet mee, dat is niet zo eenvoudig -- ce n’est pas évident
+de airconditioning -- l'air conditionné
+dat valt niet mee, dat is niet zo eenvoudig -- ce n'est pas évident
 midden in de zomer -- en plein été
 de graad -- le degré
-de schaduw -- l’ombre
+de schaduw -- l'ombre
 openen -- ouvrir
 het raam, de ruit -- la vitre
 uitdelen -- distribuer
@@ -496,7 +496,7 @@ de fles -- la bouteille
 net, juist -- juste
 langzamer ruiden -- ralentir
 later -- plus tard
-de stop -- l’arrêt
+de stop -- l'arrêt
 compleet -- complète
 behalve -- sauf
 praten -- discuter
@@ -517,7 +517,7 @@ de (onverharde) weg -- le chemin
 het kruispunt -- le carrefour
 de rotonde  -- le rond-point
 de brug -- le pont
- de kerk -- l’église
+ de kerk -- l'église
 het zwembad -- la piscine
 de wandeling, het tochtje -- la balade
 de bestemming -- la destination
@@ -554,7 +554,7 @@ kort -- court, courte
 aanpassen, proberen -- essayer
 Dat zijn mijn lievelingskleren. -- Ce sont mes vêtements favoris.
 We dragen een sweatshirt. -- Nous portos un sweat.
-Dat is niet mooi. -- Ce n’est pas joli.
+Dat is niet mooi. -- Ce n'est pas joli.
 Ik heb maat 42. -- Je fais du 42.
 Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
 waar -- vrai
@@ -743,13 +743,13 @@ de vrouw -- la femme
 de paskamer -- la cabine
 achterin -- au fond
 ; VWO1: Unité 6 Apprendre 8
-Dat is in de mode. -- C’est à la mode.
+Dat is in de mode. -- C'est à la mode.
 Dat zijn mijn lievelingskleren. -- Ce sont mes vêtements favoris.
 We dragen een sweatshirt. -- Nous portos un sweat.
-Dat is precies mijn stijl. -- C’est exactement mon style.
-Dat is waardeloos. -- C’est nul.
-Wat trek jij morgen aan? -- Qu’est-ce que to vas mettre demain?
-Dat is niet mooi. -- Ce n’est pas joli.
+Dat is precies mijn stijl. -- C'est exactement mon style.
+Dat is waardeloos. -- C'est nul.
+Wat trek jij morgen aan? -- Qu'est-ce que to vas mettre demain?
+Dat is niet mooi. -- Ce n'est pas joli.
 Ik wil die schoenen passen. -- Je voudrais essayer ces chaussures.
 Ik heb maat 42. -- Je fais du 42.
 De trui is splinternieuw. -- Le pull est tout neuf.
@@ -762,7 +762,7 @@ waar -- vrai
 de legging -- le legging
 lenen aan -- trêter à
 geweldig -- formidable
-de man -- l’homme
+de man -- l'homme
 wensen -- désirer
 het model -- le modèle
 daar, daarginds -- là bas
@@ -958,7 +958,7 @@ zo -- si
 mooi -- beau, belle
 besturen, rijden -- conduire
 de tractor -- le tracteur
-nog niet -- ne … pas encore
+nog niet -- ne ... pas encore
 nog -- encore
 mogen, het recht hebben -- avoir le droit
 ; VWO1: Unité 4 Apprendre 4
