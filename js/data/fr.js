@@ -1,6 +1,36 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite1 = `
+; VWO2:  Unité 4 Apprendre 6, klokkijken
+Het is al vijf voor halftien -- Il est déjà neuf heures vingt-cinq
+Het is vijf over negen -- Il est neuf heure cinq
+het is kwart over negen -- Il est neuf heures et quart
+Het is halftien -- Il est neuf heures et demie
+Het is tien over halftien -- Il est dix heures moins vingt
+Het is kwart voor tien -- Il est dix heures moins le quart
+Het is tien voor tien -- Il est dix heures moins dix
+; VWO2:  Unité 4 Apprendre 8, werkwoorden op -re
+Ik wacht op het antwoord -- J’attends la réponse
+Ik hoor een raar geluid -- J’entends un bruit bizarre
+Ik verkoop mijn scooter -- Je vends mon scooter
+Ik heb mijn portemonnee verloren -- J’ai perdu mon porte-monnaie 
+ik verlies -- je perds
+jij verliest -- tu perds
+hij verliest -- il perd
+wij verkopen -- nous vendons
+jullie verkopen -- vous vendez
+zij wachten -- ils attendent
+; VWO2:  Unité 4 Apprendre 9
+Heb je een belangrijke wedstrijd? --  Tu as un match important?
+Doe je aan hardlopen? -- Tu fais de la course à pied?
+Ik train voor… -- Je m’entraine pour…
+Jij bent goed -- Tu es fort(e)
+Gymnastiek vindt ik leuk -- La gymnastique, j’aime bien
+Voetbal jij? -- Tu fais du foot?
+Heb je de overhoring Spaans voorbereid? -- Tu as préparé l’interro d’espagnol?
+Die spreekbeurt is voor donderdag -- Cet exposé est pour jeudi
+Bij natuurkunde hebben we sommen gemaakt -- En physique, on a fait des problèmes
+In de Franse les hebben we gediscussieerd -- Pendant le cours de français, on discuté
 ; VWO2:  Unité 3 Apprendre 7
 de uitnodiging -- l'invitation
 oma -- mamie
