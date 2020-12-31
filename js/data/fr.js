@@ -13,7 +13,7 @@ de aardrijkskunde -- la géo
 op de hoogte -- au courant
 wachten -- attendre
 de natuurkunde -- la physique
-de som -- le qroblème
+de som -- le problème
 praten over, discussiëren -- discuter
 het plan, het project -- le projet
 nieuw -- nouveau, nouvelle
