@@ -1,7 +1,65 @@
 import Assignments from "../lib/assignments.js";
 
-const vwo2unite4 = `
-; VWO2:  Unité 4 Apprendre 10
+const vwo2unite4 =`
+; VWO2: Unité 4 Apprendre 3
+jong ; jeune
+leuk, mooi ; joli
+oud ; vieux
+klein ; petit
+dik ; gros
+eerste ; premier
+groot ; grand
+lang ; long
+nieuw ; nouveau
+goed ; bon
+slecht ; mauvais
+hoog ; haut
+laatste ; dernier
+; VWO2: Unité 4 Apprendre 2
+trainen -- s'entrainer
+zich inschrijven -- s'inscrire
+eindigen -- finir
+verslaan -- battre
+verdedigen -- dêfendre
+de competitie -- la compétition
+het toornooi -- le tournoi
+1 het doel 2 het doelpunt -- le but
+de overwinning -- la victoire
+de aankomst -- l'arrivée
+de supporter -- le supporter
+de tribune -- la tribune
+de ploeg, het team -- l'équipe
+de atleet -- l'athlète
+het hoogspringen -- se saut en hauteur
+; VWO2: Unité 4 Apprendre 2
+de kampioen -- le champion
+combineren -- combiner
+de studie -- les études
+ongeveer -- environ
+de golf -- la vague
+er -- y
+het weerbericht -- la météo
+weten -- savoir
+ingeschreven -- inscrit
+de schriftelijke cursus -- le cours par correspondence
+ik ontvang -- je reçois
+de overhoring -- le contrôle
+het voordeel -- l'avantage
+in plaats van -- au lieu de
+het moment -- l'instant
+erin slagen om -- arriver à
+volgen -- suivre
+zich ontspannen -- se détendre
+drummen -- jouer de la batterie
+buiten, behalve -- an dehors de
+de meeste, het merendeel -- la plupart
+het buitenland -- l'étranger
+ik weet -- je sais
+`;
+
+
+const vwo2unite3 = `
+; VWO2:  Unité 3 Apprendre 10
 bijna -- presque
 te laat -- en retard
 de ploeg, het team -- l'équipe
@@ -20,7 +78,7 @@ nieuw -- nouveau, nouvelle
 zwemmen -- faire de la natation
 betalen -- payer
 sportief -- sportif, sportive
-; VWO2:  Unité 4 Apprendre 6, klokkijken
+; VWO2:  Unité 3 Apprendre 6, klokkijken
 Het is al vijf voor halftien -- Il est déjà neuf heures vingt-cinq
 Het is vijf over negen -- Il est neuf heure cinq
 het is kwart over negen -- Il est neuf heures et quart
@@ -28,7 +86,7 @@ Het is halftien -- Il est neuf heures et demie
 Het is tien over halftien -- Il est dix heures moins vingt
 Het is kwart voor tien -- Il est dix heures moins le quart
 Het is tien voor tien -- Il est dix heures moins dix
-; VWO2:  Unité 4 Apprendre 8, werkwoorden op -re
+; VWO2:  Unité 3 Apprendre 8, werkwoorden op -re
 Ik wacht op het antwoord -- J'attends la réponse
 Ik hoor een raar geluid -- J'entends un bruit bizarre
 Ik verkoop mijn scooter -- Je vends mon scooter
@@ -39,7 +97,7 @@ hij verliest -- il perd
 wij verkopen -- nous vendons
 jullie verkopen -- vous vendez
 zij wachten -- ils attendent
-; VWO2:  Unité 4 Apprendre 9
+; VWO2:  Unité 3 Apprendre 9
 Heb je een belangrijke wedstrijd? --  Tu as un match important?
 Doe je aan hardlopen? -- Tu fais de la course à pied?
 Ik train voor... -- Je m'entraine pour...
@@ -50,7 +108,7 @@ Heb je de overhoring Spaans voorbereid? -- Tu as préparé l'interro d'espagnol?
 Die spreekbeurt is voor donderdag -- Cet exposé est pour jeudi
 Bij natuurkunde hebben we sommen gemaakt -- En physique, on a fait des problèmes
 In de Franse les hebben we gediscussieerd -- Pendant le cours de français, on discuté
-; VWO2:  Unité 4 Apprendre 7
+; VWO2:  Unité 3 Apprendre 7
 de uitnodiging -- l'invitation
 oma -- mamie
 bijwonen -- assister à
@@ -85,7 +143,7 @@ opbellen -- appeler
 in orde komen -- s'arranger
 de strafschop -- la pénalité
 schieten -- tirer
-; VWO2:  Unité 4 Apprendre 4
+; VWO2:  Unité 3 Apprendre 4
 Vanavond is er een rugbywedstrijd. -- Ce noir, il y a un match de rugby.
 Ga je met ons mee? -- Vous allez où pour regarder?
 Oké, ik kom ook -- D'accord, je viens aussi
@@ -95,7 +153,7 @@ Het is al vijf voor halftien. -- Il est défà neuf heures vingt-cinq.
 Hoe laat is het? -- Il est puelle heure?
 Hoe laat begint de wedstrijd? -- Le match commence à quelle heure?
 We zien elkaar om kwart over zes. -- On se ooit à six heures ent quart.
-; VWO2:  Unité 4 Apprendre 1
+; VWO2:  Unité 3 Apprendre 1
 trainen -- s'entraîner
 zich inschirijven -- s'inscriver
 eindigen -- finir
@@ -111,7 +169,7 @@ de tribune -- la tribune
 de ploeg, het team -- l'équipe
 de atleet -- l'athlète
 het hoogspringen -- le saut en hauter
-; VWO2:  Unité 4 Apprendre 2
+; VWO2:  Unité 3 Apprendre 2
 de kampioen -- le champion
 combineren -- combiner
 de studie -- les études
@@ -1549,6 +1607,6 @@ met -- avec
 veel succes -- bonne chance
 `;
 
-const assignments = new Assignments(vwo2unite4 + vwo2unite1 + unite6 + unite5 + unite3 + unite2 + unite1);
+const assignments = new Assignments(vwo2unite4 + vwo2unite3 + vwo2unite1 + unite6 + unite5 + unite3 + unite2 + unite1);
 
 export default assignments;
