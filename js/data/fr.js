@@ -42,7 +42,8 @@ ongelukkig -- malheureux, malheureuse
 verliefd -- amoureux, amoureuse
 jaloers -- jaloux, jalouse
 verlegen -- timide
-trots -- paresseux, paresseuse -- luidfier, fière
+trots -- fier, fière
+lui -- paresseux, paresseuse
 gevoelig -- sensible
 woedend -- furieux, furieuse
 boos -- fâché
