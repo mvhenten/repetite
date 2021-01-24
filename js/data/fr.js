@@ -31,7 +31,7 @@ de tribune -- la tribune
 de ploeg, het team -- l'équipe
 de atleet -- l'athlète
 het hoogspringen -- se saut en hauteur
-; VWO2: Unité 4 Apprendre 2
+; VWO2: Unité 4 Apprendre 1
 de kampioen -- le champion
 combineren -- combiner
 de studie -- les études
