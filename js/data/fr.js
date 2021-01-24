@@ -15,7 +15,8 @@ de vorm -- la forme
 tellen -- compter
 het punt -- le point
 de persoon -- la personne
-het gebied -- l'âme -- de zieligle domaine
+het gebied -- le domaine
+l'âme -- de zielig
 even ... als -- aussi ... que
 nodig hebben -- avoir besoin de
 een hele hoop -- des tas de
