@@ -1,60 +1,29 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite4 =`
-; VWO2: Unité 4 Apprendre 3
-jong ; jeune
-leuk, mooi ; joli
-oud ; vieux
-klein ; petit
-dik ; gros
-eerste ; premier
-groot ; grand
-lang ; long
-nieuw ; nouveau
-goed ; bon
-slecht ; mauvais
-hoog ; haut
-laatste ; dernier
-; VWO2: Unité 4 Apprendre 2
-trainen -- s'entrainer
-zich inschrijven -- s'inscrire
-eindigen -- finir
-verslaan -- battre
-verdedigen -- dêfendre
-de competitie -- la compétition
-het toornooi -- le tournoi
-1 het doel 2 het doelpunt -- le but
-de overwinning -- la victoire
-de aankomst -- l'arrivée
-de supporter -- le supporter
-de tribune -- la tribune
-de ploeg, het team -- l'équipe
-de atleet -- l'athlète
-het hoogspringen -- se saut en hauteur
 ; VWO2: Unité 4 Apprendre 1
-de kampioen -- le champion
-combineren -- combiner
-de studie -- les études
-ongeveer -- environ
-de golf -- la vague
-er -- y
-het weerbericht -- la météo
-weten -- savoir
-ingeschreven -- inscrit
-de schriftelijke cursus -- le cours par correspondence
-ik ontvang -- je reçois
-de overhoring -- le contrôle
-het voordeel -- l'avantage
-in plaats van -- au lieu de
-het moment -- l'instant
-erin slagen om -- arriver à
-volgen -- suivre
-zich ontspannen -- se détendre
-drummen -- jouer de la batterie
-buiten, behalve -- an dehors de
-de meeste, het merendeel -- la plupart
-het buitenland -- l'étranger
-ik weet -- je sais
+la tristesse -- het verdriet
+le bonheur -- het geluk
+la colère -- de woede, de boosheid
+le caractère -- het karakter
+l'amour -- de liefde
+l'amité -- de vriendschap
+la séduction -- de verleiding
+rire -- lachen
+pleurer -- huilen
+consoler -- troosten
+plaire à -- bevallen
+supporter -- verdragen
+gai -- vrolijk
+heureux, heureuse -- gelukkig
+malheureux, malheureuse -- ongelukkig
+amoureux, amoureuse -- verliefd
+jaloux, jalouse -- jaloers
+timide -- verlegen
+paresseux, paresseuse -- luidfier, fière -- trots
+sensible -- gevoelig
+furieux, furieuse -- woedend
+fâché -- boos
 `;
 
 
