@@ -1,29 +1,51 @@
 import Assignments from "../lib/assignments.js";
 
 const vwo2unite4 =`
+; VWO2: Unité 4 Apprendre 2
+het woord -- le mot
+de lijst -- la liste
+overeenkomen met -- correspondre à
+het meeste -- le plus
+de keus -- le choix
+alleen -- seul
+de televisie -- la télévision
+de voorstelling, de shows -- le spectaccle
+de gevoeligheid -- la sensibilité
+de vorm -- la forme
+tellen -- compter
+het punt -- le point
+de persoon -- la personne
+het gebied -- l'âme -- de zieligle domaine
+even ... als -- aussi ... que
+nodig hebben -- avoir besoin de
+een hele hoop -- des tas de
+de vriend -- le pote
+de plek -- l'endroit
+waarderen -- apprécier
+lijken op -- ressembler à
 ; VWO2: Unité 4 Apprendre 1
-la tristesse -- het verdriet
-le bonheur -- het geluk
-la colère -- de woede, de boosheid
-le caractère -- het karakter
-l'amour -- de liefde
-l'amité -- de vriendschap
-la séduction -- de verleiding
-rire -- lachen
-pleurer -- huilen
-consoler -- troosten
-plaire à -- bevallen
-supporter -- verdragen
-gai -- vrolijk
-heureux, heureuse -- gelukkig
-malheureux, malheureuse -- ongelukkig
-amoureux, amoureuse -- verliefd
-jaloux, jalouse -- jaloers
-timide -- verlegen
-paresseux, paresseuse -- luidfier, fière -- trots
-sensible -- gevoelig
-furieux, furieuse -- woedend
-fâché -- boos
+het verdriet -- la tristesse
+het geluk -- le bonheur
+de woede, de boosheid -- la colère
+het karakter -- le caractère
+de liefde -- l'amour
+de vriendschap -- l'amité
+de verleiding -- la séduction
+lachen -- rire
+huilen -- pleurer
+troosten -- consoler
+bevallen -- plaire à
+verdragen -- supporter
+vrolijk -- gai
+gelukkig -- heureux, heureuse
+ongelukkig -- malheureux, malheureuse
+verliefd -- amoureux, amoureuse
+jaloers -- jaloux, jalouse
+verlegen -- timide
+trots -- paresseux, paresseuse -- luidfier, fière
+gevoelig -- sensible
+woedend -- furieux, furieuse
+boos -- fâché
 `;
 
 
